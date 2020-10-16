@@ -2,3 +2,5 @@
 	"Do the most important thing first each day and you'll never have an unproductive day.”
 
 I think that waking up can totally be "the most important" thing.
+
+Tags: [[Success]], [[Productivity]], [[Habits]], [[Morning]]
