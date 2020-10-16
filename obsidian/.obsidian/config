@@ -1,0 +1,63 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "tag-pane": true,
+    "page-preview": true,
+    "daily-notes": true,
+    "templates": false,
+    "zk-prefixer": false,
+    "outline": false,
+    "publish": false,
+    "custom-css": true,
+    "random-note": true
+  },
+  "spellcheck": true,
+  "useMarkdownLinks": false,
+  "hotkeys": {
+    "app:delete-file": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "Backspace"
+      }
+    ],
+    "daily-notes": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "t"
+      }
+    ],
+    "daily-notes:goto-prev": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "y"
+      }
+    ],
+    "daily-notes:goto-next": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "t"
+      }
+    ]
+  },
+  "promptDelete": true,
+  "attachmentFolderPath": "resources",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true
+}
