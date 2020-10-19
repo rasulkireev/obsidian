@@ -3,6 +3,10 @@ Status: #Reading
 
 ## Tags
 - #Books
+- [[Zettelkasten]]
+- [[Writing]]
+- [[Second Brain]]
+- [[Note-taking]]
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 

@@ -1,11 +1,12 @@
-Author: [[Deirdre McCloskey]]
-Notebook:
+Author: [[Gabriel Wyner]]
 Status: #Reading 
 
 ## Tags
 - #Books
-- [[Writing]]
-- [[Economics]]
+[[Language]]
+[[Learning]]
+[[Space Repetition System]]
+[[Memorization]]
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 
@@ -17,8 +18,7 @@ Status: #Reading
 
 
 ## Key Ideas
-
-![[standard is the practice of good people 202010131443]]
+![[to remember something do it yourself 202010171257]] - p.45
 
 ## Questions
 

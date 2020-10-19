@@ -18,3 +18,4 @@
 
 #writingidea 
 
+Tags: [[Zettelkasten]], [[Second Brain]], [[Note-taking]]

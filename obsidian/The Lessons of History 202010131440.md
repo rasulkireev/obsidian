@@ -27,10 +27,11 @@ Status: #Reading
 - Boil down decades of historic research and thousands of written words into a dense 100 page summary of history and the lessons it provides.
 
 ## Key Ideas
-![[civilization makes the people 202010131357]]
-![[human character doesn't change 202010141213]]
+![[civilization makes the people 202010131357]] - p.30
+![[human character doesn't change 202010141213]] - p.34
 
 ## Questions
+- [[What is the ratio of rich to poor in atheist population 202010171402]] - p.43
 
 ## My Top 3 Quotes
 
