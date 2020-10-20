@@ -10,18 +10,19 @@ Status: #Reading
 
 **Structure**
 - There are 12 themes that the authors have selected. Those themes are:
-	1. [[Earth]]
-	2. [[Biology]]
-	3. [[Race]]
-	4. [[Character]]
-	5. [[Morals]]
-	6. [[Religion]]
-	7. [[Economics]]
-	8. [[Socialism]]
-	9. [[Government]]
-	10. [[War]]
-	11. [[Growth and Decay]]
-	12. [[Progress]]
+	1. [[History]]
+	2. [[Earth]]
+	3. [[Biology]]
+	4. [[Race]]
+	5. [[Character]]
+	6. [[Morals]]
+	7. [[Religion]]
+	8. [[Economics]]
+	9. [[Socialism]]
+	10. [[Government]]
+	11. [[War]]
+	12. [[Growth and Decay]]
+	13. [[Progress]]
 
 **Purpose**
 - Boil down decades of historic research and thousands of written words into a dense 100 page summary of history and the lessons it provides.

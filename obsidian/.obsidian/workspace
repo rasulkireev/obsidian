@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ee75a1468eaad935",
+        "id": "40383c0a05903fd9",
         "type": "leaf",
         "active": true,
         "state": {
@@ -86,7 +86,7 @@
               "state": {
                 "options": {
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -113,6 +113,8 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "Intention.md",
+    "The Lessons of History 202010131440.md",
     "How Nat Eliason Grew A Website To 10K Visitors In A Month 202010201611.md",
     "Untitled.md",
     "my zettelkasten tech stack 202010161600.md",
@@ -120,8 +122,6 @@
     "moving between families question 202010120624.md",
     "The strongest predictor of men’s well-being isn’t family or health 202010201546.md",
     "socialization is key to well-being and hapiness 202010201545.md",
-    "The Multiplier 202010191646.md",
-    "keep a list of things you want to learn 202010120712.md",
-    "Voltron effect.md"
+    "The Multiplier 202010191646.md"
   ]
 }
