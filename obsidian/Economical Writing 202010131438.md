@@ -3,7 +3,7 @@ Notebook:
 Status: #Reading 
 
 ## Tags
-- #Books
+- #Book
 - [[Writing]]
 - [[Economics]]
 

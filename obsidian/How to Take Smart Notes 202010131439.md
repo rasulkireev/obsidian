@@ -2,7 +2,7 @@ Author: [[Sönke Ahrens]]
 Status: #Reading 
 
 ## Tags
-- #Books
+- #Book
 - [[Zettelkasten]]
 - [[Writing]]
 - [[Second Brain]]

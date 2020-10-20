@@ -3,7 +3,7 @@ Status: #Dropped
 Rating: 
 
 ## Tags
-- #Books
+- #Book
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 

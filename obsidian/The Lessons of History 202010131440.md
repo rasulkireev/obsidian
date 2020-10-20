@@ -2,7 +2,7 @@ Author: [[Will Durant]] & [[Ariel Durant]]
 Status: #Reading 
 
 ## Tags
-- #Books
+- #Book
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 

@@ -2,7 +2,7 @@ Author: [[Gabriel Wyner]]
 Status: #Reading 
 
 ## Tags
-- #Books
+- #Book
 [[Language]]
 [[Learning]]
 [[Space Repetition System]]

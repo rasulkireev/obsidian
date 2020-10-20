@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "tag:#Articles"
               }
             }
           }
@@ -45,7 +45,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226.51218795776367
   },
   "right": {
     "id": "ab5c65d4e343f11c",
@@ -73,21 +73,55 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "b50a80bddb16943a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79d0bbade39c0caa",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "keep a list of things you want to learn 202010120712.md",
+    "Voltron effect.md",
     "How to Read a Book 202010131541.md",
+    "daily/2020-10-10.md",
+    "The Perfect Morning Routine 202010121309.md",
+    "The Lessons of History 202010131440.md",
+    "Fluent Forever 202010171301.md",
     "How to Take Smart Notes 202010131439.md",
-    "Intention.md",
-    "Untitled.md",
-    "my zettelkasten tech stack 202010161600.md",
-    "Untitled 1.md",
-    "civilization makes the people 202010131357.md",
-    "Untitled 2.md",
-    "Show Your Work 202010191719.md",
-    "Economical Writing 202010131438.md"
+    "Traction 202010160218.md",
+    "be intentional with your life 202010161552.md"
   ]
 }

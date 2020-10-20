@@ -7,3 +7,4 @@
 #writingidea 
 Keep a list of things to learn. I think my set up is good, but make sure you do you and be intentional about it.
 
+Tags: [[Learning]]

@@ -1,9 +1,10 @@
 Author: [[Mortimer Adler]]
 Notebook:
-Status:
+Status: #Reading 
 
 ## Tags
-- #Books
+- #Book
+- [[Reading]]
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 
