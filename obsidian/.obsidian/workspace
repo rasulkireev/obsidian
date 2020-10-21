@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "my zettelkasten tech stack 202010161600.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "my zettelkasten tech stack 202010161600.md"
+              }
             }
           },
           {
@@ -84,6 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "my zettelkasten tech stack 202010161600.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -113,12 +119,12 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "my zettelkasten tech stack 202010161600.md",
     "Socialism.md",
     "Intention.md",
     "The Lessons of History 202010131440.md",
     "How Nat Eliason Grew A Website To 10K Visitors In A Month 202010201611.md",
     "Untitled.md",
-    "my zettelkasten tech stack 202010161600.md",
     "Traction 202010160218.md",
     "moving between families question 202010120624.md",
     "The strongest predictor of men’s well-being isn’t family or health 202010201546.md",
