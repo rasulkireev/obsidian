@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "40383c0a05903fd9",
+        "id": "ffa61cba62aaa032",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "my zettelkasten tech stack 202010161600.md",
+            "file": "internal clock changes with age 202010120644.md",
             "mode": "source"
           }
         }
@@ -40,11 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "health"
+                "query": "tag:#writingidea"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -64,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my zettelkasten tech stack 202010161600.md"
+                "file": "internal clock changes with age 202010120644.md"
               }
             }
           },
@@ -89,14 +90,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "my zettelkasten tech stack 202010161600.md",
+                "file": "internal clock changes with age 202010120644.md",
                 "options": {
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
-                  "showTags": false,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "showArrow": false,
@@ -119,6 +120,7 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "internal clock changes with age 202010120644.md",
     "my zettelkasten tech stack 202010161600.md",
     "Socialism.md",
     "Intention.md",
@@ -127,7 +129,6 @@
     "Untitled.md",
     "Traction 202010160218.md",
     "moving between families question 202010120624.md",
-    "The strongest predictor of men’s well-being isn’t family or health 202010201546.md",
-    "socialization is key to well-being and hapiness 202010201545.md"
+    "The strongest predictor of men’s well-being isn’t family or health 202010201546.md"
   ]
 }
