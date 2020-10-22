@@ -4,6 +4,8 @@ Rating:
 
 ## Tags
 - #Book
+- [[Business]]
+- [[Entrepreneurship]]
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 
