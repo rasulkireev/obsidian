@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "human character doesn't change 202010141213.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -45,7 +48,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.51218795776367
+    "width": 226.51218795776367,
+    "collapsed": true
   },
   "right": {
     "id": "ab5c65d4e343f11c",
@@ -60,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "human character doesn't change 202010141213.md"
+              }
             }
           },
           {
@@ -84,6 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "human character doesn't change 202010141213.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -113,6 +120,7 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "human character doesn't change 202010141213.md",
     "Voltron effect.md",
     "Untitled.md",
     "Authority 202010231942.md",
@@ -121,7 +129,6 @@
     "The Multiplier 202010191646.md",
     "How Nat Eliason Grew A Website To 10K Visitors In A Month 202010201611.md",
     "Traction 202010160218.md",
-    "The Lessons of History 202010131440.md",
-    "The E-Myth Revisited 202010161551.md"
+    "The Lessons of History 202010131440.md"
   ]
 }
