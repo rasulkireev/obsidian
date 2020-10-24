@@ -4,4 +4,4 @@
 
 There are many studies that show, that humans are very socially oriented animals.  It makes sense, from any stand point. In groups you have a much higher survival rate, in ancient terms, and in modern terms, you are likely to get bored alone. **So, being connected with other humans is crucial for people.** Furthermore, it needs to be made a whole separate goal: "Make more friends", that would need to be revisited on a regular basis.
 
-Tags: [[Happiness]], [[Life]], [[Friendships]], [[Socialization]], [[Sport]], [[Competition]], [[Community]]
+Tags: [[Happiness]], [[Life]], [[Friendships]], [[Socialization]], [[Sport]], [[Competition]], [[Community]], [[Relationships]]
