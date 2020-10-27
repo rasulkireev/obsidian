@@ -1,3 +1,3 @@
 Both Marketing (e.g. Content Writing) and Programming (e.g. Web Development) are skills that can be used in many industries. That makes them a great skill to pick up for future career prospects. Also, it seems that people who like programming probably won't enjoy marketing, and vice versa. Hence, the choice between one or the other is easy.
 
-Tags: [[Careers]], [[Skills]], [[Marketing]], [[Programming]]
+Tags: [[Career]], [[Skills]], [[Marketing]], [[Programming]]
