@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a66b56d40673b496",
+        "id": "60f193149cb77a65",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Second Brain.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Article"
+                "query": "tag:#Tag"
               }
             }
           }
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Second Brain.md"
-              }
+              "state": {}
             }
           },
           {
@@ -89,10 +84,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Second Brain.md",
                 "options": {
-                  "search": "Writing",
-                  "localJumps": 2,
+                  "search": "",
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -119,15 +113,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
-    "Second Brain.md",
-    "How to Take Smart Notes 202010131439.md",
-    "Zettelkasten.md",
-    "Writing.md",
-    "Authority 202010231942.md",
-    "daily/2020-10-27.md",
-    "The Lessons of History 202010131440.md",
-    "History.md",
-    "Economical Writing 202010131438.md",
-    "obsidian.css.md"
+    "civilization makes the people 202010131357.md",
+    "Kindle.md",
+    "Jetlag.md",
+    "Family.md",
+    "Compromise.md",
+    "Psychology.md",
+    "Discipline.md",
+    "Self-Discipline.md",
+    "Networking.md",
+    "Communication.md"
   ]
 }
