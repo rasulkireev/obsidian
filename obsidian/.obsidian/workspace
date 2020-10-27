@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "60f193149cb77a65",
+        "id": "77923b5b0a7417e2",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -113,6 +113,7 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "team up with an equal if you can 202010191645.md",
     "civilization makes the people 202010131357.md",
     "Kindle.md",
     "Jetlag.md",
@@ -121,7 +122,6 @@
     "Psychology.md",
     "Discipline.md",
     "Self-Discipline.md",
-    "Networking.md",
-    "Communication.md"
+    "Networking.md"
   ]
 }
