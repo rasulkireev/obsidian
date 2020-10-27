@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c10079ebce50d23a",
+        "id": "a66b56d40673b496",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The strongest predictor of men’s well-being isn’t family or health 202010201546.md",
+            "file": "Second Brain.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The strongest predictor of men’s well-being isn’t family or health 202010201546.md"
+                "file": "Second Brain.md"
               }
             }
           },
@@ -89,9 +89,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The strongest predictor of men’s well-being isn’t family or health 202010201546.md",
+                "file": "Second Brain.md",
                 "options": {
-                  "search": "",
+                  "search": "Writing",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -107,7 +107,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.2001653016098777
+                  "scale": 0.6390508965523813
                 }
               }
             }
@@ -119,15 +119,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
-    "The strongest predictor of men’s well-being isn’t family or health 202010201546.md",
-    "How to Win Friends and Influence People 202010270304.md",
-    "Untitled.md",
-    "to find and develop your voice - use it 202010191721.md",
-    "extraordinary work in everyday life 202010270258.md",
-    "Keep Going 202010270257.md",
-    "socialization is key to well-being and hapiness 202010201545.md",
+    "Second Brain.md",
+    "How to Take Smart Notes 202010131439.md",
+    "Zettelkasten.md",
+    "Writing.md",
     "Authority 202010231942.md",
-    "praise people often 202010160218.md",
-    "human character doesn't change 202010141213.md"
+    "daily/2020-10-27.md",
+    "The Lessons of History 202010131440.md",
+    "History.md",
+    "Economical Writing 202010131438.md",
+    "obsidian.css.md"
   ]
 }
