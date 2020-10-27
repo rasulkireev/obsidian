@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "77923b5b0a7417e2",
+        "id": "bf5a25cd7207f3d1",
         "type": "leaf",
         "active": true,
         "state": {
@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,15 +114,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
-    "team up with an equal if you can 202010191645.md",
-    "civilization makes the people 202010131357.md",
-    "Kindle.md",
-    "Jetlag.md",
-    "Family.md",
-    "Compromise.md",
-    "Psychology.md",
-    "Discipline.md",
-    "Self-Discipline.md",
-    "Networking.md"
+    "Untitled.md",
+    "Identity.md",
+    "Personality.md",
+    "internal clock changes with age 202010120644.md",
+    "Relationships.md",
+    "Self-Education - Teach Yourself Anything with the Sandbox Method 202010271540.md",
+    "Practice.md",
+    "Feedback.md",
+    "coach will help you overcome a plateau 202010271539.md",
+    "Sandbox.md"
   ]
 }
