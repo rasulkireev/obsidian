@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "extraordinary work in everyday life 202010270258.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "extraordinary work in everyday life 202010270258.md"
+              }
             }
           },
           {
@@ -84,6 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "extraordinary work in everyday life 202010270258.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -113,10 +119,10 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "socialization is key to well-being and hapiness 202010201545.md",
     "Authority 202010231942.md",
     "praise people often 202010160218.md",
-    "Untitled.md",
     "human character doesn't change 202010141213.md",
     "Voltron effect.md",
     "you don't have to be an expert to teach 202010231943.md",
