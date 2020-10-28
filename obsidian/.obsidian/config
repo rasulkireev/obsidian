@@ -60,5 +60,9 @@
   "attachmentFolderPath": "resources",
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "enabledPlugins": []
+  "enabledPlugins": [],
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "vimMode": true
 }
