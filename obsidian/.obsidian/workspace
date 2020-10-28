@@ -6,10 +6,24 @@
       {
         "id": "77756554ccc0ed40",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "don't ask for anything in your first communication 202010201610.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8250b9a880df666e",
+        "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Traction 202010160218.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -61,7 +75,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Traction 202010160218.md"
+              }
             }
           },
           {
@@ -85,24 +101,25 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Traction 202010160218.md",
                 "options": {
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
-                  "showTags": true,
+                  "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -2.3,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "centerStrength": 0.197073884418435,
+                  "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6390508965523813
+                  "scale": 0.5977426625740615
                 }
               }
             }
@@ -114,15 +131,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "Traction 202010160218.md",
+    "awesome customer service is key to happy customers and great business 202010201605.md",
+    "don't ask for anything in your first communication 202010201610.md",
+    "How Nat Eliason Grew A Website To 10K Visitors In A Month 202010201611.md",
     "Self-Education - Teach Yourself Anything with the Sandbox Method 202010271540.md",
     "Untitled.md",
     "Untitled 1.md",
     "generalists will make a comeback.md",
     "Untitled 2.md",
-    "awesome customer service is key to happy customers and great business 202010201605.md",
-    "Index.md",
-    "choose marketing or programming for your career 202010191657.md",
-    "Careers.md",
-    "Identity.md"
+    "Index.md"
   ]
 }
