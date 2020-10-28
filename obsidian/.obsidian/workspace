@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bf5a25cd7207f3d1",
+        "id": "f081bdbb00e806b6",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "awesome customer service is key to happy customers and great business 202010201605.md",
+            "file": "Davincism - A Modern Philosophy For People With Various Interest 202010281258.md",
             "mode": "source"
           }
         }
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "awesome customer service is key to happy customers and great business 202010201605.md"
+                "file": "Davincism - A Modern Philosophy For People With Various Interest 202010281258.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "awesome customer service is key to happy customers and great business 202010201605.md",
+                "file": "Davincism - A Modern Philosophy For People With Various Interest 202010281258.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -120,15 +120,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Untitled 1.md",
     "awesome customer service is key to happy customers and great business 202010201605.md",
     "Index.md",
     "choose marketing or programming for your career 202010191657.md",
     "Careers.md",
-    "Untitled 1.md",
     "Untitled.md",
     "Identity.md",
     "Personality.md",
-    "internal clock changes with age 202010120644.md",
-    "Relationships.md"
+    "internal clock changes with age 202010120644.md"
   ]
 }
