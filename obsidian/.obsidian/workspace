@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "awesome customer service is key to happy customers and great business 202010201605.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tag"
+                "query": "20201020"
               }
             }
           }
@@ -61,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "awesome customer service is key to happy customers and great business 202010201605.md"
+              }
             }
           },
           {
@@ -85,6 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "awesome customer service is key to happy customers and great business 202010201605.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -114,6 +120,7 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "awesome customer service is key to happy customers and great business 202010201605.md",
     "Index.md",
     "choose marketing or programming for your career 202010191657.md",
     "Careers.md",
@@ -122,7 +129,6 @@
     "Identity.md",
     "Personality.md",
     "internal clock changes with age 202010120644.md",
-    "Relationships.md",
-    "Self-Education - Teach Yourself Anything with the Sandbox Method 202010271540.md"
+    "Relationships.md"
   ]
 }
