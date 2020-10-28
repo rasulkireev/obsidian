@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f081bdbb00e806b6",
+        "id": "959b5e0dd75cfc93",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Davincism - A Modern Philosophy For People With Various Interest 202010281258.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,16 +37,16 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20201020"
+                "query": "skill"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 226.51218795776367
+    "width": 226.51218795776367,
+    "collapsed": true
   },
   "right": {
     "id": "ab5c65d4e343f11c",
@@ -64,9 +61,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Davincism - A Modern Philosophy For People With Various Interest 202010281258.md"
-              }
+              "state": {}
             }
           },
           {
@@ -90,7 +85,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Davincism - A Modern Philosophy For People With Various Interest 202010281258.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -120,6 +114,7 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "generalists will make a comeback.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "awesome customer service is key to happy customers and great business 202010201605.md",
@@ -128,7 +123,6 @@
     "Careers.md",
     "Untitled.md",
     "Identity.md",
-    "Personality.md",
-    "internal clock changes with age 202010120644.md"
+    "Personality.md"
   ]
 }
