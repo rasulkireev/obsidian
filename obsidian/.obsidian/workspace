@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "77756554ccc0ed40",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "don't ask for anything in your first communication 202010201610.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "8250b9a880df666e",
+        "id": "601aecc1136313a2",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Traction 202010160218.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -75,9 +61,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Traction 202010160218.md"
-              }
+              "state": {}
             }
           },
           {
@@ -101,7 +85,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Traction 202010160218.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -131,15 +114,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "you don't have to be an expert to teach 202010231943.md",
+    "don't ask for anything in your first communication 202010201610.md",
     "Traction 202010160218.md",
     "awesome customer service is key to happy customers and great business 202010201605.md",
-    "don't ask for anything in your first communication 202010201610.md",
     "How Nat Eliason Grew A Website To 10K Visitors In A Month 202010201611.md",
     "Self-Education - Teach Yourself Anything with the Sandbox Method 202010271540.md",
     "Untitled.md",
     "Untitled 1.md",
     "generalists will make a comeback.md",
-    "Untitled 2.md",
-    "Index.md"
+    "Untitled 2.md"
   ]
 }
