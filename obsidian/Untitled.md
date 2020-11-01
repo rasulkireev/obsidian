@@ -1,7 +1,5 @@
-[[The 4-Hour Workweek 202011011328]]
+> Picasso's famous quote, when someone protested that his scribble took "just a few seconds". He said: "No, it took me my whole life".
 
-> Who are the 20% of people who produce 80% of your enjoyment and propel you forward, and which 20% cause 80% of your depression, anger, and second-guessing?
+To often it may seem that some people have it to easy. Sometimes it may seem that they are gifted and can simply do the cool things. The truth is that, most likely that it took this person ages to master that little thing that seems so easy.  Skills take a lifetime to master.
 
-To me this is yet another question that one should ask to [[live life with intention 202010160226]]. You should regularly question your life, or rather various parts of your life. Are you 
-
-Tags: [[Pareto Principle]]
+Tags: [[Skills]],

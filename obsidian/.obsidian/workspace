@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "488d9774448601a4",
+        "id": "40c19e246c7a4c08",
         "type": "leaf",
         "active": true,
         "state": {
@@ -108,7 +108,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5977426625740615
+                  "scale": 0.7521410647410778
                 }
               }
             }
@@ -121,14 +121,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
+    "Life.md",
+    "The 4-Hour Workweek 202011011328.md",
+    "Optimization.md",
+    "Efficiancy.md",
+    "Entrepreneurship.md",
+    "Business.md",
+    "do you have good people around you 202011011332.md",
     "Communication.md",
-    "Cooperation.md",
-    "Competition.md",
-    "cooperation is better than the alternative 202010291613.md",
-    "Mental Models.md",
-    "Seeking Wisdom - From Darwin to Munger 202010291612.md",
-    "trust can vanish in a moment 202010291617.md",
-    "you don't have to be an expert to teach 202010231943.md",
-    "don't ask for anything in your first communication 202010201610.md"
+    "Cooperation.md"
   ]
 }
