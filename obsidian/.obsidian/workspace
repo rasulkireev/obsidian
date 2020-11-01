@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "40c19e246c7a4c08",
+        "id": "c548535d967004bd",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -64,9 +61,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -90,7 +85,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -120,6 +114,8 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "it takes a lifetime to develop a skill 202011012300.md",
+    "I made $210,822 selling a pdf and a video on the internet 202011012300.md",
     "Untitled.md",
     "Life.md",
     "The 4-Hour Workweek 202011011328.md",
@@ -127,8 +123,6 @@
     "Efficiancy.md",
     "Entrepreneurship.md",
     "Business.md",
-    "do you have good people around you 202011011332.md",
-    "Communication.md",
-    "Cooperation.md"
+    "do you have good people around you 202011011332.md"
   ]
 }
