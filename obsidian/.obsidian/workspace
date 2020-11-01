@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -61,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -85,6 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,6 +120,7 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Communication.md",
     "Cooperation.md",
     "Competition.md",
@@ -121,7 +128,6 @@
     "Mental Models.md",
     "Seeking Wisdom - From Darwin to Munger 202010291612.md",
     "trust can vanish in a moment 202010291617.md",
-    "Untitled.md",
     "you don't have to be an expert to teach 202010231943.md",
     "don't ask for anything in your first communication 202010201610.md"
   ]
