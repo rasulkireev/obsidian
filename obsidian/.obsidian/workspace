@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "kids don't care abou.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -64,9 +61,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "kids don't care abou.md"
-              }
+              "state": {}
             }
           },
           {
@@ -90,7 +85,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "kids don't care abou.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
