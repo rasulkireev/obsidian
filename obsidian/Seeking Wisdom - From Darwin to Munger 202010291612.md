@@ -4,7 +4,7 @@ Status: #Reading
 ## Tags
 - #Book
 - [[Mental Models]]
-- 
+- [[Psychology]]
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 

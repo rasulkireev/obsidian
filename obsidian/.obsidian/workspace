@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "466af8366d04e031",
+        "id": "6788d209ff264426",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "we need to be subjected to a certain amount of stress 202011062328.md",
             "mode": "source"
           }
         }
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md"
+                "file": "we need to be subjected to a certain amount of stress 202011062328.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "we need to be subjected to a certain amount of stress 202011062328.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -108,7 +108,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7521410647410778
+                  "scale": 0.8047256488657929
                 }
               }
             }
@@ -120,15 +120,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "we need to be subjected to a certain amount of stressed 202011062328.md",
+    "daily/2020-11-06.md",
     "Untitled.md",
-    "humans are deeply social animals 202011031543.md",
-    "Decision Making.md",
-    "Community.md",
-    "Social Networks.md",
-    "Socialization.md",
-    "kids don't care abou.md",
-    "it takes a lifetime to develop a skill 202011012300.md",
-    "I made $210,822 selling a pdf and a video on the internet 202011012300.md",
-    "Life.md"
+    "Atomic Habits 202010131439.md",
+    "people will pay only if they get more value 202011062319.md",
+    "Value.md",
+    "Pricing.md",
+    "Seeking Wisdom - From Darwin to Munger 202010291612.md",
+    "Intention.md",
+    "Seeking Wisdom - From Darwin to Munger 202011062308.md"
   ]
 }
