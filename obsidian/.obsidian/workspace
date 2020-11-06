@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6788d209ff264426",
+        "id": "df95819de154f7ed",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "we need to be subjected to a certain amount of stress 202011062328.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -64,9 +61,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "we need to be subjected to a certain amount of stress 202011062328.md"
-              }
+              "state": {}
             }
           },
           {
@@ -90,10 +85,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "we need to be subjected to a certain amount of stress 202011062328.md",
                 "options": {
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -108,7 +102,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8047256488657929
+                  "scale": 0.2747932162700338
                 }
               }
             }
@@ -120,15 +114,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
-    "we need to be subjected to a certain amount of stressed 202011062328.md",
-    "daily/2020-11-06.md",
-    "Untitled.md",
-    "Atomic Habits 202010131439.md",
-    "people will pay only if they get more value 202011062319.md",
-    "Value.md",
-    "Pricing.md",
-    "Seeking Wisdom - From Darwin to Munger 202010291612.md",
-    "Intention.md",
-    "Seeking Wisdom - From Darwin to Munger 202011062308.md"
+    "Skills.md",
+    "generalists will make a comeback 202010281307.md",
+    "Specialization.md",
+    "Generalism.md",
+    "Davincism - A Modern Philosophy For People With Various Interest 202010281258.md",
+    "Davincism.md",
+    "Philosophy.md",
+    "Antifragile 202011062325.md",
+    "Growth and Decay.md",
+    "Authority 202010231942.md"
   ]
 }

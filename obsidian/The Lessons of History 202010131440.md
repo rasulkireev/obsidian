@@ -21,7 +21,7 @@ Status: #Reading
 	9. [[Socialism]]
 	10. [[Government]]
 	11. [[War]]
-	12. [[Growth and Decay]]
+	12. [[Growth]] and [[Decay]]
 	13. [[Progress]]
 
 **Purpose**
