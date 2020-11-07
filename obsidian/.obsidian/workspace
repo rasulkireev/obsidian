@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df95819de154f7ed",
+        "id": "613fc6be5d2dc36a",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -87,7 +87,7 @@
               "state": {
                 "options": {
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -114,6 +114,8 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "standard is the practice of good people 202010131443.md",
+    "The Perfect Morning Routine 202010121309.md",
     "Skills.md",
     "generalists will make a comeback 202010281307.md",
     "Specialization.md",
@@ -121,8 +123,6 @@
     "Davincism - A Modern Philosophy For People With Various Interest 202010281258.md",
     "Davincism.md",
     "Philosophy.md",
-    "Antifragile 202011062325.md",
-    "Growth and Decay.md",
-    "Authority 202010231942.md"
+    "Antifragile 202011062325.md"
   ]
 }
