@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "skill"
+                "query": "tag:#Tag"
               }
             }
           }
