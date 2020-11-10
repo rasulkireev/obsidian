@@ -10,3 +10,5 @@
 When you can make partners with someone your level of skill, knowledge and enthusiasm, it makes sense to do it, because together you can make 10x more than each one could do alone. It's awesome if people have slightly different expertise, complementing each other.
 
 Tags: [[Partnership]]
+
+Question: Does it tell you to simply join forces, or only join forces with an equal. If it is someone smarter, more skillful, more enthusiastic, etc., does it still make sense?

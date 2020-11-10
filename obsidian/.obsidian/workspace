@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "04a653949e42d1db",
+        "id": "f60f7c4275a2cbef",
         "type": "leaf",
         "active": true,
         "state": {
@@ -72,8 +72,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b50a80bddb16943a",
@@ -102,7 +101,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2747932162700338
+                  "scale": 0.3931454792094909
                 }
               }
             }
@@ -114,15 +113,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "Memory.md",
+    "to remember something do it yourself 202010171257.md",
+    "team up with an equal if you can 202010191645.md",
+    "Growth.md",
+    "Business.md",
     "daily/2020-10-12.md",
     "standard is the practice of good people 202010131443.md",
     "The Perfect Morning Routine 202010121309.md",
     "Skills.md",
-    "generalists will make a comeback 202010281307.md",
-    "Specialization.md",
-    "Generalism.md",
-    "Davincism - A Modern Philosophy For People With Various Interest 202010281258.md",
-    "Davincism.md",
-    "Philosophy.md"
+    "generalists will make a comeback 202010281307.md"
   ]
 }
