@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -61,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -84,6 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -113,15 +119,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "Getting to Yes.md",
+    "Socrates.md",
+    "Socratic Method.md",
     "Simplicity.md",
     "Taking Action.md",
     "the simpler the better - copmlications lead to unanticipated events 202011102348.md",
     "Antifragile 202011062325.md",
-    "Untitled.md",
     "Principles - Life and Work 202011102343.md",
-    "take actions based on your beliefs and not the fears of what people might say 202011102344.md",
-    "Ray Dalio.md",
-    "Voltron effect.md",
-    "2020-10-12.md"
+    "take actions based on your beliefs and not the fears of what people might say 202011102344.md"
   ]
 }
