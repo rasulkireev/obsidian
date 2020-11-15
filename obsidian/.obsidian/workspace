@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "287468cce3ee710e",
+        "id": "96ad90a14a2b680e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "planes will replace ships 202011160128.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,11 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tag"
+                "query": ""
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -61,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "planes will replace ships 202011160128.md"
+              }
             }
           },
           {
@@ -84,6 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "planes will replace ships 202011160128.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -113,15 +120,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
-    "in an argument get the opponent to agree 202011160041.md",
-    "whenever you expect something to happen take a moment to prepare 202011160042.md",
-    "Expectations.md",
-    "Preparation.md",
+    "planes will replace ships 202011160128.md",
+    "Planes.md",
     "Untitled.md",
-    "Argument.md",
-    "Arguing.md",
-    "Discussion.md",
-    "Getting to Yes.md",
-    "Socrates.md"
+    "we imitate the close, the many and the powerful 202011160124.md",
+    "Atomic Habits 202010131439.md",
+    "it is hard to go against the nature 202011160118.md",
+    "fear is a relic of the past 202011160111.md",
+    "Evolution.md",
+    "Seeking Wisdom - From Darwin to Munger 202010291612.md",
+    "A Guide To The Good Life 202011160112.md"
   ]
 }
