@@ -30,6 +30,8 @@ Status: #Reading
 ## Key Ideas
 ![[civilization makes the people 202010131357]] - p.30
 ![[human character doesn't change 202010141213]] - p.34
+![[aviation will bring the next evolution 202011160128]] - p.16
+![[Aviation development will cause a huge change in the geopolitical scene in the world 202011160136]] - p.16
 
 ## Questions
 - [[What is the ratio of rich to poor in atheist population 202010171402]] - p.43
@@ -39,3 +41,6 @@ Status: #Reading
 ## How the Book Changed Me
 
 ## Who Should Read it? 
+
+## Thoughts
+- When reading this book it is importnant to always keep in mind when it was written. It can sometimes be easy to think that it was not so long ago that it was written, just because the authors are so far ahead for their time (in their thinking).
