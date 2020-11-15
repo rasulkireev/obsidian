@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "61e27455d51e246c",
+        "id": "287468cce3ee710e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -64,9 +61,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -89,7 +84,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -119,15 +113,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "in an argument get the opponent to agree 202011160041.md",
+    "whenever you expect something to happen take a moment to prepare 202011160042.md",
+    "Expectations.md",
+    "Preparation.md",
     "Untitled.md",
+    "Argument.md",
+    "Arguing.md",
+    "Discussion.md",
     "Getting to Yes.md",
-    "Socrates.md",
-    "Socratic Method.md",
-    "Simplicity.md",
-    "Taking Action.md",
-    "the simpler the better - copmlications lead to unanticipated events 202011102348.md",
-    "Antifragile 202011062325.md",
-    "Principles - Life and Work 202011102343.md",
-    "take actions based on your beliefs and not the fears of what people might say 202011102344.md"
+    "Socrates.md"
   ]
 }
