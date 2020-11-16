@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "418b09914b1c6fbc",
+        "id": "ebca9d13290ae2a9",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -113,6 +113,7 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "trust can vanish in a moment 202010291617.md",
     "Decision Making.md",
     "dopamine is released upon experiencing pleasure and in anticipating it 202011161130.md",
     "Atomic Habits 202010131439.md",
@@ -121,7 +122,6 @@
     "Dopamine.md",
     "Pleasure.md",
     "reasses the connection between your tasks and goals 202011161125.md",
-    "Principles - Life and Work 202011102343.md",
-    "Asking Questions.md"
+    "Principles - Life and Work 202011102343.md"
   ]
 }

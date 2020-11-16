@@ -4,6 +4,4 @@
 
 It takes forever to build trust, but only takes one action to lose it. Think well, before you take an action that can ruins years of work.
 
-
-
 Tags: [[Trust]]
