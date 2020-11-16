@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "735eb31af5767826",
+        "id": "16d423087dbcee2b",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -61,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -84,6 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -101,7 +107,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4930272295335215
+                  "scale": 0.23924424173115308
                 }
               }
             }
@@ -113,15 +119,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
-    "daily/2020-10-10.md",
-    "my zettelkasten tech stack 202010161600.md",
-    "Trade.md",
-    "Politics.md",
-    "2020-10-12.md",
-    "Geopolitics.md",
-    "Nature.md",
-    "Aviation development will cause a huge change in the geopolitical scene in the world 202011160136.md",
-    "aviation will bring the next evolution 202011160128.md",
-    "Prisoners of Geography - Ten Maps That Explain Everything About the World 202011160138.md"
+    "Untitled.md",
+    "Brain.md",
+    "Dopamine.md",
+    "Pleasure.md",
+    "reasses the connection between your tasks and goals 202011161125.md",
+    "Principles - Life and Work 202011102343.md",
+    "Asking Questions.md",
+    "Traction 202010160218.md",
+    "infographics are more spreadable 202011161122.md",
+    "Infographics.md"
   ]
 }

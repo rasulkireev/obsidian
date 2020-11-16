@@ -3,6 +3,10 @@ Status: #Read
 
 ## Tags
 - #Book
+- [[Business]]
+- [[Work]]
+- [[Life]]
+- [[Psychology]]
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 
@@ -15,6 +19,7 @@ Status: #Read
 
 ## Key Ideas
 ![[dont let fears of what others think of you stand in your way 202011102344]]
+![[reasses the connection between your tasks and goals 202011161125]]
 
 ## Questions
 
