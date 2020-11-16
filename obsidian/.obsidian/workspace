@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "16d423087dbcee2b",
+        "id": "7902e448fea40f60",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -64,9 +61,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -89,7 +84,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -119,6 +113,8 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "dopamine is released upon experiencing pleasure and in anticipating it 202011161130.md",
+    "Atomic Habits 202010131439.md",
     "Untitled.md",
     "Brain.md",
     "Dopamine.md",
@@ -126,8 +122,6 @@
     "reasses the connection between your tasks and goals 202011161125.md",
     "Principles - Life and Work 202011102343.md",
     "Asking Questions.md",
-    "Traction 202010160218.md",
-    "infographics are more spreadable 202011161122.md",
-    "Infographics.md"
+    "Traction 202010160218.md"
   ]
 }
