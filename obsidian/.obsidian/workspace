@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7902e448fea40f60",
+        "id": "418b09914b1c6fbc",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -101,7 +101,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.23924424173115308
+                  "scale": 0.829573151807962
                 }
               }
             }
@@ -113,6 +113,7 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "Decision Making.md",
     "dopamine is released upon experiencing pleasure and in anticipating it 202011161130.md",
     "Atomic Habits 202010131439.md",
     "Untitled.md",
@@ -121,7 +122,6 @@
     "Pleasure.md",
     "reasses the connection between your tasks and goals 202011161125.md",
     "Principles - Life and Work 202011102343.md",
-    "Asking Questions.md",
-    "Traction 202010160218.md"
+    "Asking Questions.md"
   ]
 }
