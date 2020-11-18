@@ -3,6 +3,8 @@ Status: #Read
 
 ## Tags
 - #Book
+- [[Philosophy]]
+- [[Stoicism]]
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 
@@ -15,6 +17,7 @@ Status: #Read
 
 ## Key Ideas
 ![[fear is a relic of the past 202011160111]]
+![[we should generally internalize out goals 202011181441]]
 
 ## Questions
 
