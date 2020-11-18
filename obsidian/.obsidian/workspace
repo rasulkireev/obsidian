@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a375dfec3b5242d7",
+        "id": "49dad8a7776213f4",
         "type": "leaf",
         "active": true,
         "state": {
@@ -37,11 +37,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "lincoln"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,15 +114,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
-    "to live up to your potential be unbiased towards yourself 202011182145.md",
-    "finding someone who will provide you with feedback will greatly increase your ability to learn that thing 202011182149.md",
-    "Advanced Beginner.md",
-    "Dreyfus.md",
-    "things that matter in life are not easy 202011182147.md",
-    "Good things in Life.md",
-    "Working Hard.md",
-    "Being Objective.md",
-    "Potential.md",
-    "Principles - Life and Work 202011102343.md"
+    "Life.md",
+    "trust can vanish in a moment 202010291617.md",
+    "being consice is often more challenging than being verbose 202011182204.md",
+    "Storytelling with Data - A Data Visualization Guide for Business Professionals 202011182203.md",
+    "Editing.md",
+    "being consice is often more challenging tjan being verbose 202011182204.md",
+    "Storytelling.md",
+    "Data Visualization.md",
+    "Data.md",
+    "Cole Nussbaumer Knaflic.md"
   ]
 }
