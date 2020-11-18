@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ebca9d13290ae2a9",
+        "id": "8b78247cde2aa876",
         "type": "leaf",
         "active": true,
         "state": {
@@ -85,7 +85,7 @@
               "type": "localgraph",
               "state": {
                 "options": {
-                  "search": "",
+                  "search": "-#Book",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -101,7 +101,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.829573151807962
+                  "scale": 0.5662854709977296
                 }
               }
             }
@@ -113,6 +113,8 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "don't make it hard for your self-discipline 202010191631.md",
+    "Discipline.md",
     "trust can vanish in a moment 202010291617.md",
     "Decision Making.md",
     "dopamine is released upon experiencing pleasure and in anticipating it 202011161130.md",
@@ -120,8 +122,6 @@
     "Untitled.md",
     "Brain.md",
     "Dopamine.md",
-    "Pleasure.md",
-    "reasses the connection between your tasks and goals 202011161125.md",
-    "Principles - Life and Work 202011102343.md"
+    "Pleasure.md"
   ]
 }
