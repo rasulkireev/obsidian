@@ -10,6 +10,6 @@
 > - What specifically would I like to learn during my life—spiritually, physically, financially, technically, intellectually? About relationships? 
 > - How much money will I need to do the things I wish to do? By when will I need it?
 
-THe author gives a good list of questions to ask yourself before starting a business. I think this is a great list of question to ask yourself any day. People need to live life with intention. People need to think about reasons behind their actions and choices. So, asking yourself these kind of questions on a regular basis will help you stay on a good path towards your actual goals.
+The author gives a good list of questions to ask yourself before starting a business. I think this is a great list of question to ask yourself any day. People need to live [[live life with intention 202010160226]]. People need to think about reasons behind their actions and choices. So, asking yourself these kind of questions on a regular basis will help you stay on a good path towards your actual goals.
 
 Tags: [[Intention]], [[Life]]
