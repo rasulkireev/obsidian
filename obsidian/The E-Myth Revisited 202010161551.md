@@ -17,7 +17,7 @@ Rating:
 
 
 ## Key Ideas
-![[be intentional with your life 202010161552]]
+![[live life with intention 202010160226]]
 
 ## Questions
 

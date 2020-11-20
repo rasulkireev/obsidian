@@ -4,6 +4,6 @@
 
 Are the actions you are taking, tasks you are completing making sense, given your goals? When you are losing the sight of the reason behind your actions it is time to reexamine those actions. Chances are, you are wasting your time and not moving closer to your goals.
 
-Again, this thought is directly related to the principle of [[be intentional with your life 202010161552]].
+Again, this thought is directly related to the principle of [[live life with intention 202010160226]].
 
 Tags: [[Intention]], [[Asking Questions]]

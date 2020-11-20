@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f096fb91f14970a6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "be intentional with your life 202010161552.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e4e8f59cf05ef1f7",
+        "id": "92135a95ffcf1192",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "live life with intention 202010160226.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -51,7 +37,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lincoln"
+                "query": "lincoln",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -77,7 +68,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "live life with intention 202010160226.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -101,7 +96,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "live life with intention 202010160226.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -131,15 +125,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
-    "live life with intention 202010160226.md",
-    "be intentional with your life 202010161552.md",
+    "to remember something do it yourself 202010171257.md",
+    "best way to get employers attention is to appeal to their self interest 202011201317.md",
+    "Getting Interviews.md",
+    "Job Application.md",
+    "How to Get an Interview (from a CEO Who Read 778 Resumes Last Month) 202011201317.md",
     "Untitled.md",
-    "Family Life.md",
-    "Justin Jackson.md",
-    "Life.md",
-    "trust can vanish in a moment 202010291617.md",
-    "being consice is often more challenging than being verbose 202011182204.md",
-    "Storytelling with Data - A Data Visualization Guide for Business Professionals 202011182203.md",
-    "Editing.md"
+    "Atomic Habits 202010131439.md",
+    "ask yourself if person or a tool can do what you do 80% as well as you 202011201306.md",
+    "Outsourcing.md",
+    "Automation.md"
   ]
 }
