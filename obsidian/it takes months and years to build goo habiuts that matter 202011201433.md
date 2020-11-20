@@ -4,4 +4,6 @@
 
 We already know that [[things that matter in life are not easy 202011182147]]. Another similar truth is that when we are learning new things or are working on the things that matter, it often takes months or years to see the results of our work. 
 
-The downside is that you have wait. But the upside is that the final result will very likely be mu
+The downside is that you have wait. But the upside is that the final result will very likely be much better than you ever expected. This is because of the [[Compound Growth]] that applies to most habit building. Another advantage is you get to practice patience which is a very useful skill to have.
+
+Tags: [[Growth]], [[Patience]], [[Habits]], [[Skills]]

@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d0a72be5a949f3f6",
+        "id": "2097eb0875bd370b",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -71,7 +68,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +96,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -130,15 +125,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "Atomic Habits 202010131439.md",
     "Untitled.md",
+    "Patience.md",
+    "Compound Growth.md",
     "civilization makes the people 202010131357.md",
     "The Lessons of History 202010131440.md",
     "to remember something do it yourself 202010171257.md",
     "best way to get employers attention is to appeal to their self interest 202011201317.md",
     "Getting Interviews.md",
-    "Job Application.md",
-    "How to Get an Interview (from a CEO Who Read 778 Resumes Last Month) 202011201317.md",
-    "Atomic Habits 202010131439.md",
-    "ask yourself if person or a tool can do what you do 80% as well as you 202011201306.md"
+    "Job Application.md"
   ]
 }
