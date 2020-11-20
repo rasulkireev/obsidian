@@ -6,3 +6,5 @@ This morning ([[2020-10-12]]) I woke up at 4am, after falling asleep at 11pm. I 
 
 #writingidea
 This almost likely has something to do with [[Circadian Rhythm]] and the body producing certain chemicals at specific times based on on its usual schedule
+
+Tags: [[Sleep]]

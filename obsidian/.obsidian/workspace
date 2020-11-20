@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "internal clock changes with age 202010120644.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -68,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "internal clock changes with age 202010120644.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "internal clock changes with age 202010120644.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -125,6 +130,8 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "internal clock changes with age 202010120644.md",
+    "Jetlag.md",
     "Atomic Habits 202010131439.md",
     "Untitled.md",
     "Patience.md",
@@ -132,8 +139,6 @@
     "civilization makes the people 202010131357.md",
     "The Lessons of History 202010131440.md",
     "to remember something do it yourself 202010171257.md",
-    "best way to get employers attention is to appeal to their self interest 202011201317.md",
-    "Getting Interviews.md",
-    "Job Application.md"
+    "best way to get employers attention is to appeal to their self interest 202011201317.md"
   ]
 }
