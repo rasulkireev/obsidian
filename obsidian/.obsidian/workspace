@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Success.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Success.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Success.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -124,6 +129,7 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "Success.md",
     "daily/2020-10-10.md",
     "internal clock changes with age 202010120644.md",
     "Sleep.md",
@@ -132,7 +138,6 @@
     "Untitled.md",
     "Patience.md",
     "Compound Growth.md",
-    "civilization makes the people 202010131357.md",
-    "The Lessons of History 202010131440.md"
+    "civilization makes the people 202010131357.md"
   ]
 }
