@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c84f6f4b1c09e8be",
+        "id": "90be615063a2a4ae",
         "type": "leaf",
         "active": true,
         "state": {
@@ -97,7 +97,7 @@
               "state": {
                 "options": {
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -112,7 +112,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5662854709977296
+                  "scale": 0.7727494734828063
                 }
               }
             }
@@ -124,15 +124,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "Naval Ravikant.md",
+    "you can't get rich by selling out your time 202011221827.md",
+    "How to Get Rich 202011221824.md",
     "Untitled.md",
-    "Seeking Wisdom - From Darwin to Munger 202010291612.md",
-    "The Selfish Gene.md",
-    "poor and rich have the same desires 202011221715.md",
-    "we all want and can be happy 202011221716.md",
-    "Resources.md",
-    "Desire.md",
-    "Money.md",
-    "Success.md",
-    "daily/2020-10-10.md"
+    "3 Obvious Habits 202011221820.md",
+    "writing things down reduces stress and makes prioritization easier 202011221822.md",
+    "Reducing Stress.md",
+    "Journaling.md",
+    "Jason Lengstorf.md",
+    "Happiness.md"
   ]
 }
