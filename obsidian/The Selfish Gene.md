@@ -1,13 +1,10 @@
-Author: [[Peter Bevelin]]
-Status: #Reading 
+Author: [[Richard Dawkins]]
+Status: #ToRead
 
 ## Tags
 - #Book
-- [[Mental Models]]
-- [[Psychology]]
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
-- [[The Selfish Gene]]
 
 ## Summary (Short)
 
@@ -17,8 +14,6 @@ Status: #Reading
 
 
 ## Key Ideas
-![[trust can vanish in a moment 202010291617]]
-![[cooperation is better than the alternative 202010291613]]
 
 ## Questions
 

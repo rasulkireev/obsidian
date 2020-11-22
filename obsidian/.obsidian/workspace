@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "db52d3f5b12b732f",
+        "id": "1894a6aca3a4321a",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Success.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Success.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +99,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Success.md",
+                "file": "Untitled.md",
                 "options": {
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -129,15 +129,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
-    "Success.md",
-    "daily/2020-10-10.md",
-    "internal clock changes with age 202010120644.md",
-    "Sleep.md",
-    "Jetlag.md",
-    "Atomic Habits 202010131439.md",
     "Untitled.md",
-    "Patience.md",
-    "Compound Growth.md",
-    "civilization makes the people 202010131357.md"
+    "Seeking Wisdom - From Darwin to Munger 202010291612.md",
+    "The Selfish Gene.md",
+    "poor and rich have the same desires 202011221715.md",
+    "we all want and can be happy 202011221716.md",
+    "Resources.md",
+    "Desire.md",
+    "Money.md",
+    "Success.md",
+    "daily/2020-10-10.md"
   ]
 }
