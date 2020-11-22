@@ -4,4 +4,4 @@
 
 It is built in into our DNA to be selfish, and only a fool will assume a person's desire to share. Generosity and Altruism need to be taught.
 
-Tags: [[]]
+Tags: [[Sharing]]
