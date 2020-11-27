@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d7773c370d40f1ff",
+        "id": "67cbecd58f15230f",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "document your progress in life 202011271529.md",
+            "file": "lists bring order to the chaotic universe 202011271457.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "document your progress in life 202011271529.md",
+                "file": "lists bring order to the chaotic universe 202011271457.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "document your progress in life 202011271529.md",
+                "file": "lists bring order to the chaotic universe 202011271457.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -129,15 +129,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "it takes months and years to build goo habiuts that matter 202011201433.md",
-    "Atomic Habits 202010131439.md",
-    "don't make it hard for your self-discipline 202010191631.md",
-    "writing things down reduces stress and makes prioritization easier 202011221822.md",
     "lists bring order to the chaotic universe 202011271457.md",
-    "Structure.md",
-    "Writing.md",
-    "Keep Going 202010270257.md",
-    "Naval Ravikant.md"
+    "internal clock changes with age 202010120644.md",
+    "Travel.md",
+    "document your progress in life 202011271529.md",
+    "Podcasting.md",
+    "Blogging.md",
+    "Vlogging.md",
+    "Documenting.md",
+    "Making History.md",
+    "Untitled.md"
   ]
 }
