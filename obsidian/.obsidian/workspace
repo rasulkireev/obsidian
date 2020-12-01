@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2e3c285d1aa67ee9",
+        "id": "d991a86ac2e380fd",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "I Just Hit $100k-Yr on GitHub Sponsors 202012011228.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I Just Hit $100k-Yr on GitHub Sponsors 202012011228.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +95,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "I Just Hit $100k-Yr on GitHub Sponsors 202012011228.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -130,14 +125,14 @@
   },
   "lastOpenFiles": [
     "I Just Hit $100k-Yr on GitHub Sponsors 202012011228.md",
+    "building an audience is essential for side hustles 202012011230.md",
+    "Leverage.md",
+    "Audience Building.md",
+    "Sponsorware.md",
+    "Caleb Porzio.md",
     "Audience.md",
     "Side Hustle.md",
     "Sponsorship.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "How to Take Smart Notes 202010131439.md",
-    "lists bring order to the chaotic universe 202011271457.md",
-    "internal clock changes with age 202010120644.md",
-    "Travel.md"
+    "Untitled.md"
   ]
 }
