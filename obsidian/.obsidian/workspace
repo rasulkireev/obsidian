@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "67cbecd58f15230f",
+        "id": "2e3c285d1aa67ee9",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "lists bring order to the chaotic universe 202011271457.md",
+            "file": "I Just Hit $100k-Yr on GitHub Sponsors 202012011228.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lists bring order to the chaotic universe 202011271457.md",
+                "file": "I Just Hit $100k-Yr on GitHub Sponsors 202012011228.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "lists bring order to the chaotic universe 202011271457.md",
+                "file": "I Just Hit $100k-Yr on GitHub Sponsors 202012011228.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -129,15 +129,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "I Just Hit $100k-Yr on GitHub Sponsors 202012011228.md",
+    "Audience.md",
+    "Side Hustle.md",
+    "Sponsorship.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "How to Take Smart Notes 202010131439.md",
     "lists bring order to the chaotic universe 202011271457.md",
     "internal clock changes with age 202010120644.md",
-    "Travel.md",
-    "document your progress in life 202011271529.md",
-    "Podcasting.md",
-    "Blogging.md",
-    "Vlogging.md",
-    "Documenting.md",
-    "Making History.md",
-    "Untitled.md"
+    "Travel.md"
   ]
 }

@@ -10,9 +10,15 @@ Status: #Reading
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 
+- Dean, Jeremy. 2013. 152p. Making Habits, Breaking Habits: Why We Do Things, Why We Don’t, and How to Make Any Change Stick. Boston, MA: Da Capo Press: 
+> "The key to creativity is being able to switch between a wide-open, playful mind and a narrow analytical frame."
+
+- Schmidt, Johannes F.K. 2013. “Der Nachlass Niklas Luhmanns – eine erste Sichtung: Zettelkasten und Manuskripte.” Soziale Systeme 19 (1): 167–83.
+> After doing extensive research on Luhmann’s workflow, the German sociologist Johannes F.K. Schmidt concluded his productivity could only be explained by his unique working technique
+
 ## Summary (Short)
 
-### Struture
+### Structure
 
 ### Purpose
 
