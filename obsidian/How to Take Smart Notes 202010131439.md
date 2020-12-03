@@ -26,6 +26,7 @@ Status: #Reading
 ### Purpose
 
 ## Key Ideas
+![[just write your tasks down to get them out of your head 202012031707]]
 
 ## Questions
 
