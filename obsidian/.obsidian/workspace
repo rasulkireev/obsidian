@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "acc0f5dc41e280b1",
+        "id": "65bef7202bb80a75",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -124,15 +124,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
-    "don't ask for anything in your first communication 202010201610.md",
-    "Stay in touch with hundreds of people 202012022135.md",
-    "I Just Hit $100k-Yr on GitHub Sponsors 202012011228.md",
-    "building an audience is essential for side hustles 202012011230.md",
-    "Leverage.md",
-    "Audience Building.md",
-    "Sponsorware.md",
-    "Caleb Porzio.md",
-    "Audience.md",
-    "Side Hustle.md"
+    "automation is key to business success 202012031652.md",
+    "IFTTT.md",
+    "Zapier.md",
+    "Untitled.md",
+    "Fred Perrotta.md",
+    "Richard Dawkins.md",
+    "multitasking feels good but is actually is less productive 202012031642.md",
+    "Multitasking.md",
+    "How to Take Smart Notes 202010131439.md",
+    "don't ask for anything in your first communication 202010201610.md"
   ]
 }
