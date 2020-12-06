@@ -19,6 +19,8 @@ Status: #Reading
 - Wang, Zheng, and John M. Tchernev. 2012. “The ‘Myth’ of Media Multitasking: Reciprocal Dynamics of Media Multitasking, Personal Needs, and Gratifications.” Journal of Communication 62 (3): 493–513.
 [[multitasking feels good but is actually is less productive 202012031642]]
 
+- Anders Ericsson, K. 2008. “Deliberate Practice and Acquisition of Expert Performance: A General Overview.” Academic Emergency Medicine 15 (11): 988–94. [[deliberate practice is the only serious way of becoming better at what we are doing 202012070107]]
+
 ## Summary (Short)
 
 ### Structure

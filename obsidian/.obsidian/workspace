@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22eec5c1717bceaa",
+        "id": "1c06ae9f792bd549",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -83,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b50a80bddb16943a",
@@ -124,15 +125,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "assume you are an advanced beginner 202012070119.md",
+    "Modesty.md",
+    "Concept of Shoshin.md",
+    "The Step-By-Step Guide to Go From Novice to Expert in Any Skill 202012070118.md",
     "Untitled.md",
-    "finding someone who will provide you with feedback will greatly increase your ability to learn that thing 202011182149.md",
-    "Feedback.md",
-    "Self-Education - Teach Yourself Anything with the Sandbox Method 202010271540.md",
-    "coach will help you overcome a plateau 202010271539.md",
-    "actually launching something into the world is a massive differentiator 202012031713.md",
-    "Learning in Public.md",
-    "Building in Public.md",
-    "Tom Critchlow.md",
-    "FAANG.md"
+    "deliberate practice is the only serious way of becoming better at what we are doing 202012070107.md",
+    "How to Take Smart Notes 202010131439.md",
+    "Deliberate practice is the only serious way of becoming better at what we are doing 202012070107.md",
+    "Deliberate Practice.md",
+    "finding someone who will provide you with feedback will greatly increase your ability to learn that thing 202011182149.md"
   ]
 }
