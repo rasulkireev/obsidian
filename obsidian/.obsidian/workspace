@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "my zettelkasten tech stack 202010161600.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "my zettelkasten tech stack 202010161600.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b50a80bddb16943a",
@@ -96,9 +99,10 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "my zettelkasten tech stack 202010161600.md",
                 "options": {
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -113,7 +117,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7727494734828063
+                  "scale": 0.6378780378155336
                 }
               }
             }
@@ -125,6 +129,7 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "my zettelkasten tech stack 202010161600.md",
     "assume you are an advanced beginner 202012070119.md",
     "Modesty.md",
     "Concept of Shoshin.md",
@@ -133,7 +138,6 @@
     "deliberate practice is the only serious way of becoming better at what we are doing 202012070107.md",
     "How to Take Smart Notes 202010131439.md",
     "Deliberate practice is the only serious way of becoming better at what we are doing 202012070107.md",
-    "Deliberate Practice.md",
-    "finding someone who will provide you with feedback will greatly increase your ability to learn that thing 202011182149.md"
+    "Deliberate Practice.md"
   ]
 }
