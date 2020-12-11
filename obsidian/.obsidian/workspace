@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1c06ae9f792bd549",
+        "id": "d2ff15c38423f31f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "my zettelkasten tech stack 202010161600.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my zettelkasten tech stack 202010161600.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "my zettelkasten tech stack 202010161600.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
