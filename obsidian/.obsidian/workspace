@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bbd01fd6507a46b5",
+        "id": "abe9d2e4ac00bfe3",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "you don't need to spend thousand of hours on your first book 202012241355.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "you don't need to spend thousand of hours on your first book 202012241355.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "you don't need to spend thousand of hours on your first book 202012241355.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -132,15 +127,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "Finding friends.md",
+    "Hermann Ebbinghaus.md",
+    "Forgetting Curve.md",
+    "Spacing Effect.md",
+    "Learning Curve.md",
+    "Producing Content.md",
+    "Charles Munger.md",
+    "Perfectionism.md",
     "Untitled.md",
-    "to start the company growth do things that don'e scale 202012241318.md",
-    "Startup Marketing.md",
-    "Startup Growth.md",
-    "Paul Graham.md",
-    "to get clients mention that you are looking or clients 202012241313.md",
-    "Finding Work.md",
-    "Finding Clients.md",
-    "How to Find Consulting Clients 202012241313.md",
-    "Chris Achard.md"
+    "to start the company growth do things that don'e scale 202012241318.md"
   ]
 }
