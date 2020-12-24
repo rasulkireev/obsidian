@@ -4,12 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "d2ff15c38423f31f",
+        "id": "ac546bb133809ea2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5bf7a26279f12b7c",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Preparing for Solopreneurship 202012241258.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lincoln",
+                "query": "help",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.51218795776367,
+    "width": 308.5121879577637,
     "collapsed": true
   },
   "right": {
@@ -67,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Preparing for Solopreneurship 202012241258.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Preparing for Solopreneurship 202012241258.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -126,15 +142,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "Preparing for Solopreneurship 202012241258.md",
     "Untitled.md",
-    "my zettelkasten tech stack 202010161600.md",
-    "assume you are an advanced beginner 202012070119.md",
-    "Modesty.md",
-    "Concept of Shoshin.md",
-    "The Step-By-Step Guide to Go From Novice to Expert in Any Skill 202012070118.md",
-    "deliberate practice is the only serious way of becoming better at what we are doing 202012070107.md",
-    "How to Take Smart Notes 202010131439.md",
-    "Deliberate practice is the only serious way of becoming better at what we are doing 202012070107.md",
-    "Deliberate Practice.md"
+    "to get what you want you have to deserve what you want 202012241251.md",
+    "before you take, give, perhaps for years 202012241248.md",
+    "Ryan Kulp.md",
+    "Finding your tribe 202012241250.md",
+    "don't ask for anything in your first communication 202010201610.md",
+    "How Nat Eliason Grew A Website To 10K Visitors In A Month 202010201611.md",
+    "Nat Eliason.md",
+    "my zettelkasten tech stack 202010161600.md"
   ]
 }

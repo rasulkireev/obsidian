@@ -6,6 +6,6 @@
 
 > It’s a little insulting to contact someone you haven’t talked with in a long time, just to ask a favor.
 
-You should never ask for something in the first communication with a person.
+You should never ask for something in the first communication with a person. This also works for finding communities and life long friend. [[before you take, give, perhaps for years 202012241248]], only then you will find something truly worth fighting for.
 
 Tags: [[Networking]], [[Communication]]
