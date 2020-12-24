@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ac546bb133809ea2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "5bf7a26279f12b7c",
+        "id": "bbd01fd6507a46b5",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Preparing for Solopreneurship 202012241258.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -81,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preparing for Solopreneurship 202012241258.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b50a80bddb16943a",
@@ -112,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Preparing for Solopreneurship 202012241258.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -142,15 +127,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
-    "Preparing for Solopreneurship 202012241258.md",
+    "to start the company growth do things that don'e scale 202012241318.md",
+    "Startup Marketing.md",
+    "Startup Growth.md",
+    "Paul Graham.md",
     "Untitled.md",
-    "to get what you want you have to deserve what you want 202012241251.md",
-    "before you take, give, perhaps for years 202012241248.md",
-    "Ryan Kulp.md",
-    "Finding your tribe 202012241250.md",
-    "don't ask for anything in your first communication 202010201610.md",
-    "How Nat Eliason Grew A Website To 10K Visitors In A Month 202010201611.md",
-    "Nat Eliason.md",
-    "my zettelkasten tech stack 202010161600.md"
+    "to get clients mention that you are looking or clients 202012241313.md",
+    "Finding Work.md",
+    "Finding Clients.md",
+    "How to Find Consulting Clients 202012241313.md",
+    "Chris Achard.md"
   ]
 }
