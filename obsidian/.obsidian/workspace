@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "you don't need to spend thousand of hours on your first book 202012241355.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "you don't need to spend thousand of hours on your first book 202012241355.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "you don't need to spend thousand of hours on your first book 202012241355.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -127,11 +132,11 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "to start the company growth do things that don'e scale 202012241318.md",
     "Startup Marketing.md",
     "Startup Growth.md",
     "Paul Graham.md",
-    "Untitled.md",
     "to get clients mention that you are looking or clients 202012241313.md",
     "Finding Work.md",
     "Finding Clients.md",
