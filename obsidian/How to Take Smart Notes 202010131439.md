@@ -21,6 +21,10 @@ Status: #Reading
 
 - Anders Ericsson, K. 2008. “Deliberate Practice and Acquisition of Expert Performance: A General Overview.” Academic Emergency Medicine 15 (11): 988–94. [[deliberate practice is the only serious way of becoming better at what we are doing 202012070107]]
 
+- Levy, Neil. 2011. “Neuroethics and the Extended Mind.” In Judy Illes and B. J. Sahakian (Ed.), Oxford Handbook of Neuroethics, 285–94, Oxford University Press. [[writing makes intellectual endeavours possible 202012251340]]
+
+- Birnbaum, Monica S., Nate Kornell, Elizabeth Ligon Bjork, and Robert A. Bjork. 2013. “Why Interleaving Enhances Inductive Learning: The Roles of Discrimination and Retrieval”. Memory & Cognition 41 (3): 392–402. [[flashcards lack context 202012251349]]
+
 ## Summary (Short)
 
 ### Structure

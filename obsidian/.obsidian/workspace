@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "abe9d2e4ac00bfe3",
+        "id": "4e8395619d4b381d",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -133,14 +128,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
-    "Finding friends.md",
-    "Hermann Ebbinghaus.md",
-    "Forgetting Curve.md",
-    "Spacing Effect.md",
-    "Learning Curve.md",
-    "Producing Content.md",
-    "Charles Munger.md",
-    "Perfectionism.md",
-    "to start the company growth do things that don'e scale 202012241318.md"
+    "Flashcards.md",
+    "to get clients mention that you are looking or clients 202012241313.md",
+    "Physics.md",
+    "How to Take Smart Notes 202010131439.md",
+    "flashcards lack context 202012251349.md",
+    "SRS.md",
+    "writing makes intellectual endeavours possible 202012251340.md",
+    "Neuroscience.md",
+    "writing makes intellectial endeveaours possible 202012251337.md"
   ]
 }

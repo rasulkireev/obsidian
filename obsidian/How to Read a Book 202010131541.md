@@ -1,6 +1,6 @@
 Author: [[Mortimer Adler]]
 Notebook:
-Status: #Reading 
+Status: #Dropped 
 
 ## Tags
 - #Book

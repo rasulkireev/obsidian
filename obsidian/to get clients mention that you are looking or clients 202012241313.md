@@ -4,4 +4,4 @@
 
 It's like with earning online. You can't really get paid if you don't have a "Pay me" button somewhere.
 
-Tags: [[Finding Work]], [[Finding Clients]]
+Tags: [[Finding Work]], [[Finding Clients]], [[Work]]
