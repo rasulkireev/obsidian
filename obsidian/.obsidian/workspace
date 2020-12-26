@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5ffc290cdb534954",
+        "id": "a5597d8ab20b83be",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -133,14 +128,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
+    "Small Stresses.md",
+    "Stress.md",
+    "Getting Traffic.md",
     "How Nat Eliason Grew A Website To 10K Visitors In A Month 202010201611.md",
     "Enemies.md",
     "The 48 Laws of Power 202012262111.md",
     "Tacitus.md",
     "Robert Greene.md",
-    "your first reading should be about understanding the main concept not each word 202012262107.md",
-    "First Reading.md",
-    "Fluency.md",
-    "Flashcards.md"
+    "your first reading should be about understanding the main concept not each word 202012262107.md"
   ]
 }
