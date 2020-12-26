@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4e8395619d4b381d",
+        "id": "5ffc290cdb534954",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,9 +102,10 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -128,14 +133,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
-    "Flashcards.md",
-    "to get clients mention that you are looking or clients 202012241313.md",
-    "Physics.md",
-    "How to Take Smart Notes 202010131439.md",
-    "flashcards lack context 202012251349.md",
-    "SRS.md",
-    "writing makes intellectual endeavours possible 202012251340.md",
-    "Neuroscience.md",
-    "writing makes intellectial endeveaours possible 202012251337.md"
+    "How Nat Eliason Grew A Website To 10K Visitors In A Month 202010201611.md",
+    "Enemies.md",
+    "The 48 Laws of Power 202012262111.md",
+    "Tacitus.md",
+    "Robert Greene.md",
+    "your first reading should be about understanding the main concept not each word 202012262107.md",
+    "First Reading.md",
+    "Fluency.md",
+    "Flashcards.md"
   ]
 }
