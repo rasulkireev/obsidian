@@ -8,7 +8,7 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -85,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b50a80bddb16943a",
