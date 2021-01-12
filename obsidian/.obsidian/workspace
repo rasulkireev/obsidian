@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a5597d8ab20b83be",
+        "id": "287238455fbe4801",
         "type": "leaf",
         "active": true,
         "state": {
@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "help",
+                "query": "tag:#Person",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,11 +81,13 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b50a80bddb16943a",
@@ -123,18 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.0499572753906
+    "width": 431.0499572753906,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
     "Small Stresses.md",
+    "The Lessons of History 202010131440.md",
+    "Untitled.md",
     "Stress.md",
     "Getting Traffic.md",
     "How Nat Eliason Grew A Website To 10K Visitors In A Month 202010201611.md",
     "Enemies.md",
     "The 48 Laws of Power 202012262111.md",
     "Tacitus.md",
-    "Robert Greene.md",
-    "your first reading should be about understanding the main concept not each word 202012262107.md"
+    "Robert Greene.md"
   ]
 }
