@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -129,15 +134,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "Rules.md",
+    "Rules create Freedom.md",
+    "innovation is the result of incremental improvements 202101131734.md",
+    "Improvement.md",
+    "Innovation.md",
     "Small Stresses.md",
     "The Lessons of History 202010131440.md",
-    "Untitled.md",
     "Stress.md",
-    "Getting Traffic.md",
-    "How Nat Eliason Grew A Website To 10K Visitors In A Month 202010201611.md",
-    "Enemies.md",
-    "The 48 Laws of Power 202012262111.md",
-    "Tacitus.md",
-    "Robert Greene.md"
+    "Getting Traffic.md"
   ]
 }
