@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ccd04a493aab5bcf",
+        "id": "f9c1ec627162a226",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -129,15 +134,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "its really easy to overdo the design..md",
+    "Design.md",
     "ask questions that suit your context 202101192139.md",
     "Experience.md",
-    "Untitled.md",
     "Uniqueness.md",
     "Rules.md",
     "Rules create Freedom.md",
     "innovation is the result of incremental improvements 202101131734.md",
-    "Improvement.md",
-    "Innovation.md",
-    "Small Stresses.md"
+    "Improvement.md"
   ]
 }
