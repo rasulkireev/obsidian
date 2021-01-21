@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f9c1ec627162a226",
+        "id": "a73df0a88762562e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -134,15 +129,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "its really easy to overdo the design..md",
-    "Design.md",
-    "ask questions that suit your context 202101192139.md",
-    "Experience.md",
-    "Uniqueness.md",
-    "Rules.md",
-    "Rules create Freedom.md",
-    "innovation is the result of incremental improvements 202101131734.md",
-    "Improvement.md"
+    "Really Long List.md",
+    "collecting links can be useful 202101210237.md",
+    "Long-Term Thinking.md",
+    "Joplin.md",
+    "Evernote.md",
+    "Webclipping.md",
+    "Collector vs. Connector.md",
+    "Curation is going to very valuable as we see more content online 202101210240.md",
+    "Curation.md",
+    "Content.md"
   ]
 }

@@ -6,4 +6,4 @@ When it comes to big goals, they are often counter productive, or at the very le
 
 Creating good habits is a much better way to reach your goals, while staying happy.
 
-Tags: [[Happiness]], [[Habits]], [[Goal-Setting]]
+Tags: [[Happiness]], [[Habits]], [[Goal-Setting]], [[Goals]]
