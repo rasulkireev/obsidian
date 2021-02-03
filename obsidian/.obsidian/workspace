@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a73df0a88762562e",
+        "id": "830e23ff2693dc10",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -129,6 +129,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Learning.md",
     "Really Long List.md",
     "collecting links can be useful 202101210237.md",
     "Long-Term Thinking.md",
@@ -137,7 +138,6 @@
     "Webclipping.md",
     "Collector vs. Connector.md",
     "Curation is going to very valuable as we see more content online 202101210240.md",
-    "Curation.md",
-    "Content.md"
+    "Curation.md"
   ]
 }
