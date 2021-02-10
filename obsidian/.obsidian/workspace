@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9713bd21be1c9ef0",
+        "id": "d31d5a5ca00382b5",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "How to Take Smart Notes 202010131439.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Take Smart Notes 202010131439.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "How to Take Smart Notes 202010131439.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -132,15 +127,15 @@
     "width": 431.0499572753906
   },
   "lastOpenFiles": [
-    "How to Take Smart Notes 202010131439.md",
     "To Read Dashboard.md",
+    "How to Take Smart Notes 202010131439.md",
+    "Show Your Work 202010191719.md",
     "The Selfish Gene.md",
     "Untitled.md",
     "Learning.md",
     "Really Long List.md",
     "collecting links can be useful 202101210237.md",
     "Long-Term Thinking.md",
-    "Joplin.md",
-    "Evernote.md"
+    "Joplin.md"
   ]
 }

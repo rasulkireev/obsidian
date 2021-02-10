@@ -1,5 +1,5 @@
 Author: [[Sönke Ahrens]]
-Status: #Reading 
+Status: #Read
 
 ## Tags
 - #Book
