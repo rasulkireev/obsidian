@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "830e23ff2693dc10",
+        "id": "9713bd21be1c9ef0",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "How to Take Smart Notes 202010131439.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Person",
+                "query": "tag:#ToRead",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5121879577637,
-    "collapsed": true
+    "width": 308.5121879577637
   },
   "right": {
     "id": "ab5c65d4e343f11c",
@@ -67,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "How to Take Smart Notes 202010131439.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "How to Take Smart Notes 202010131439.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -125,19 +129,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.0499572753906,
-    "collapsed": true
+    "width": 431.0499572753906
   },
   "lastOpenFiles": [
+    "How to Take Smart Notes 202010131439.md",
+    "To Read Dashboard.md",
+    "The Selfish Gene.md",
+    "Untitled.md",
     "Learning.md",
     "Really Long List.md",
     "collecting links can be useful 202101210237.md",
     "Long-Term Thinking.md",
     "Joplin.md",
-    "Evernote.md",
-    "Webclipping.md",
-    "Collector vs. Connector.md",
-    "Curation is going to very valuable as we see more content online 202101210240.md",
-    "Curation.md"
+    "Evernote.md"
   ]
 }
