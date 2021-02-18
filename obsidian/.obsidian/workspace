@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d31d5a5ca00382b5",
+        "id": "3759215b9dfb9a74",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -50,7 +50,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5121879577637
+    "width": 308.5121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "ab5c65d4e343f11c",
@@ -99,6 +100,7 @@
               "type": "localgraph",
               "state": {
                 "options": {
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -107,15 +109,20 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": -2.3,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
                   "centerStrength": 0.197073884418435,
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6378780378155336
+                  "scale": 0.6378780378155336,
+                  "close": false
                 }
               }
             }
@@ -124,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.0499572753906
+    "width": 339
   },
   "lastOpenFiles": [
     "To Read Dashboard.md",
