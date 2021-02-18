@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "read the chapter summary first and carefully 202102181815.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "read the chapter summary first and carefully 202102181815.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +103,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "read the chapter summary first and carefully 202102181815.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -110,7 +115,29 @@
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "#Book",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "#Tag",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "#Person",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": -2.3,
@@ -134,11 +161,11 @@
     "width": 339
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "To Read Dashboard.md",
     "How to Take Smart Notes 202010131439.md",
     "Show Your Work 202010191719.md",
     "The Selfish Gene.md",
-    "Untitled.md",
     "Learning.md",
     "Really Long List.md",
     "collecting links can be useful 202101210237.md",
