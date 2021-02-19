@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "read the chapter summary first and carefully 202102181815.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "read the chapter summary first and carefully 202102181815.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "read the chapter summary first and carefully 202102181815.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
