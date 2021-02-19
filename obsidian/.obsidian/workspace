@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3759215b9dfb9a74",
+        "id": "1559bd39f2052c98",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -156,15 +156,15 @@
     "width": 339
   },
   "lastOpenFiles": [
+    "lists bring order to the chaotic universe 202011271457.md",
     "Untitled.md",
+    "Consulting.md",
+    "Optimize for reach over revenue 202102190141.md",
+    "James Clear.md",
+    "Twitter.md",
+    "Help.md",
+    "Help Other People First.md",
     "To Read Dashboard.md",
-    "How to Take Smart Notes 202010131439.md",
-    "Show Your Work 202010191719.md",
-    "The Selfish Gene.md",
-    "Learning.md",
-    "Really Long List.md",
-    "collecting links can be useful 202101210237.md",
-    "Long-Term Thinking.md",
-    "Joplin.md"
+    "How to Take Smart Notes 202010131439.md"
   ]
 }
