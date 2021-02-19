@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1559bd39f2052c98",
+        "id": "af36547fc2ad7324",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,15 +161,15 @@
     "width": 339
   },
   "lastOpenFiles": [
-    "lists bring order to the chaotic universe 202011271457.md",
     "Untitled.md",
+    "dont collect only project specific notes 202102191158.md",
+    "General Knowledge.md",
+    "lists bring order to the chaotic universe 202011271457.md",
     "Consulting.md",
     "Optimize for reach over revenue 202102190141.md",
     "James Clear.md",
     "Twitter.md",
     "Help.md",
-    "Help Other People First.md",
-    "To Read Dashboard.md",
-    "How to Take Smart Notes 202010131439.md"
+    "Help Other People First.md"
   ]
 }
