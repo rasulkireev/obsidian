@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7dcc6329d6187a47",
+        "id": "c7ca77f1e9465324",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,14 +157,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
+    "Parkinson's Law.md",
+    "nothing motivates us more than seeing a project we can identify with moving forward 202102191701.md",
+    "Motivation.md",
     "How to Take Smart Notes 202010131439.md",
+    "Meaningful Work.md",
     "The Process of Janusian Thinking in Creativity 202102191657.md",
     "Zheng Wang.md",
     "John Tchernev.md",
-    "The 'Myth' of Media Multitasking - Reciprocal Dynamics of Media Multitasking, Personal Needs, and Gratifications.md",
-    "being busy is a form of laziness 202102191649.md",
-    "Busyness.md",
-    "Laziness.md",
-    "The 4-Hour Workweek 202011011328.md"
+    "The 'Myth' of Media Multitasking - Reciprocal Dynamics of Media Multitasking, Personal Needs, and Gratifications.md"
   ]
 }
