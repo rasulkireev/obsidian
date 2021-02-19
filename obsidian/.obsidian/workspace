@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d4fb5697aa5d6f95",
+        "id": "7dcc6329d6187a47",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +148,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.594184993564385,
+                  "scale": 0.21058214326213062,
                   "close": false
                 }
               }
@@ -156,15 +161,15 @@
     "width": 339
   },
   "lastOpenFiles": [
-    "exercise is great for you 202102191323.md",
-    "Smarter 202102191323.md",
-    "Dan Hurley.md",
     "Untitled.md",
-    "be flexible with your projects 202102191306.md",
-    "Goal Calibration.md",
     "How to Take Smart Notes 202010131439.md",
-    "To Read Dashboard.md",
-    "Socratis.md",
-    "The Lean Startup 202102191305.md"
+    "The Process of Janusian Thinking in Creativity 202102191657.md",
+    "Zheng Wang.md",
+    "John Tchernev.md",
+    "The 'Myth' of Media Multitasking - Reciprocal Dynamics of Media Multitasking, Personal Needs, and Gratifications.md",
+    "being busy is a form of laziness 202102191649.md",
+    "Busyness.md",
+    "Laziness.md",
+    "The 4-Hour Workweek 202011011328.md"
   ]
 }
