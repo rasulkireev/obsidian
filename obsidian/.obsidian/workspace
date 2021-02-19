@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1572124bcc9ece75",
+        "id": "d4fb5697aa5d6f95",
         "type": "leaf",
         "active": true,
         "state": {
@@ -143,7 +143,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1639643633367869,
+                  "scale": 0.594184993564385,
                   "close": false
                 }
               }
@@ -156,15 +156,15 @@
     "width": 339
   },
   "lastOpenFiles": [
-    "learn the skill of learning 202102191208.md",
-    "Pragmatic Thinking and Learning - Refactor Your Wetwire 202102191206.md",
+    "exercise is great for you 202102191323.md",
+    "Smarter 202102191323.md",
+    "Dan Hurley.md",
     "Untitled.md",
-    "Intuition.md",
-    "Following Instructions.md",
-    "Beginner.md",
-    "Andy Hunt.md",
-    "the key to building habits is repetition not perfection 202102191203.md",
-    "Quantity over Quality.md",
-    "How to Quickly Improve Your Chess Game 202102191201.md"
+    "be flexible with your projects 202102191306.md",
+    "Goal Calibration.md",
+    "How to Take Smart Notes 202010131439.md",
+    "To Read Dashboard.md",
+    "Socratis.md",
+    "The Lean Startup 202102191305.md"
   ]
 }
