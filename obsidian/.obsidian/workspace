@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c7ca77f1e9465324",
+        "id": "798e9207fde58f2b",
         "type": "leaf",
         "active": true,
         "state": {
@@ -110,29 +110,7 @@
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "#Book",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "#Tag",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    },
-                    {
-                      "query": "#Person",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    }
-                  ],
+                  "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": -2.3,
@@ -143,7 +121,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.21058214326213062,
+                  "scale": 0.06577042311153986,
                   "close": false
                 }
               }
@@ -156,6 +134,8 @@
     "width": 339
   },
   "lastOpenFiles": [
+    "Writing.md",
+    "Hermann Ebbinghaus.md",
     "Untitled.md",
     "Parkinson's Law.md",
     "nothing motivates us more than seeing a project we can identify with moving forward 202102191701.md",
@@ -163,8 +143,6 @@
     "How to Take Smart Notes 202010131439.md",
     "Meaningful Work.md",
     "The Process of Janusian Thinking in Creativity 202102191657.md",
-    "Zheng Wang.md",
-    "John Tchernev.md",
-    "The 'Myth' of Media Multitasking - Reciprocal Dynamics of Media Multitasking, Personal Needs, and Gratifications.md"
+    "Zheng Wang.md"
   ]
 }
