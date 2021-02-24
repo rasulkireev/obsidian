@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "10453e413e06ae81",
+        "id": "829f9084c173d96d",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +121,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7645092651673245,
+                  "scale": 1.071828914955963,
                   "close": false
                 }
               }
@@ -139,15 +134,15 @@
     "width": 339
   },
   "lastOpenFiles": [
+    "people are not doing things to solve their problems 202102241024.md",
+    "Self-Improvement.md",
+    "Knowledge.md",
     "Untitled.md",
-    "How to Get Rich 202011221824.md",
-    "Note-taking.md",
-    "Evergreen notes.md",
-    "Thinking.md",
-    "Writing.md",
-    "Hermann Ebbinghaus.md",
-    "Parkinson's Law.md",
-    "nothing motivates us more than seeing a project we can identify with moving forward 202102191701.md",
-    "Motivation.md"
+    "Ignoring the problem.md",
+    "Blaming Others.md",
+    "About Reading 100 Books.md",
+    "Ivaylo Durmonski.md",
+    "The Remote Worker’s Guide to Becoming a Better Writer 202102241004.md",
+    "Fadeke Adegbuyi.md"
   ]
 }
