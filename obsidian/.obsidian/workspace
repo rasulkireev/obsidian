@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "10407127f0ad0a90",
+        "id": "10453e413e06ae81",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +126,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.06577042311153986,
+                  "scale": 0.7645092651673245,
                   "close": false
                 }
               }
@@ -134,15 +139,15 @@
     "width": 339
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "How to Get Rich 202011221824.md",
+    "Note-taking.md",
+    "Evergreen notes.md",
+    "Thinking.md",
     "Writing.md",
     "Hermann Ebbinghaus.md",
-    "Untitled.md",
     "Parkinson's Law.md",
     "nothing motivates us more than seeing a project we can identify with moving forward 202102191701.md",
-    "Motivation.md",
-    "How to Take Smart Notes 202010131439.md",
-    "Meaningful Work.md",
-    "The Process of Janusian Thinking in Creativity 202102191657.md",
-    "Zheng Wang.md"
+    "Motivation.md"
   ]
 }
