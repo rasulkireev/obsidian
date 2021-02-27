@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "829f9084c173d96d",
+        "id": "b81e4de1ee49adcb",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -121,7 +121,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.071828914955963,
+                  "scale": 0.06577042311153986,
                   "close": false
                 }
               }
@@ -134,15 +134,15 @@
     "width": 339
   },
   "lastOpenFiles": [
-    "people are not doing things to solve their problems 202102241024.md",
-    "Self-Improvement.md",
-    "Knowledge.md",
+    "Writing.md",
+    "Hermann Ebbinghaus.md",
     "Untitled.md",
-    "Ignoring the problem.md",
-    "Blaming Others.md",
-    "About Reading 100 Books.md",
-    "Ivaylo Durmonski.md",
-    "The Remote Worker’s Guide to Becoming a Better Writer 202102241004.md",
-    "Fadeke Adegbuyi.md"
+    "Parkinson's Law.md",
+    "nothing motivates us more than seeing a project we can identify with moving forward 202102191701.md",
+    "Motivation.md",
+    "How to Take Smart Notes 202010131439.md",
+    "Meaningful Work.md",
+    "The Process of Janusian Thinking in Creativity 202102191657.md",
+    "Zheng Wang.md"
   ]
 }
