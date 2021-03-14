@@ -8,7 +8,18 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
+          "type": "markdown",
+          "state": {
+            "file": "asking questions in the interview is very important 202103141903.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "94b854aed0b49002",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
           "state": {}
         }
       }
@@ -67,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "asking questions in the interview is very important 202103141903.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "asking questions in the interview is very important 202103141903.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,15 +147,15 @@
     "width": 339
   },
   "lastOpenFiles": [
-    "Writing.md",
-    "Hermann Ebbinghaus.md",
-    "Untitled.md",
-    "Parkinson's Law.md",
-    "nothing motivates us more than seeing a project we can identify with moving forward 202102191701.md",
-    "Motivation.md",
-    "How to Take Smart Notes 202010131439.md",
-    "Meaningful Work.md",
-    "The Process of Janusian Thinking in Creativity 202102191657.md",
-    "Zheng Wang.md"
+    "asking questions in the interview is very important 202103141903.md",
+    "152 - How to Stand Out When Applying for a Job at a Small Company.md",
+    "Fullstack Radio.md",
+    "Ben Orenstein.md",
+    "Adam Wathan.md",
+    "The 8 Biggest Mistakes to Avoid When Applying For a Remote Job 202103141905.md",
+    "Andrew Gobran.md",
+    "How To Support Your Employees During a Crisis 202103141905.md",
+    "Elaine Meyer.md",
+    "Untitled.md"
   ]
 }
