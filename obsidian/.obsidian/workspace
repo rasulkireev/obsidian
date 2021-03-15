@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "61523f40182b58ab",
+        "id": "fc282e9619e14b5e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "by connecting ideas you will know more and will become a better observer 202103142155.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "by connecting ideas you will know more and will become a better observer 202103142155.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "by connecting ideas you will know more and will become a better observer 202103142155.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,15 +134,15 @@
     "width": 339
   },
   "lastOpenFiles": [
-    "Untitled.md",
+    "by connecting ideas you will know more and will become a better observer 202103142155.md",
     "Introduction to the Zettelkasten Method.md",
+    "Albert Rothenberg.md",
+    "Standard partnerships.md",
+    "Exercise.md",
+    "How To Support Your Employees During a Crisis 202103141905.md",
+    "Untitled.md",
     "Sascha Fast.md",
     "beginners overestimate their skill level 202103142027.md",
-    "Humbleness.md",
-    "Modesty.md",
-    "Self-Awareness.md",
-    "Untitled 1.md",
-    "Unskilled and Unaware of It - How Diffculties in Recognizing One’s Own Incompetence Lead to Infated Self-Assessments.md",
-    "Dunning-Kruger effect.md"
+    "Humbleness.md"
   ]
 }

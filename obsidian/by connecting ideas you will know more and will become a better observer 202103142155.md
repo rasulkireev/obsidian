@@ -9,6 +9,8 @@
 By regularly connecting note you will 
 - get better recall of your notes
 - will become a better observer
-- and will become much better at se
+- and will become much better at seeing patterns (this skill can also be improved with the help of [[Chess]])
+
+Lesson here is to read with an intention of making connections. This has many hidden benefits, like better learning and more insightful observations.
 
 Tags: [[Zettelkasten]], [[Knowledge]], [[Skills]]
