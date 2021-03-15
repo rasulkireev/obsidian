@@ -4,20 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "b81e4de1ee49adcb",
+        "id": "c0412899a0facfa2",
         "type": "leaf",
         "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "asking questions in the interview is very important 202103141903.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "94b854aed0b49002",
-        "type": "leaf",
         "state": {
           "type": "empty",
           "state": {}
@@ -78,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asking questions in the interview is very important 202103141903.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,11 +99,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "asking questions in the interview is very important 202103141903.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -134,7 +121,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.06577042311153986,
+                  "scale": 0.7441206140403362,
                   "close": false
                 }
               }
@@ -148,14 +135,14 @@
   },
   "lastOpenFiles": [
     "asking questions in the interview is very important 202103141903.md",
+    "Career.md",
+    "Interview.md",
+    "Job Application.md",
     "152 - How to Stand Out When Applying for a Job at a Small Company.md",
     "Fullstack Radio.md",
     "Ben Orenstein.md",
     "Adam Wathan.md",
     "The 8 Biggest Mistakes to Avoid When Applying For a Remote Job 202103141905.md",
-    "Andrew Gobran.md",
-    "How To Support Your Employees During a Crisis 202103141905.md",
-    "Elaine Meyer.md",
-    "Untitled.md"
+    "Andrew Gobran.md"
   ]
 }
