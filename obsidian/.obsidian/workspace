@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2b174bee5e3dd934",
+        "id": "fc96e219cb78237b",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ToRead",
+                "query": "sleep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +121,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.16281764480373712,
+                  "scale": 0.20917897705480643,
                   "close": false
                 }
               }
@@ -135,19 +131,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339,
-    "collapsed": true
+    "width": 339
   },
   "lastOpenFiles": [
+    "book clubs > bootcamps 202103221320.md",
+    "Accountability.md",
     "Untitled.md",
-    "Untitled 1.md",
-    "Sexuality.md",
-    "Sex.md",
-    "Manliness.md",
-    "David Deida.md",
-    "Leonardo’s To-Do List.md",
-    "Krulwich Wonders.md",
-    "Robert Krulwich.md",
-    "Biography.md"
+    "Joel Hooks.md",
+    "Sleep.md",
+    "innovation is the result of incremental improvements 202101131734.md",
+    "Learning.md",
+    "focus on things that are under your control 202103221313.md",
+    "Control.md",
+    "Daily Review.md"
   ]
 }
