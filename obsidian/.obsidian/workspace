@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fc282e9619e14b5e",
+        "id": "5e6c0650e2e937eb",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -121,7 +121,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7441206140403362,
+                  "scale": 0.16281764480373712,
                   "close": false
                 }
               }
@@ -134,15 +134,15 @@
     "width": 339
   },
   "lastOpenFiles": [
-    "by connecting ideas you will know more and will become a better observer 202103142155.md",
-    "Introduction to the Zettelkasten Method.md",
-    "Albert Rothenberg.md",
-    "Standard partnerships.md",
-    "Exercise.md",
-    "How To Support Your Employees During a Crisis 202103141905.md",
+    "Going against general knowledge is hard 202103210144.md",
+    "Humanity.md",
+    "Untitled 1.md",
     "Untitled.md",
-    "Sascha Fast.md",
-    "beginners overestimate their skill level 202103142027.md",
-    "Humbleness.md"
+    "the prime task of government is to establish order 202103210013.md",
+    "The Process of Janusian Thinking in Creativity 202102191657.md",
+    "Albert Rothenberg.md",
+    "Freedom.md",
+    "top notch cover letter is the minimum of getting a job at Doist 202103210011.md",
+    "How to Get a Job at Doist.md"
   ]
 }
