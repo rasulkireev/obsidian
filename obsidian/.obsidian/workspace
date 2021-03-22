@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6c0650e2e937eb",
+        "id": "2b174bee5e3dd934",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -50,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5121879577637,
-    "collapsed": true
+    "width": 308.5121879577637
   },
   "right": {
     "id": "ab5c65d4e343f11c",
@@ -67,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,18 +135,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339
+    "width": 339,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Going against general knowledge is hard 202103210144.md",
-    "Humanity.md",
-    "Untitled 1.md",
     "Untitled.md",
-    "the prime task of government is to establish order 202103210013.md",
-    "The Process of Janusian Thinking in Creativity 202102191657.md",
-    "Albert Rothenberg.md",
-    "Freedom.md",
-    "top notch cover letter is the minimum of getting a job at Doist 202103210011.md",
-    "How to Get a Job at Doist.md"
+    "Untitled 1.md",
+    "Sexuality.md",
+    "Sex.md",
+    "Manliness.md",
+    "David Deida.md",
+    "Leonardo’s To-Do List.md",
+    "Krulwich Wonders.md",
+    "Robert Krulwich.md",
+    "Biography.md"
   ]
 }
