@@ -6,7 +6,6 @@
       {
         "id": "fc96e219cb78237b",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "graph",
           "state": {}
@@ -70,6 +69,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,6 +134,7 @@
     "direction": "horizontal",
     "width": 339
   },
+  "active": "fc96e219cb78237b",
   "lastOpenFiles": [
     "book clubs > bootcamps 202103221320.md",
     "Accountability.md",
