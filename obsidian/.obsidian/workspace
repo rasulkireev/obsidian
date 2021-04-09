@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "21ecf51fa9e69340",
+        "id": "c0b4749e4beaea18",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -135,7 +135,7 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "21ecf51fa9e69340",
+  "active": "c0b4749e4beaea18",
   "lastOpenFiles": [
     "Untitled 1.md",
     "Untitled.md",
