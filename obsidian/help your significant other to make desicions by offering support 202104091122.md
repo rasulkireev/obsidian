@@ -10,4 +10,4 @@ Anyway, it does make sense to help you SO to make desicions by offering your tho
 
 This thought is intuitive to me, but I always had one opposing thought. If [[you have a limited amount of will power during the day which depletes with every decision you make 202104091058]] how should you go about making the choice between deplpeting your own will power vs. helping your SO.
 
-Tags: [[Will Power]], [[Decision Making]]
+Tags: [[Will Power]], [[Decision Making]], [[Significant Other]], [[Helping your Significant Other]]

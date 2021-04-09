@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fc96e219cb78237b",
+        "id": "21ecf51fa9e69340",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,7 +50,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5121879577637
+    "width": 308.5121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "ab5c65d4e343f11c",
@@ -69,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +123,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.20917897705480643,
+                  "scale": 0.3454604754467074,
                   "close": false
                 }
               }
@@ -139,17 +135,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "fc96e219cb78237b",
+  "active": "21ecf51fa9e69340",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Untitled.md",
+    "Helping your Significant Other.md",
+    "Significant Other.md",
     "Decision Making.md",
     "Will Power.md",
     "you have a limited amount of will power during the day which depletes with every decision you make 202104091058.md",
     "Relax.md",
     "book clubs > bootcamps 202103221320.md",
-    "Accountability.md",
-    "Joel Hooks.md",
-    "Sleep.md",
-    "innovation is the result of incremental improvements 202101131734.md"
+    "Accountability.md"
   ]
 }
