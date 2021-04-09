@@ -7,8 +7,11 @@
         "id": "fc96e219cb78237b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "desire to relax is an attribute of people but especially the feminine 202104091015.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "desire to relax is an attribute of people but especially the feminine 202104091015.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "desire to relax is an attribute of people but especially the feminine 202104091015.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,15 +141,15 @@
   },
   "active": "fc96e219cb78237b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Relax.md",
     "book clubs > bootcamps 202103221320.md",
     "Accountability.md",
-    "Untitled.md",
     "Joel Hooks.md",
     "Sleep.md",
     "innovation is the result of incremental improvements 202101131734.md",
     "Learning.md",
     "focus on things that are under your control 202103221313.md",
-    "Control.md",
-    "Daily Review.md"
+    "Control.md"
   ]
 }
