@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "c0b4749e4beaea18",
+        "id": "d7f5936c37d59298",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -135,17 +135,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "c0b4749e4beaea18",
+  "active": "d7f5936c37d59298",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Homo Deus 202104131349.md",
+    "Yuval Noah Harari.md",
     "Untitled.md",
-    "Helping your Significant Other.md",
-    "Significant Other.md",
-    "Decision Making.md",
-    "Will Power.md",
-    "you have a limited amount of will power during the day which depletes with every decision you make 202104091058.md",
-    "Relax.md",
-    "book clubs > bootcamps 202103221320.md",
-    "Accountability.md"
+    "Food.md",
+    "Starvation.md",
+    "Famine.md",
+    "abstraction is important for problem solving 202104131338.md",
+    "Creativity.md",
+    "Problem Solving.md",
+    "Abstraction.md"
   ]
 }

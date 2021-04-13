@@ -27,6 +27,8 @@ Status: #Read
 
 - [[Albert Rothenberg]]. 1971. “[[The Process of Janusian Thinking in Creativity 202102191657]].” Archives of General Psychiatry 24 (3): 195–205.
 
+- [[Opening up the Solution Space - The Role of Analogical Thinking for Breakthrough Product Innovation]]
+
 ## Summary (Short)
 
 ### Structure
