@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "d7f5936c37d59298",
+        "id": "d9c4cff9347b2efb",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sleep",
+                "query": "tag:#Tags",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,17 +135,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "d7f5936c37d59298",
+  "active": "d9c4cff9347b2efb",
   "lastOpenFiles": [
+    "Peter Bevelin.md",
+    "Parenting.md",
+    "Enemies.md",
     "Homo Deus 202104131349.md",
     "Yuval Noah Harari.md",
     "Untitled.md",
     "Food.md",
     "Starvation.md",
     "Famine.md",
-    "abstraction is important for problem solving 202104131338.md",
-    "Creativity.md",
-    "Problem Solving.md",
-    "Abstraction.md"
+    "abstraction is important for problem solving 202104131338.md"
   ]
 }
