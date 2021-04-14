@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "d9c4cff9347b2efb",
+        "id": "0912e6290a3efda5",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -135,17 +135,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "d9c4cff9347b2efb",
+  "active": "0912e6290a3efda5",
   "lastOpenFiles": [
-    "Peter Bevelin.md",
-    "Parenting.md",
-    "Enemies.md",
-    "Homo Deus 202104131349.md",
-    "Yuval Noah Harari.md",
     "Untitled.md",
-    "Food.md",
-    "Starvation.md",
-    "Famine.md",
-    "abstraction is important for problem solving 202104131338.md"
+    "The Story of Philosophy 202104141738.md",
+    "Beauty.md",
+    "Truth.md",
+    "Justice.md",
+    "The Republic 202104141744.md",
+    "Plato.md",
+    "dont do things half heartedly 202104141730.md",
+    "in fatherhood quliaty is more important thanquantity 202103221306.md",
+    "Family.md"
   ]
 }
