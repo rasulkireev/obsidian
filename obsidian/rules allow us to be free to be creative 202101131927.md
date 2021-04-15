@@ -6,4 +6,8 @@ Rules allow us to be free to be creative. For example, a simple game of chess ha
 
 Another example comes from business. In countries with laws governing how the business should be done (USA, for example), we see beautiful companies emerge. On the other had when the laws are a little more vague, shit happens. Take Russia for example, with the lack of law regulating the governement we see corruption rise to the top.
 
-Tags: [[Rules]], [[Rules create Freedom]]
+> “If you wish to converse with me,” said Voltaire, “define your terms.”
+
+Rules allow the beauty to happen
+
+Tags: [[Rules]], [[Rules create Freedom]], [[Quote]],  [[Beauty]]
