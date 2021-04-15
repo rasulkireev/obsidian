@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "0912e6290a3efda5",
+        "id": "aad8ca5462a9ece9",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -135,17 +135,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "0912e6290a3efda5",
+  "active": "aad8ca5462a9ece9",
   "lastOpenFiles": [
+    "3-2-1 Newsletter.md",
     "Untitled.md",
+    "Starting Out.md",
     "The Story of Philosophy 202104141738.md",
     "Beauty.md",
     "Truth.md",
     "Justice.md",
     "The Republic 202104141744.md",
     "Plato.md",
-    "dont do things half heartedly 202104141730.md",
-    "in fatherhood quliaty is more important thanquantity 202103221306.md",
-    "Family.md"
+    "dont do things half heartedly 202104141730.md"
   ]
 }
