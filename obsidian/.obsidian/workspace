@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "aad8ca5462a9ece9",
+        "id": "6b394c3c75d9013d",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -123,7 +123,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3454604754467074,
+                  "scale": 0.29938110050131206,
                   "close": false
                 }
               }
@@ -135,17 +135,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "aad8ca5462a9ece9",
+  "active": "6b394c3c75d9013d",
   "lastOpenFiles": [
-    "the way you relate to your womans chaos reflects the way you react to the chaos of the world 202104151355.md",
-    "Training.md",
-    "Stability.md",
     "Untitled.md",
-    "rules allow us to be free to be creative 202101131927.md",
-    "3-2-1 Newsletter.md",
-    "Starting Out.md",
-    "The Story of Philosophy 202104141738.md",
-    "Beauty.md",
-    "Truth.md"
+    "Going against general knowledge is hard 202103210144.md",
+    "152 - How to Stand Out When Applying for a Job at a Small Company.md",
+    "Formation of States.md",
+    "Aggression.md",
+    "Conquest.md",
+    "How to Take Smart Notes 202010131439.md",
+    "memory strength can be split into storage and retrieval strength 202104161145.md",
+    "On the Symbiosis of Remembering Forgetting and Learning.md",
+    "Elizabeth Ligon Bjork.md"
   ]
 }
