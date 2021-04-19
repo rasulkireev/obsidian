@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6b394c3c75d9013d",
+        "id": "d8454065a2aa8ca3",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tags",
+                "query": "nice",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +50,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5121879577637,
-    "collapsed": true
+    "width": 308.5121879577637
   },
   "right": {
     "id": "ab5c65d4e343f11c",
@@ -135,17 +134,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "6b394c3c75d9013d",
+  "active": "d8454065a2aa8ca3",
   "lastOpenFiles": [
     "Untitled.md",
+    "Being Nice.md",
+    "Abraham Lincoln.md",
+    "Quote.md",
+    "being busy makes us focus on all the wrong things 202104191311.md",
+    "Do You Wanna Make $10 Per Hour? Or $100, $1,000 or $10,000?.md",
+    "Perry Marshall.md",
+    "being busy is a form of laziness 202102191649.md",
     "Going against general knowledge is hard 202103210144.md",
-    "152 - How to Stand Out When Applying for a Job at a Small Company.md",
-    "Formation of States.md",
-    "Aggression.md",
-    "Conquest.md",
-    "How to Take Smart Notes 202010131439.md",
-    "memory strength can be split into storage and retrieval strength 202104161145.md",
-    "On the Symbiosis of Remembering Forgetting and Learning.md",
-    "Elizabeth Ligon Bjork.md"
+    "152 - How to Stand Out When Applying for a Job at a Small Company.md"
   ]
 }
