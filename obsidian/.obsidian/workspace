@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d8454065a2aa8ca3",
+        "id": "5979b4bf94d13662",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "when reaching out tell about yoursefl shortly 202104200949.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "when reaching out tell about yoursefl shortly 202104200949.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "when reaching out tell about yoursefl shortly 202104200949.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +127,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.29938110050131206,
+                  "scale": 0.09415235848164172,
                   "close": false
                 }
               }
@@ -134,17 +139,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "d8454065a2aa8ca3",
+  "active": "5979b4bf94d13662",
   "lastOpenFiles": [
+    "when reaching out tell about yoursefl shortly 202104200949.md",
+    "Self-Promotion.md",
     "Untitled.md",
-    "Being Nice.md",
-    "Abraham Lincoln.md",
-    "Quote.md",
-    "being busy makes us focus on all the wrong things 202104191311.md",
-    "Do You Wanna Make $10 Per Hour? Or $100, $1,000 or $10,000?.md",
-    "Perry Marshall.md",
-    "being busy is a form of laziness 202102191649.md",
-    "Going against general knowledge is hard 202103210144.md",
-    "152 - How to Stand Out When Applying for a Job at a Small Company.md"
+    "Email.md",
+    "How to Make Virtual Networking Less Cringey 202104200945.md",
+    "Becky Kane.md",
+    "Untitled 1.md",
+    "Coding Best Practices.md",
+    "Documentation.md",
+    "The Pragmatic Programmer 202104200939.md"
   ]
 }
