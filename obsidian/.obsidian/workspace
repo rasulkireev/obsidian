@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nice",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5121879577637
+    "width": 308.5121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "ab5c65d4e343f11c",
