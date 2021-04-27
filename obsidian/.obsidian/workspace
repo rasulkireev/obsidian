@@ -7,8 +7,11 @@
         "id": "f22ed7a96fcfe300",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "just be nice 202104191313.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "just be nice 202104191313.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "just be nice 202104191313.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +127,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.15788743112690495,
+                  "scale": 0.39984348803743536,
                   "close": false
                 }
               }
@@ -136,6 +141,7 @@
   },
   "active": "f22ed7a96fcfe300",
   "lastOpenFiles": [
+    "just be nice 202104191313.md",
     "Opening up the Solution Space - The Role of Analogical Thinking for Breakthrough Product Innovation.md",
     "being busy makes us focus on all the wrong things 202104191311.md",
     "abstraction is important for problem solving 202104131338.md",
@@ -144,7 +150,6 @@
     "Untitled.md",
     "Email.md",
     "How to Make Virtual Networking Less Cringey 202104200945.md",
-    "Becky Kane.md",
-    "Untitled 1.md"
+    "Becky Kane.md"
   ]
 }
