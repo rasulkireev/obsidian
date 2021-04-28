@@ -7,8 +7,11 @@
         "id": "e8f03806b6c084e2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "just be nice 202104191313.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "just be nice 202104191313.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "just be nice 202104191313.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,8 +141,8 @@
   },
   "active": "e8f03806b6c084e2",
   "lastOpenFiles": [
-    "Quote.md",
     "just be nice 202104191313.md",
+    "Quote.md",
     "Opening up the Solution Space - The Role of Analogical Thinking for Breakthrough Product Innovation.md",
     "being busy makes us focus on all the wrong things 202104191311.md",
     "abstraction is important for problem solving 202104131338.md",
