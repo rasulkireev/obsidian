@@ -6,6 +6,7 @@
       {
         "id": "e8f03806b6c084e2",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -73,8 +74,6 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,6 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "e8f03806b6c084e2",
   "lastOpenFiles": [
     "just be nice 202104191313.md",
     "Quote.md",
