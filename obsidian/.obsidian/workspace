@@ -6,11 +6,10 @@
       {
         "id": "e8f03806b6c084e2",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "just be nice 202104191313.md",
+            "file": "being busy makes us focus on all the wrong things 202104191311.md",
             "mode": "source"
           }
         }
@@ -40,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "202104",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,10 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "just be nice 202104191313.md",
+                "file": "being busy makes us focus on all the wrong things 202104191311.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "just be nice 202104191313.md",
+                "file": "being busy makes us focus on all the wrong things 202104191311.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,16 +139,17 @@
     "direction": "horizontal",
     "width": 339
   },
+  "active": "e8f03806b6c084e2",
   "lastOpenFiles": [
-    "just be nice 202104191313.md",
-    "Quote.md",
-    "Opening up the Solution Space - The Role of Analogical Thinking for Breakthrough Product Innovation.md",
     "being busy makes us focus on all the wrong things 202104191311.md",
-    "abstraction is important for problem solving 202104131338.md",
-    "when reaching out tell about yoursefl shortly 202104200949.md",
-    "Self-Promotion.md",
-    "Untitled.md",
-    "Email.md",
-    "How to Make Virtual Networking Less Cringey 202104200945.md"
+    "Syften Blog.md",
+    "Aggression.md",
+    "Data Visualization.md",
+    "Aviation development will cause a huge change in the geopolitical scene in the world 202011160136.md",
+    "Personality.md",
+    "Andy Hunt.md",
+    "actually launching something into the world is a massive differentiator 202012031713.md",
+    "Patience.md",
+    "Beauty.md"
   ]
 }
