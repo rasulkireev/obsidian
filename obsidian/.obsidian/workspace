@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e8f03806b6c084e2",
+        "id": "93bbeae2a48d0b1c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "being busy makes us focus on all the wrong things 202104191311.md",
+            "file": "tags/Building in Public.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "being busy makes us focus on all the wrong things 202104191311.md",
+                "file": "tags/Building in Public.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "being busy makes us focus on all the wrong things 202104191311.md",
+                "file": "tags/Building in Public.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,17 +138,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "e8f03806b6c084e2",
+  "active": "93bbeae2a48d0b1c",
   "lastOpenFiles": [
-    "being busy makes us focus on all the wrong things 202104191311.md",
-    "Syften Blog.md",
-    "Aggression.md",
-    "Data Visualization.md",
+    "Building in Public.md",
+    "book clubs > bootcamps 202103221320.md",
+    "Blaise Pascal.md",
+    "Biology.md",
+    "Being Nice.md",
+    "being busy is a form of laziness 202102191649.md",
+    "be flexible with your projects 202102191306.md",
+    "aviation will bring the next evolution 202011160128.md",
     "Aviation development will cause a huge change in the geopolitical scene in the world 202011160136.md",
-    "Personality.md",
-    "Andy Hunt.md",
-    "actually launching something into the world is a massive differentiator 202012031713.md",
-    "Patience.md",
-    "Beauty.md"
+    "asking questions in the interview is very important 202103141903.md"
   ]
 }
