@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tags/Building in Public.md",
-            "mode": "source"
+            "file": "To Read Dashboard.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tags/Building in Public.md",
+                "file": "To Read Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tags/Building in Public.md",
+                "file": "To Read Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,15 +140,15 @@
   },
   "active": "93bbeae2a48d0b1c",
   "lastOpenFiles": [
-    "Building in Public.md",
-    "book clubs > bootcamps 202103221320.md",
-    "Blaise Pascal.md",
-    "Biology.md",
-    "Being Nice.md",
-    "being busy is a form of laziness 202102191649.md",
-    "be flexible with your projects 202102191306.md",
-    "aviation will bring the next evolution 202011160128.md",
-    "Aviation development will cause a huge change in the geopolitical scene in the world 202011160136.md",
-    "asking questions in the interview is very important 202103141903.md"
+    "To Read Dashboard.md",
+    "Design.md",
+    "Discipline.md",
+    "Economics.md",
+    "Doist.md",
+    "Decay.md",
+    "David Deida.md",
+    "Customer Service.md",
+    "Daily Review.md",
+    "Data.md"
   ]
 }
