@@ -7,11 +7,8 @@
         "id": "93bbeae2a48d0b1c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "books/The 4-Hour Workweek 202011011328.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/The 4-Hour Workweek 202011011328.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "books/The 4-Hour Workweek 202011011328.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +121,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4782595675151772,
+                  "scale": 0.08507625976860395,
                   "close": false
                 }
               }
@@ -141,6 +136,7 @@
   "active": "93bbeae2a48d0b1c",
   "lastOpenFiles": [
     "books/The 4-Hour Workweek 202011011328.md",
+    "books/The 48 Laws of Power 202012262111.md",
     "To Read Dashboard.md",
     "Design.md",
     "Discipline.md",
@@ -148,7 +144,6 @@
     "Doist.md",
     "Decay.md",
     "David Deida.md",
-    "Customer Service.md",
-    "Daily Review.md"
+    "Customer Service.md"
   ]
 }
