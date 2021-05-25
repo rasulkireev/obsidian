@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To Read Dashboard.md",
-            "mode": "preview"
+            "file": "books/The 4-Hour Workweek 202011011328.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Read Dashboard.md",
+                "file": "books/The 4-Hour Workweek 202011011328.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "To Read Dashboard.md",
+                "file": "books/The 4-Hour Workweek 202011011328.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,6 +140,7 @@
   },
   "active": "93bbeae2a48d0b1c",
   "lastOpenFiles": [
+    "books/The 4-Hour Workweek 202011011328.md",
     "To Read Dashboard.md",
     "Design.md",
     "Discipline.md",
@@ -148,7 +149,6 @@
     "Decay.md",
     "David Deida.md",
     "Customer Service.md",
-    "Daily Review.md",
-    "Data.md"
+    "Daily Review.md"
   ]
 }
