@@ -7,8 +7,11 @@
         "id": "93bbeae2a48d0b1c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "books/Atomic Habits 202010131439.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "books/Atomic Habits 202010131439.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "books/Atomic Habits 202010131439.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,15 +140,15 @@
   },
   "active": "93bbeae2a48d0b1c",
   "lastOpenFiles": [
+    "books/Atomic Habits 202010131439.md",
+    "To Read Dashboard.md",
     "books/The 4-Hour Workweek 202011011328.md",
     "books/The 48 Laws of Power 202012262111.md",
-    "To Read Dashboard.md",
     "Design.md",
     "Discipline.md",
     "Economics.md",
     "Doist.md",
     "Decay.md",
-    "David Deida.md",
-    "Customer Service.md"
+    "David Deida.md"
   ]
 }
