@@ -1,5 +1,7 @@
 Author: [[Gabriel Wyner]]
-Status: #Reading 
+Status: 
+- #Read
+- #NotReviewed 
 
 ## Tags
 - #Book

@@ -1,6 +1,8 @@
 Author: [[Deirdre McCloskey]]
 Notebook:
-Status: #Reading 
+Status: 
+- #Read 
+- #Reviewed
 
 ## Tags
 - #Book

@@ -1,5 +1,7 @@
 Author: [[David Deida]]
-Status: #Read 
+Status: 
+- #Read 
+- #NotReviewed 
 
 ## Tags
 - #Book

@@ -1,5 +1,7 @@
 Author: [[Will Durant]] & [[Ariel Durant]]
-Status: #Reading 
+Status: 
+- #Read
+- #Reviewed 
 
 ## Tags
 - #Book

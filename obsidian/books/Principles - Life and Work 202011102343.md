@@ -1,5 +1,7 @@
 Author: [[Ray Dalio]]
-Status: #Read 
+Status: 
+- #Read 
+- #NotReviewed 
 
 ## Tags
 - #Book
