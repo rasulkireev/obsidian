@@ -1,11 +1,5 @@
-.widget-background {
-  background-color: var(--background-secondary);
-}
-
-.widget-button {
-  padding: 3px 4px;
-  margin: 3px;
-  background-color: Transparent;
+.HyperMD-table-row span.cm-inline-code {
+  font-size: 100%;
 }
 
 .widget-icon {
@@ -18,15 +12,9 @@
   fill: var(--text-normal);
 }
 
-.widget-button-close {
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
-.widget-icon-close {
-  width: 15px;
-  height: 15px;
+.advanced-tables-csv-export textarea {
+  height: 200px;
+  width: 100%;
 }
 
 .advanced-tables-donation {
