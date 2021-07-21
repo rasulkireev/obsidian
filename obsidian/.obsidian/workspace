@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2963ab10607dceb",
+        "id": "83e10f7d0f8cee37",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reading Dashboard.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -52,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5121879577637,
-    "collapsed": true
+    "width": 308.5121879577637
   },
   "right": {
     "id": "ab5c65d4e343f11c",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reading Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,17 +141,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "f2963ab10607dceb",
+  "active": "83e10f7d0f8cee37",
   "lastOpenFiles": [
+    "books/How to Take Smart Notes 202010131439.md",
+    "Legend.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "notes/ask yourself if person or a tool can do what you do 80% as well as you 202011201306.md",
     "Reading Dashboard.md",
     "books/Traction 202010160218.md",
     "books/The Way of the Superior Man 202103221210.md",
     "books/The 4-Hour Workweek 202011011328.md",
-    "books/Show Your Work 202010191719.md",
-    "books/Principles - Life and Work 202011102343.md",
-    "books/How to Take Smart Notes 202010131439.md",
-    "articles/Do You Wanna Make $10 Per Hour? Or $100, $1,000 or $10,000?.md",
-    "books/A Guide To The Good Life 202011160112.md",
-    "books/Economical Writing 202010131438.md"
+    "books/Show Your Work 202010191719.md"
   ]
 }
