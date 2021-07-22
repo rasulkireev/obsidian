@@ -4,4 +4,4 @@ This could be an upcoming argument with a spouse, raise discussion with the boss
 
 Being prepared runs along with [[live life with intention 202010160226]]. Generally, it is a good idea to make decisions that will make your life better, easier.
 
-Tags: [[Intention]], [[Preparation]], [[Expectations]]
+Tags: [[Intention]], [[Preparation]], [[Expectations]], [[Readiness]]
