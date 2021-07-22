@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e9ffa5e2b25290b3",
+        "id": "21ce238204aaeb4d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sources/courses/Effortless Output in Roam.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sources/courses/Effortless Output in Roam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sources/courses/Effortless Output in Roam.md"
+              }
             }
           }
         ]
@@ -112,6 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Sources/courses/Effortless Output in Roam.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,17 +153,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "e9ffa5e2b25290b3",
+  "active": "21ce238204aaeb4d",
   "lastOpenFiles": [
+    "Sources/courses/Effortless Output in Roam.md",
+    "Bins/daily/2021-07-22.md",
     "Notes/when you need someone to agree make it seem like they came up with the idea 202011201251.md",
     "Notes/whenever you expect something to happen take a moment to prepare 202011160042.md",
     "Readiness.md",
     "Bins/tags/Help Other People First.md",
     "Bins/tags/Reading.md",
-    "Sources/courses/Effortless Output in Roam.md",
     "Andy Matuschak.md",
     "Alfred.md",
-    "Sources/books/Leonardo’s To-Do List.md",
-    "Roam Research.md"
+    "Sources/books/Leonardo’s To-Do List.md"
   ]
 }

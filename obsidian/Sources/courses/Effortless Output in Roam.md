@@ -1,4 +1,4 @@
-Author: [[Nat Eliason]]
+ Author: [[Nat Eliason]]
 URL: https://learn.nateliason.com/courses/enrolled/764250
 Tags: 
 	- #Course 
@@ -38,3 +38,6 @@ Tags:
 - Actually [[Andy Matuschak]] mode allows for editing two notes at the same time, or write on one and reference the other.
 
 ## 6. Using Filters to Search Your Growing Database
+-
+## 7. ToDos and Task Management
+- 
