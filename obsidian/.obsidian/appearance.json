@@ -1,9 +1,7 @@
 {
   "theme": "obsidian",
   "obsidianCss": false,
-  "enabledCssSnippets": [
-    "side-window"
-  ],
+  "enabledCssSnippets": [],
   "baseFontSize": 17,
   "translucency": false
 }

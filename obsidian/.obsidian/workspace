@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "83e10f7d0f8cee37",
+        "id": "4715a45800cebc8d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/as a personal blog you can get a lot of traffic from a few posts 202012262131.md",
+            "file": "Sources/courses/Effortless Output in Roam.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/as a personal blog you can get a lot of traffic from a few posts 202012262131.md",
+                "file": "Sources/courses/Effortless Output in Roam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -96,12 +96,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/as a personal blog you can get a lot of traffic from a few posts 202012262131.md"
+                "file": "Sources/courses/Effortless Output in Roam.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b50a80bddb16943a",
@@ -113,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/as a personal blog you can get a lot of traffic from a few posts 202012262131.md",
+                "file": "Sources/courses/Effortless Output in Roam.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +135,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.11727730264568055,
+                  "scale": 0.5221758386458072,
                   "close": false
                 }
               }
@@ -148,17 +147,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "83e10f7d0f8cee37",
+  "active": "4715a45800cebc8d",
   "lastOpenFiles": [
+    "Sources/courses/Effortless Output in Roam.md",
+    "OCD.md",
+    "courses/Effortless Output in Roam.md",
+    "books/3 Obvious Habits 202011221820.md",
+    "people/Nat Eliason.md",
+    "daily/2021-07-21.md",
+    "Effortless Output in Roam.md",
     "notes/as a personal blog you can get a lot of traffic from a few posts 202012262131.md",
-    "books/How to Take Smart Notes 202010131439.md",
-    "Legend.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "notes/ask yourself if person or a tool can do what you do 80% as well as you 202011201306.md",
-    "Reading Dashboard.md",
-    "books/Traction 202010160218.md",
-    "books/The Way of the Superior Man 202103221210.md",
-    "books/The 4-Hour Workweek 202011011328.md"
+    "books/A Guide To The Good Life 202011160112.md",
+    "books/How to Take Smart Notes 202010131439.md"
   ]
 }
