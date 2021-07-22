@@ -49,6 +49,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "245efb7c4e5820f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8caa1dc1f5bff59f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -76,17 +93,6 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "8caa1dc1f5bff59f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -150,6 +156,7 @@
   "active": "0f8575307f7b37be",
   "lastOpenFiles": [
     "Sources/courses/Effortless Output in Roam.md",
+    "Roam Research.md",
     "Legend.md",
     "Sources/articles/How to Get a Job at Doist.md",
     "Reading Dashboard.md",
@@ -157,7 +164,6 @@
     "Sources/books/Leonardo’s To-Do List.md",
     "Sources/books/Antifragile 202011062325.md",
     "Task.md",
-    "Reminder.md",
-    "Meeting.md"
+    "Reminder.md"
   ]
 }

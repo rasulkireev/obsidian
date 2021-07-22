@@ -24,3 +24,7 @@ Tags: #Course
 **Side note**: As I'm going through the course, and while reading some forums today, I have decided to try adding more personal stuff into my [[Zettelkasten]] starting with [[Daily Notes]]. The main reason for that is the idea that we as [[Humans]] are very bad at predicting what will be important to us in the future. By keeping everything in one system, it is more likely that I will keep that "special something" that my future self will enjoy close and available. This means I have to decide what to do with my [[Joplin]] library... I do have some sentimental attachment to this piece of software, so it will be hard to let go. Although, I'm not sure that is what I will do.
 
 ## Lesson 3. Creating Your First New Pages
+- basics
+
+## Lesson 4. The Four Ways to Link Between Pages
+- This is slightly different in [[Roam Research]] and [[Obsidian]]. In Roam you # tag and [[]] links are essentially the same, whereas here it is slightly different.
