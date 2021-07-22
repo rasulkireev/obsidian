@@ -1,0 +1,28 @@
+Author: 
+	- [[Titus Winters]]
+	- [[Tom Manshreck]]
+	- [[Hyrum Wright]]
+Status: #ToRead 
+Recommended by: [[Swizec Teller]]
+
+## Tags
+- #Book
+
+## Interesting Resources Mentioned (Books, Papers, etc.)
+
+## Summary (Short)
+
+**Structure**
+
+**Purpose**
+
+
+## Key Ideas
+
+## Questions
+
+## My Top 3 Quotes
+
+## How the Book Changed Me
+
+## Who Should Read it? 
