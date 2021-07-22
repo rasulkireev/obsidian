@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4715a45800cebc8d",
+        "id": "0f8575307f7b37be",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#reading",
+                "query": "tag:#NotReviewed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5221758386458072,
+                  "scale": 0.6309467298920303,
                   "close": false
                 }
               }
@@ -147,17 +147,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "4715a45800cebc8d",
+  "active": "0f8575307f7b37be",
   "lastOpenFiles": [
     "Sources/courses/Effortless Output in Roam.md",
-    "Humans.md",
-    "Daily Notes.md",
-    "Bins/tags/Zettelkasten.md",
-    "Idea.md",
-    "Ideas.md",
-    "Morning Journaling.md",
-    "OCD.md",
-    "courses/Effortless Output in Roam.md",
-    "books/3 Obvious Habits 202011221820.md"
+    "Legend.md",
+    "Sources/articles/How to Get a Job at Doist.md",
+    "Reading Dashboard.md",
+    "Articles to Read.md",
+    "Sources/books/Leonardo’s To-Do List.md",
+    "Sources/books/Antifragile 202011062325.md",
+    "Task.md",
+    "Reminder.md",
+    "Meeting.md"
   ]
 }
