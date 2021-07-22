@@ -7,8 +7,11 @@
         "id": "83e10f7d0f8cee37",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/as a personal blog you can get a lot of traffic from a few posts 202012262131.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/as a personal blog you can get a lot of traffic from a few posts 202012262131.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/as a personal blog you can get a lot of traffic from a few posts 202012262131.md"
+              }
             }
           }
         ],
@@ -107,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "notes/as a personal blog you can get a lot of traffic from a few posts 202012262131.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,6 +150,7 @@
   },
   "active": "83e10f7d0f8cee37",
   "lastOpenFiles": [
+    "notes/as a personal blog you can get a lot of traffic from a few posts 202012262131.md",
     "books/How to Take Smart Notes 202010131439.md",
     "Legend.md",
     "Untitled.md",
@@ -151,7 +159,6 @@
     "Reading Dashboard.md",
     "books/Traction 202010160218.md",
     "books/The Way of the Superior Man 202103221210.md",
-    "books/The 4-Hour Workweek 202011011328.md",
-    "books/Show Your Work 202010191719.md"
+    "books/The 4-Hour Workweek 202011011328.md"
   ]
 }
