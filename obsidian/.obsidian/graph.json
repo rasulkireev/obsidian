@@ -6,81 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "tag:#Book",
-      "color": {
-        "a": 1,
-        "rgb": 6442277
-      }
-    },
-    {
-      "query": "tag:#Article",
-      "color": {
-        "a": 1,
-        "rgb": 5982246
-      }
-    },
-    {
-      "query": "tag:#Tweet",
-      "color": {
-        "a": 1,
-        "rgb": 6705174
-      }
-    },
-    {
-      "query": "tag:#PodcastEpisode",
-      "color": {
-        "a": 1,
-        "rgb": 5981482
-      }
-    },
-    {
-      "query": "tag:#Person",
-      "color": {
-        "a": 1,
-        "rgb": 5721395
-      }
-    },
-    {
-      "query": "tag:#Newsletter",
-      "color": {
-        "a": 1,
-        "rgb": 7097125
-      }
-    },
-    {
-      "query": "tag:#Paper",
-      "color": {
-        "a": 1,
-        "rgb": 5982500
-      }
-    },
-    {
-      "query": "path:notes",
-      "color": {
-        "a": 1,
-        "rgb": 16735947
-      }
-    },
-    {
-      "query": "path:tags",
-      "color": {
-        "a": 1,
-        "rgb": 7538945
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0.1,
-  "nodeSizeMultiplier": 1.99181356837607,
-  "lineSizeMultiplier": 0.860389957264957,
-  "collapse-forces": false,
-  "centerStrength": 0.283520299145299,
-  "repelStrength": 12.5320512820513,
-  "linkStrength": 0.924011752136752,
-  "linkDistance": 207,
-  "scale": 0.11680285795467236,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.23338675213675,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.35741424601839455,
   "close": false
 }

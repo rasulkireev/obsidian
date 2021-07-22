@@ -7,8 +7,11 @@
         "id": "e5f5b45e9125f902",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/software engineering is programming over time 202107221228.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -84,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/software engineering is programming over time 202107221228.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/software engineering is programming over time 202107221228.md"
+              }
             }
           }
         ]
@@ -114,6 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Notes/software engineering is programming over time 202107221228.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +143,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.18381535226092702,
+                  "scale": 0.5031240459350693,
                   "close": false
                 }
               }
