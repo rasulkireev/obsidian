@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/software engineering is programming over time 202107221228.md",
+            "file": "Sources/courses/Effortless Output in Roam.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/software engineering is programming over time 202107221228.md",
+                "file": "Sources/courses/Effortless Output in Roam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/software engineering is programming over time 202107221228.md"
+                "file": "Sources/courses/Effortless Output in Roam.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/software engineering is programming over time 202107221228.md",
+                "file": "Sources/courses/Effortless Output in Roam.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,6 +157,8 @@
   },
   "active": "e5f5b45e9125f902",
   "lastOpenFiles": [
+    "Sources/courses/Effortless Output in Roam.md",
+    "Bins/tags/Roam Research.md",
     "Notes/software engineering is programming over time 202107221228.md",
     "Software Engineering.md",
     "software engineering is programming over time 202107221228.md",
@@ -164,8 +166,6 @@
     "What I learned from Software Engineering at Google 202107221224.md",
     "Software Engineering at Google.md",
     "Titus Winters.md",
-    "Tom Manshreck.md",
-    "Hyrum Wright.md",
-    "Swizec Teller.md"
+    "Tom Manshreck.md"
   ]
 }
