@@ -40,4 +40,3 @@ Tags:
 ## 6. Using Filters to Search Your Growing Database
 -
 ## 7. ToDos and Task Management
-- 
