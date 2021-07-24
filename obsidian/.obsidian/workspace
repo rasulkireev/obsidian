@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5273139520df8599",
+        "id": "7b9434d009c65a7a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/courses/Effortless Output in Roam/Capston Ideas for Effortless Output in Roam course.md",
+            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
             "mode": "source"
           }
         }
@@ -24,7 +24,6 @@
       {
         "id": "f1ce12b212d72684",
         "type": "tabs",
-        "dimension": 74.72118959107806,
         "children": [
           {
             "id": "362f0d725df74c63",
@@ -50,24 +49,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "245efb7c4e5820f8",
-        "type": "tabs",
-        "dimension": 25.27881040892193,
-        "children": [
-          {
-            "id": "8caa1dc1f5bff59f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Capston Ideas for Effortless Output in Roam course.md",
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +85,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Capston Ideas for Effortless Output in Roam course.md"
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md"
+              }
+            }
+          },
+          {
+            "id": "8caa1dc1f5bff59f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "b50a80bddb16943a",
@@ -120,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Capston Ideas for Effortless Output in Roam course.md",
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +136,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3320332173205844,
+                  "scale": 0.26387393095278083,
                   "close": false
                 }
               }
@@ -155,17 +148,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "5273139520df8599",
+  "active": "7b9434d009c65a7a",
   "lastOpenFiles": [
-    "Sources/courses/Effortless Output in Roam/Capston Ideas for Effortless Output in Roam course.md",
-    "DiSSS Framework.md",
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
+    "Bins/queries/Books to Review.md",
+    "Bins/queries/Reading Dashboard.md",
+    "Bins/queries/Untitled.md",
+    "Bins/queries/Articles to Read.md",
+    "Bins/tags/Reach.md",
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 2 - Choose your Capstone.md",
-    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 1 - Learning the Basics.md",
-    "Sources/courses/Effortless Output in Roam - Part 2 - Choose your Capstone.md",
-    "Sources/courses/Effortless Output in Roam - Part 1 - Learning the Basics.md",
-    "Untitle.md",
-    "read a calibre book in obsidian 202107241219.md",
+    "3 - Research - Building Your Roam Database.md",
     "Untitled.md",
-    "Research.md"
+    "Sources/courses/Effortless Output in Roam/Capston Ideas for Effortless Output in Roam course.md"
   ]
 }

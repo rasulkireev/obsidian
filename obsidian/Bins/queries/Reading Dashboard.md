@@ -13,7 +13,4 @@ path:Sources/books/ AND #ToRead
 
 
 ## Read (To Review)
-```query
-#Read AND #NotReviewed 
-```
-
+![[Books to Review]]

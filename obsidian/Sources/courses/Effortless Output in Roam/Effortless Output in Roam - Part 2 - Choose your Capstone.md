@@ -20,4 +20,10 @@ keep putting off
 - Deliverable: What will you create from
 exploring that topic?
 
-So, the main idea here is to actually create something. I'm exploring my ideas in [[Capston Ideas for Effortless Output in Roam course | this document]].
+So, the main idea here is to actually create something. I'm exploring my ideas in [[Capstone Ideas for Effortless Output in Roam course | this document]].
+
+---
+
+I have a couple of cool projects going on and don't want to do a Capstone right now. What I do want is to learn of good ways to build my digital brain using the Zettelkasten method. Or rather, how Nat does his. I will keep a [[Capstone Ideas for Effortless Output in Roam course| list of potential Capstone projects]] that I will do, but for know I will focus on building my database, that I will use extensively in the close future.
+
+So, I will just continue to the [[Effortless Output in Roam - Part 3 - Research - Building Your Roam Database | part 3]] of the course.
