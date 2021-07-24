@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/courses/Effortless Output in Roam.md",
+            "file": "Sources/courses/Effortless Output in Roam/Capston Ideas for Effortless Output in Roam course.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam.md",
+                "file": "Sources/courses/Effortless Output in Roam/Capston Ideas for Effortless Output in Roam course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam.md"
+                "file": "Sources/courses/Effortless Output in Roam/Capston Ideas for Effortless Output in Roam course.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam.md",
+                "file": "Sources/courses/Effortless Output in Roam/Capston Ideas for Effortless Output in Roam course.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +143,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5031240459350693,
+                  "scale": 0.3320332173205844,
                   "close": false
                 }
               }
@@ -157,15 +157,15 @@
   },
   "active": "5273139520df8599",
   "lastOpenFiles": [
-    "Sources/courses/Effortless Output in Roam.md",
+    "Sources/courses/Effortless Output in Roam/Capston Ideas for Effortless Output in Roam course.md",
+    "DiSSS Framework.md",
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 2 - Choose your Capstone.md",
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 1 - Learning the Basics.md",
+    "Sources/courses/Effortless Output in Roam - Part 2 - Choose your Capstone.md",
+    "Sources/courses/Effortless Output in Roam - Part 1 - Learning the Basics.md",
+    "Untitle.md",
     "read a calibre book in obsidian 202107241219.md",
-    "Calibre.md",
     "Untitled.md",
-    "Bins/tags/Roam Research.md",
-    "Notes/software engineering is programming over time 202107221228.md",
-    "Software Engineering.md",
-    "software engineering is programming over time 202107221228.md",
-    "software engineering is programming over time.md",
-    "What I learned from Software Engineering at Google 202107221224.md"
+    "Research.md"
   ]
 }

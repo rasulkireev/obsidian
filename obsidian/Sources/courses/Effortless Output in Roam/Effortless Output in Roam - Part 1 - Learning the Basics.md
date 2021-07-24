@@ -44,3 +44,4 @@ Tags:
 ## 8.  Referencing and Embedding Info from Other Pages
 - In order to preserve the source an to use info on different pages use the embedded. In obsidian, it would be a ![[]] syntax.
 	- For example, Nat has many different pages that somehow relate to Sourdough. Then he creates a page "Baking Sourdough Bread" (like a small project, or a blog post preparation) and pulls relevant info onto that page. and if the source is ever changed, it will propogate to the blog post page.
+
