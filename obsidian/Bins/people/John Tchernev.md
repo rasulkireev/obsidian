@@ -6,4 +6,3 @@ Tags:
 - #Person
 
 ## How we Met:
-

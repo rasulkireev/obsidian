@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/courses/Effortless Output in Roam.md",
+            "file": "Bins/tags/Experience.md",
             "mode": "source"
           }
         }
@@ -18,154 +18,91 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e861c6ba2d490c71",
-    "type": "split",
+    "id": "0c7f3f36696a0dc4",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "f1ce12b212d72684",
-        "type": "tabs",
-        "dimension": 74.72118959107806,
-        "children": [
-          {
-            "id": "362f0d725df74c63",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "7dc4720ec3d19835",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#NotReviewed",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
+        "id": "ec00a2ccdabe8787",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
       },
       {
-        "id": "245efb7c4e5820f8",
-        "type": "tabs",
-        "dimension": 25.27881040892193,
-        "children": [
-          {
-            "id": "8caa1dc1f5bff59f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
+        "id": "4d50c11fbb150f1d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "6f5c5275e6029f8e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 308.5121879577637
+    "currentTab": 0
   },
   "right": {
-    "id": "ab5c65d4e343f11c",
-    "type": "split",
+    "id": "55d24d9b4b879702",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "069669af0e81c64c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "86b3019b2ffc8dde",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Sources/courses/Effortless Output in Roam.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "ab5b00ef7b13efc7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Sources/courses/Effortless Output in Roam.md"
-              }
-            }
+        "id": "eeab92dfda16c353",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Bins/tags/Experience.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
           }
-        ]
+        }
       },
       {
-        "id": "b50a80bddb16943a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "79d0bbade39c0caa",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Sources/courses/Effortless Output in Roam.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": -2.3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.197073884418435,
-                  "repelStrength": 14.5164594001463,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5031240459350693,
-                  "close": false
-                }
-              }
-            }
+        "id": "9a1238a07f8a1973",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Bins/tags/Experience.md"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 339
+    "currentTab": 0
   },
   "active": "e5f5b45e9125f902",
   "lastOpenFiles": [
-    "Sources/courses/Effortless Output in Roam.md",
-    "Bins/tags/Roam Research.md",
-    "Notes/software engineering is programming over time 202107221228.md",
-    "Software Engineering.md",
-    "software engineering is programming over time 202107221228.md",
-    "software engineering is programming over time.md",
-    "What I learned from Software Engineering at Google 202107221224.md",
-    "Software Engineering at Google.md",
-    "Titus Winters.md",
-    "Tom Manshreck.md"
+    "Bins/tags/Experience.md",
+    "Bins/tags/Goals.md",
+    "Bins/tags/Will Power.md",
+    "Bins/tags/Evergreen notes.md",
+    "Bins/tags/Producing Content.md",
+    "Sources/articles/The Perfect Morning Routine 202010121309.md",
+    "Bins/people/John Tchernev.md",
+    "Bins/tags/Note-taking.md",
+    "Sources/books/How to Take Smart Notes 202010131439.md",
+    "Sources/courses/Effortless Output in Roam.md"
   ]
 }
