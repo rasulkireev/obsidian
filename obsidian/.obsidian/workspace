@@ -7,8 +7,11 @@
         "id": "5273139520df8599",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sources/courses/Effortless Output in Roam.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -84,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sources/courses/Effortless Output in Roam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sources/courses/Effortless Output in Roam.md"
+              }
             }
           }
         ]
@@ -114,6 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Sources/courses/Effortless Output in Roam.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,10 +157,10 @@
   },
   "active": "5273139520df8599",
   "lastOpenFiles": [
+    "Sources/courses/Effortless Output in Roam.md",
     "read a calibre book in obsidian 202107241219.md",
     "Calibre.md",
     "Untitled.md",
-    "Sources/courses/Effortless Output in Roam.md",
     "Bins/tags/Roam Research.md",
     "Notes/software engineering is programming over time 202107221228.md",
     "Software Engineering.md",
