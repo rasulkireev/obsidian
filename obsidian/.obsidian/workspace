@@ -4,12 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "50efde200952c561",
+        "id": "5aad53bc336def51",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Output/Review of Doing Time Right.md",
+            "file": "Bins/locations/Happy Day Farm.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "04cd4ba43a2783c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NJ.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ea62b39b5b24bff6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "State.md",
             "mode": "source"
           }
         }
@@ -18,15 +40,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e861c6ba2d490c71",
+    "id": "220af78925a037b1",
     "type": "split",
     "children": [
       {
-        "id": "f1ce12b212d72684",
+        "id": "d1ac7714d8e6114c",
         "type": "tabs",
         "children": [
           {
-            "id": "362f0d725df74c63",
+            "id": "a31460f7e783c6ec",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +56,12 @@
             }
           },
           {
-            "id": "7dc4720ec3d19835",
+            "id": "b9d27a53bcdf8d07",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#writingidea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,45 +74,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5121879577637
+    "width": 271.5036334991455
   },
   "right": {
-    "id": "ab5c65d4e343f11c",
+    "id": "a6e9b40b06925a87",
     "type": "split",
     "children": [
       {
-        "id": "069669af0e81c64c",
+        "id": "bed234bd63adf40b",
         "type": "tabs",
         "children": [
           {
-            "id": "86b3019b2ffc8dde",
+            "id": "b911220844a38ee2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Output/Review of Doing Time Right.md",
+                "file": "State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ab5b00ef7b13efc7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Output/Review of Doing Time Right.md"
-              }
-            }
-          },
-          {
-            "id": "8caa1dc1f5bff59f",
+            "id": "032f342b0276015c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -99,21 +111,30 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "da6973fdc41612b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "State.md"
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "b50a80bddb16943a",
+        "id": "3c0617f15b1af937",
         "type": "tabs",
         "children": [
           {
-            "id": "79d0bbade39c0caa",
+            "id": "3ae48595cdae6fd6",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Output/Review of Doing Time Right.md",
+                "file": "State.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,15 +149,15 @@
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": -2.3,
+                  "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
-                  "centerStrength": 0.197073884418435,
-                  "repelStrength": 14.5164594001463,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1856880956686627,
+                  "scale": 0.4384779647666295,
                   "close": false
                 }
               }
@@ -146,19 +167,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339
+    "width": 300
   },
-  "active": "50efde200952c561",
+  "active": "ea62b39b5b24bff6",
   "lastOpenFiles": [
-    "Output/Review of Doing Time Right.md",
-    "Nicolás Cerdeira.md",
-    "Founder.md",
-    "Failory.md",
-    "Everyone Can Build a Twitter Audience.md",
-    "Steph Smith.md",
-    "Doing Time Right.md",
-    "Review.md",
-    "Output/Untitled.md",
-    "Untitled.md"
+    "State.md",
+    "NJ.md",
+    "Bins/locations/Happy Day Farm.md",
+    "USA.md",
+    "Country.md",
+    "Military Park.md",
+    "Park.md",
+    "Bins/daily/2021-07-25.md",
+    "Eggs.md",
+    "Farm.md"
   ]
 }

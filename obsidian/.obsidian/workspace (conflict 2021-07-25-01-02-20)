@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "52f6e651eda7f43c",
+    "type": "split",
+    "children": [
+      {
+        "id": "50efde200952c561",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Output/Review of Doing Time Right.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23cb9507910305dd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a5bd5e9745618833",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2d06b82d52666792",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ea5dc25a8e81ccda",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a32e5eb52754f2ba",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "51707457f187310b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Output/Review of Doing Time Right.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e925734ee2e78868",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Output/Review of Doing Time Right.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "50efde200952c561",
+  "lastOpenFiles": [
+    "Output/Review of Doing Time Right.md",
+    "Nicolás Cerdeira.md",
+    "Founder.md",
+    "Failory.md",
+    "Everyone Can Build a Twitter Audience.md",
+    "Steph Smith.md",
+    "Doing Time Right.md",
+    "Review.md",
+    "Output/Untitled.md",
+    "Untitled.md"
+  ]
+}
