@@ -3,6 +3,7 @@ URL: https://learn.nateliason.com/courses/enrolled/764250
 Tags: 
 	- #Course 
 	- #Summary
+	- [[Efforless Output in Roam]]
 	
 ## 1. Choose Your Capstone
 - [[Research]] driver

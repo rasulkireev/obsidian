@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "bc27ac76b82d9c42",
+        "id": "50efde200952c561",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NotReviewed",
+                "query": "tag:#writingidea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "b50a80bddb16943a",
@@ -128,7 +129,7 @@
                   "repelStrength": 14.5164594001463,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.36008065128412486,
+                  "scale": 0.1856880956686627,
                   "close": false
                 }
               }
@@ -140,17 +141,17 @@
     "direction": "horizontal",
     "width": 339
   },
-  "active": "bc27ac76b82d9c42",
+  "active": "50efde200952c561",
   "lastOpenFiles": [
-    "Bins/daily/2021-07-24.md",
-    "Happy.md",
-    "Great Feeling.md",
-    "Weird.md",
-    "Negative Visualization.md",
-    "Lucky.md",
-    "Legend.md",
-    "Fear Setting.md",
-    "great feeling.md",
-    "happy.md"
+    "Untitled.md",
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md",
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 2 - Choose your Capstone.md",
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 1 - Learning the Basics.md",
+    "Sources/courses/Effortless Output in Roam/Capstone Ideas for Effortless Output in Roam course.md",
+    "Sources/courses/Effortless Output in Roam/Efforless Output in Roam.md",
+    "Efforless Output in Roam.md",
+    "Sources/articles/How to Get a Job at Doist.md",
+    "Bins/daily/2021-07-24.md"
   ]
 }

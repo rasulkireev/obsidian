@@ -1,3 +1,5 @@
+List of ideas for the capstone project for the [[Efforless Output in Roam]] Course.
+
 ### Ultimate guide to learning chess
 - Applying the [[DiSSS Framework]] on the skill of learning chess.
 
