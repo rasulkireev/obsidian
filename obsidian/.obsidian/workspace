@@ -7,8 +7,11 @@
         "id": "50efde200952c561",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Output/Review of Doing Time Right.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Output/Review of Doing Time Right.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Output/Review of Doing Time Right.md"
+              }
             }
           },
           {
@@ -107,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Output/Review of Doing Time Right.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,15 +150,15 @@
   },
   "active": "50efde200952c561",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
-    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md",
-    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 2 - Choose your Capstone.md",
-    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 1 - Learning the Basics.md",
-    "Sources/courses/Effortless Output in Roam/Capstone Ideas for Effortless Output in Roam course.md",
-    "Sources/courses/Effortless Output in Roam/Efforless Output in Roam.md",
-    "Efforless Output in Roam.md",
-    "Sources/articles/How to Get a Job at Doist.md",
-    "Bins/daily/2021-07-24.md"
+    "Output/Review of Doing Time Right.md",
+    "Nicolás Cerdeira.md",
+    "Founder.md",
+    "Failory.md",
+    "Everyone Can Build a Twitter Audience.md",
+    "Steph Smith.md",
+    "Doing Time Right.md",
+    "Review.md",
+    "Output/Untitled.md",
+    "Untitled.md"
   ]
 }
