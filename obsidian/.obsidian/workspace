@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7b9434d009c65a7a",
+        "id": "e5f5b45e9125f902",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
+            "file": "Sources/courses/Effortless Output in Roam/Capstone Ideas for Effortless Output in Roam course.md",
             "mode": "source"
           }
         }
@@ -18,147 +18,91 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e861c6ba2d490c71",
-    "type": "split",
+    "id": "0c7f3f36696a0dc4",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "f1ce12b212d72684",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "362f0d725df74c63",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "7dc4720ec3d19835",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#NotReviewed",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 308.5121879577637
-  },
-  "right": {
-    "id": "ab5c65d4e343f11c",
-    "type": "split",
-    "children": [
-      {
-        "id": "069669af0e81c64c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "86b3019b2ffc8dde",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "ab5b00ef7b13efc7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md"
-              }
-            }
-          },
-          {
-            "id": "8caa1dc1f5bff59f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
+        "id": "ec00a2ccdabe8787",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
       },
       {
-        "id": "b50a80bddb16943a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "79d0bbade39c0caa",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": -2.3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.197073884418435,
-                  "repelStrength": 14.5164594001463,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.26387393095278083,
-                  "close": false
-                }
-              }
-            }
+        "id": "4d50c11fbb150f1d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "6f5c5275e6029f8e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 339
+    "currentTab": 0
   },
-  "active": "7b9434d009c65a7a",
+  "right": {
+    "id": "55d24d9b4b879702",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eeab92dfda16c353",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Sources/courses/Effortless Output in Roam/Capstone Ideas for Effortless Output in Roam course.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "9a1238a07f8a1973",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Sources/courses/Effortless Output in Roam/Capstone Ideas for Effortless Output in Roam course.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e5f5b45e9125f902",
   "lastOpenFiles": [
+    "Sources/courses/Effortless Output in Roam/Capstone Ideas for Effortless Output in Roam course.md",
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
-    "Bins/queries/Books to Review.md",
-    "Bins/queries/Reading Dashboard.md",
-    "Bins/queries/Untitled.md",
-    "Bins/queries/Articles to Read.md",
-    "Bins/tags/Reach.md",
-    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 2 - Choose your Capstone.md",
-    "3 - Research - Building Your Roam Database.md",
-    "Untitled.md",
-    "Sources/courses/Effortless Output in Roam/Capston Ideas for Effortless Output in Roam course.md"
+    "Bins/tags/Experience.md",
+    "Bins/tags/Goals.md",
+    "Bins/tags/Will Power.md",
+    "Bins/tags/Evergreen notes.md",
+    "Bins/tags/Producing Content.md",
+    "Sources/articles/The Perfect Morning Routine 202010121309.md",
+    "Bins/people/John Tchernev.md",
+    "Bins/tags/Note-taking.md"
   ]
 }
