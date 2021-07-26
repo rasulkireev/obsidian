@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da5d461d40e940fe",
+        "id": "cdabf7914a56ad78",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bins/daily/2021-07-26.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -49,23 +46,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "af73ee496976f2e0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "032f342b0276015c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/daily/2021-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,12 +80,22 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "032f342b0276015c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {
-                "file": "Bins/daily/2021-07-26.md"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3c0617f15b1af937",
@@ -118,7 +107,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bins/daily/2021-07-26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +129,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3843422374505751,
+                  "scale": 0.40844332494220204,
                   "close": false
                 }
               }
@@ -153,17 +141,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "da5d461d40e940fe",
+  "active": "cdabf7914a56ad78",
   "lastOpenFiles": [
     "Bins/daily/2021-07-26.md",
-    "Bins/daily/Morning Pages Promts.md",
+    "Sources/books/Doing Time Right.md",
+    "Sources/courses/Doing Time Right.md",
     "Inbox/Actuary.md",
+    "Inbox/Main Goals in my Life.md",
+    "Bins/daily/Morning Pages Promts.md",
     "Inbox/Django.md",
     "Inbox/Good.md",
     "Bins/tags/Scared.md",
-    "Bins/people/Socrates.md",
-    "Inbox/Tatiana Dema.md",
-    "Inbox/List of projects built with Django.md",
-    "List of projects built with Django.md"
+    "Bins/people/Socrates.md"
   ]
 }
