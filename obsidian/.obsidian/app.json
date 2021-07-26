@@ -8,5 +8,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": true,
-  "vimMode": false
+  "vimMode": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox"
 }

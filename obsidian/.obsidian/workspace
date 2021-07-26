@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "List of projects built with Django.md",
+            "file": "Inbox/List of projects built with Django.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of projects built with Django.md",
+                "file": "Inbox/List of projects built with Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List of projects built with Django.md"
+                "file": "Inbox/List of projects built with Django.md"
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "List of projects built with Django.md",
+                "file": "Inbox/List of projects built with Django.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
