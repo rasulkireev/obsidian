@@ -4,36 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5aad53bc336def51",
+        "id": "21c983eadbde4a79",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bins/locations/Happy Day Farm.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "04cd4ba43a2783c8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NJ.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ea62b39b5b24bff6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "State.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -90,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "State.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -134,7 +106,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "State.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,17 +140,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ea62b39b5b24bff6",
+  "active": "21c983eadbde4a79",
   "lastOpenFiles": [
-    "State.md",
-    "NJ.md",
-    "Bins/locations/Happy Day Farm.md",
-    "USA.md",
-    "Country.md",
-    "Military Park.md",
-    "Park.md",
+    "Notes/deliberate practice is the only serious way of becoming better at what we are doing 202012070107.md",
+    "Bins/tags/Deliberate Practice.md",
+    "Bins/daily/2020-10-12.md",
+    "Blitz.md",
+    "Scared.md",
+    "Newark.md",
+    "Worried.md",
     "Bins/daily/2021-07-25.md",
-    "Eggs.md",
-    "Farm.md"
+    "Physical Journal.md",
+    "Bins/tags/Fun.md"
   ]
 }
