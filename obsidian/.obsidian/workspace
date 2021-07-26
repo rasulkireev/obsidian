@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f5c3a3b5a76a384a",
+        "id": "c3d7bd3bd2d9e9bb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/daily/2021-07-26.md",
+            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/daily/2021-07-26.md",
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/daily/2021-07-26.md"
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bins/daily/2021-07-26.md",
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,17 +148,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f5c3a3b5a76a384a",
+  "active": "c3d7bd3bd2d9e9bb",
   "lastOpenFiles": [
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
+    "Inbox/Tiago Forte.md",
+    "Inbox/Progressive Summarization.md",
+    "Inbox/Search.md",
+    "Inbox/Azure DevOps.md",
+    "Inbox/day planning.md",
     "Bins/daily/2021-07-26.md",
     "Inbox/Tasks.md",
     "Inbox/Toggl.md",
-    "Inbox/Github Project Board.md",
-    "Inbox/day planning.md",
-    "Inbox/Azure DevOps.md",
-    "Inbox/Github.md",
-    "Inbox/Todoist.md",
-    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
-    "Bins/tags/Inbox.md"
+    "Inbox/Github Project Board.md"
   ]
 }
