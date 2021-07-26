@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/List of projects built with Django.md",
+            "file": "Bins/daily/2021-07-26.md",
             "mode": "source"
           }
         }
@@ -49,6 +49,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "af73ee496976f2e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "032f342b0276015c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -68,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/List of projects built with Django.md",
+                "file": "Bins/daily/2021-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,23 +97,12 @@
             }
           },
           {
-            "id": "032f342b0276015c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "da6973fdc41612b3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/List of projects built with Django.md"
+                "file": "Bins/daily/2021-07-26.md"
               }
             }
           }
@@ -112,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/List of projects built with Django.md",
+                "file": "Bins/daily/2021-07-26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,7 +141,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0663041906473483,
+                  "scale": 0.407065574569229,
                   "close": false
                 }
               }
@@ -149,15 +155,15 @@
   },
   "active": "b0d3ed1877c72e74",
   "lastOpenFiles": [
+    "Bins/daily/2021-07-26.md",
+    "Inbox/Good.md",
+    "Bins/tags/Scared.md",
+    "Bins/people/Socrates.md",
+    "Inbox/Tatiana Dema.md",
+    "Inbox/List of projects built with Django.md",
     "List of projects built with Django.md",
     "Built with Django.md",
     "Untitled.md",
-    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
-    "Bins/tags/Being Nice.md",
-    "Notes/deliberate practice is the only serious way of becoming better at what we are doing 202012070107.md",
-    "Bins/tags/Deliberate Practice.md",
-    "Bins/daily/2020-10-12.md",
-    "Blitz.md",
-    "Scared.md"
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md"
   ]
 }
