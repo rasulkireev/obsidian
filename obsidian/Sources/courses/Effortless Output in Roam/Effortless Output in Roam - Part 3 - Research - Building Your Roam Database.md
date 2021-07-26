@@ -22,3 +22,4 @@ Tags:
 - One thing that differs is that Nat (in that course at least) takes notes on material that he needs for a project/capstone, so it kind of makes sense how he uses it. I would love to find out if he ever comes up with material from notes taken randomly.
 
 ## 5. Saving Tweets in Roam
+- Manual link import and [[Readwise]] integration.

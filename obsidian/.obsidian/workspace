@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "21c983eadbde4a79",
+        "id": "b0d3ed1877c72e74",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,13 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md"
+              }
             }
           }
         ]
@@ -106,6 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +135,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4384779647666295,
+                  "scale": 1.0663041906473483,
                   "close": false
                 }
               }
@@ -140,8 +147,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "21c983eadbde4a79",
+  "active": "b0d3ed1877c72e74",
   "lastOpenFiles": [
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
+    "Bins/tags/Being Nice.md",
     "Notes/deliberate practice is the only serious way of becoming better at what we are doing 202012070107.md",
     "Bins/tags/Deliberate Practice.md",
     "Bins/daily/2020-10-12.md",
@@ -149,8 +158,6 @@
     "Scared.md",
     "Newark.md",
     "Worried.md",
-    "Bins/daily/2021-07-25.md",
-    "Physical Journal.md",
-    "Bins/tags/Fun.md"
+    "Bins/daily/2021-07-25.md"
   ]
 }
