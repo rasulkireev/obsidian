@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cdabf7914a56ad78",
+        "id": "72e3674d0e599d55",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -141,17 +141,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cdabf7914a56ad78",
+  "active": "72e3674d0e599d55",
   "lastOpenFiles": [
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database 1.md",
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
+    "Inbox/Android.md",
+    "Inbox/iOS.md",
+    "Inbox/hypothes.is.md",
+    "Inbox/Airr.md",
+    "Bins/tags/Voltron effect.md",
     "Bins/daily/2021-07-26.md",
     "Sources/books/Doing Time Right.md",
-    "Sources/courses/Doing Time Right.md",
-    "Inbox/Actuary.md",
-    "Inbox/Main Goals in my Life.md",
-    "Bins/daily/Morning Pages Promts.md",
-    "Inbox/Django.md",
-    "Inbox/Good.md",
-    "Bins/tags/Scared.md",
-    "Bins/people/Socrates.md"
+    "Sources/courses/Doing Time Right.md"
   ]
 }
