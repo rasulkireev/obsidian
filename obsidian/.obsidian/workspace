@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
+            "file": "List of projects built with Django.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
+                "file": "List of projects built with Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md"
+                "file": "List of projects built with Django.md"
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
+                "file": "List of projects built with Django.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,15 +149,15 @@
   },
   "active": "b0d3ed1877c72e74",
   "lastOpenFiles": [
+    "List of projects built with Django.md",
+    "Built with Django.md",
+    "Untitled.md",
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
     "Bins/tags/Being Nice.md",
     "Notes/deliberate practice is the only serious way of becoming better at what we are doing 202012070107.md",
     "Bins/tags/Deliberate Practice.md",
     "Bins/daily/2020-10-12.md",
     "Blitz.md",
-    "Scared.md",
-    "Newark.md",
-    "Worried.md",
-    "Bins/daily/2021-07-25.md"
+    "Scared.md"
   ]
 }
