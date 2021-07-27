@@ -31,4 +31,13 @@ Tags:
 ## 5. Consolidating Your Knowledge into Head Pages
 - All the collected info sits in different notes.
 - Now we need to combine it into head pages. This is to dive deeper on major concepts of our [[Research]]
-- Basically you go to the "tagnote" page and start populating the info based on  the backlinks you have added.
+- Basically you go to the "[[Tagnote]]" page and start populating the info based on  the [[Backlinks]] you have added.
+- You can split those tagnotes into separate sections:
+	- Future Reading & Referencing (For anything you haven't done [[Progressive Summarization]] on)
+	- Useful Material. Which is just the most useful things from the pages you have done [[Progressive Summarization]] on. So, [[Highlighting | Highlighted]] items. Or rather the bullets under the [[Summary]] heading (h3).
+	- You can also create heading for related topics, that come from the backlinks.
+- This strategy will help you have the most important things all in one place.
+- You can obviously use [[Block Reference | block refs]]
+
+## 6. Advanced References and Embeds
+- 
