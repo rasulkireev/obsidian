@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/daily/2021-07-27.md",
+            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/daily/2021-07-27.md",
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/daily/2021-07-27.md"
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md"
               }
             }
           }
@@ -108,15 +108,15 @@
   },
   "active": "6d55a119502506d6",
   "lastOpenFiles": [
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
+    "Inbox/Tagging.md",
+    "Inbox/Bolding.md",
+    "Inbox/Highlighting.md",
     "Bins/daily/2021-07-27.md",
     "Inbox/Jacquemus.md",
     "Inbox/Muji.md",
     "Bins/daily/Morning Pages Promts.md",
     "Sources/articles/The strongest predictor of men’s well-being isn’t family or health 202010201546.md",
-    "Bins/tags/Health.md",
-    "Bins/tags/Good.md",
-    "Bins/daily/2021-07-26.md",
-    "Inbox/Sad.md",
-    "Inbox/Personal Projects.md"
+    "Bins/tags/Health.md"
   ]
 }
