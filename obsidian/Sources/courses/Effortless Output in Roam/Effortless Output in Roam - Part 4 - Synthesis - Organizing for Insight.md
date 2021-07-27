@@ -22,4 +22,10 @@ Tags:
 - Idea developed by [[Tiago Forte]]
 ![[Effortless Output in Roam - Part 3 - Research - Building Your Roam Database#^78bcd7]]
 - Step above is necessary to do [[Progressive Summarization]] in [[Obsidian]]
-- 
+1. Start with Tagging
+2. Then goes bolding. Highlighting the information that jumps at you or you think is important.
+3. Highlighting. Only highligting some of the thinks you bolded. This will help to pinpoint the most important parts, which ill be useful for quick reference.
+4. Final step is [[Summarizing]]. You can take the most important info and write a quick summary about the topic idea. Can be written under Summary h3. This could be a paragraph or a bunch of points.
+- this can conclude the inbox treatment.
+
+## 5. Consolidating Your Knowledge into Head Pages

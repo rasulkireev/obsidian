@@ -4,29 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "c3d7bd3bd2d9e9bb",
+        "id": "6d55a119502506d6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "220af78925a037b1",
+    "id": "4659ff7ee4e6ce9a",
     "type": "split",
     "children": [
       {
-        "id": "d1ac7714d8e6114c",
+        "id": "822cfc1661f19e80",
         "type": "tabs",
         "children": [
           {
-            "id": "a31460f7e783c6ec",
+            "id": "591641ab932c5a5b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +31,12 @@
             }
           },
           {
-            "id": "b9d27a53bcdf8d07",
+            "id": "3ad4e3661360a9c2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Inbox",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,45 +49,34 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5036334991455
+    "width": 300
   },
   "right": {
-    "id": "a6e9b40b06925a87",
+    "id": "e2d3819102f9bccf",
     "type": "split",
     "children": [
       {
-        "id": "bed234bd63adf40b",
+        "id": "43fd940a97e7299f",
         "type": "tabs",
         "children": [
           {
-            "id": "b911220844a38ee2",
+            "id": "d94c1ee7ce17ad60",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "da6973fdc41612b3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md"
-              }
-            }
-          },
-          {
-            "id": "032f342b0276015c",
+            "id": "4d1e20cd027aa148",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -99,47 +85,13 @@
                 "useHierarchy": true
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "3c0617f15b1af937",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "3ae48595cdae6fd6",
+            "id": "79cbc3a96fa2a313",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.40844332494220204,
-                  "close": false
-                }
-              }
+              "type": "outline",
+              "state": {}
             }
           }
         ]
@@ -148,17 +100,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c3d7bd3bd2d9e9bb",
+  "active": "6d55a119502506d6",
   "lastOpenFiles": [
-    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
-    "Inbox/Tiago Forte.md",
-    "Inbox/Progressive Summarization.md",
-    "Inbox/Search.md",
-    "Inbox/Azure DevOps.md",
-    "Inbox/day planning.md",
+    "Bins/daily/2021-07-27.md",
+    "Bins/daily/Morning Pages Promts.md",
+    "Sources/articles/The strongest predictor of men’s well-being isn’t family or health 202010201546.md",
+    "Bins/tags/Health.md",
+    "Bins/tags/Good.md",
     "Bins/daily/2021-07-26.md",
-    "Inbox/Tasks.md",
-    "Inbox/Toggl.md",
-    "Inbox/Github Project Board.md"
+    "Inbox/Sad.md",
+    "Inbox/Personal Projects.md",
+    "Inbox/Great.md",
+    "Inbox/Exercise Buddy.md"
   ]
 }
