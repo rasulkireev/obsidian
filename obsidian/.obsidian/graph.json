@@ -5,13 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Notes",
+      "query": "#tag",
       "color": {
         "a": 1,
         "rgb": 14876847
+      }
+    },
+    {
+      "query": "#writingidea",
+      "color": {
+        "a": 1,
+        "rgb": 56576
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.08202534187718803,
+  "scale": 0.2732620069508411,
   "close": false
 }
