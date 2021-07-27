@@ -7,8 +7,11 @@
         "id": "6d55a119502506d6",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md"
+              }
             }
           }
         ]

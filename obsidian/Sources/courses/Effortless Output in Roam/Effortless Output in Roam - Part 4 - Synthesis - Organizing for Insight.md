@@ -29,3 +29,6 @@ Tags:
 - this can conclude the inbox treatment.
 
 ## 5. Consolidating Your Knowledge into Head Pages
+- All the collected info sits in different notes.
+- Now we need to combine it into head pages. This is to dive deeper on major concepts of our [[Research]]
+- Basically you go to the "tagnote" page and start populating the info based on  the backlinks you have added.
