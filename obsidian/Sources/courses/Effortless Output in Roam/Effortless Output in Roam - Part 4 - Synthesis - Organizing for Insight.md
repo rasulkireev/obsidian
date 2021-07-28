@@ -40,4 +40,5 @@ Tags:
 - You can obviously use [[Block Reference | block refs]]
 
 ## 6. Advanced References and Embeds
+- In [[Roam Research]] you can edit the embed without going to the original page, and edits will propogate.
 - 

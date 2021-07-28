@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6d55a119502506d6",
+        "id": "eaaf21747372cecb",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -106,17 +106,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6d55a119502506d6",
+  "active": "eaaf21747372cecb",
   "lastOpenFiles": [
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
-    "Inbox/Summary.md",
-    "Inbox/Block Reference.md",
-    "Inbox/Backlinks.md",
+    "Inbox/Azure.md",
     "Inbox/Tagnote.md",
-    "Inbox/Tagging.md",
-    "Inbox/Bolding.md",
-    "Inbox/Highlighting.md",
-    "Bins/daily/2021-07-27.md",
-    "Inbox/Jacquemus.md"
+    "Inbox/azure powershell script to disable Databricks DiagnosticSetting.md",
+    "Inbox/Azure Releases Pipeline.md",
+    "Inbox/Databricks.md",
+    "Inbox/DiagnosticSetting.md",
+    "Inbox/Powershell.md",
+    "Inbox/Azure Releases.md",
+    "Inbox/Azure Pipeline.md"
   ]
 }
