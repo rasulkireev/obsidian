@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md",
+            "file": "Bins/daily/2021-07-28.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md",
+                "file": "Bins/daily/2021-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md"
+                "file": "Bins/daily/2021-07-28.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md",
+                "file": "Bins/daily/2021-07-28.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,15 +150,15 @@
   },
   "active": "44d7305d05304a26",
   "lastOpenFiles": [
-    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md",
     "Bins/daily/2021-07-28.md",
+    "Inbox/Open Source.md",
+    "Inbox/Repository.md",
+    "Inbox/Don't Repeat Yourself.md",
+    "Inbox/Project Management.md",
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md",
     "Inbox/Personal CRM.md",
     "Inbox/CRM.md",
     "Inbox/Metadata.md",
-    "Inbox/Recipe Management.md",
-    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
-    "Inbox/Mure + Grand.md",
-    "Inbox/Macy's.md",
-    "Inbox/Dover Street Market New York.md"
+    "Inbox/Recipe Management.md"
   ]
 }
