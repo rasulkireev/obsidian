@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e31a11d86db588e2",
+        "id": "44d7305d05304a26",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -101,23 +101,63 @@
             }
           }
         ]
+      },
+      {
+        "id": "7e89c2a72c8bfee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83ab6de147a2a784",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.08749535921658175,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "e31a11d86db588e2",
+  "active": "44d7305d05304a26",
   "lastOpenFiles": [
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
-    "Bins/daily/2021-07-28.md",
-    "Inbox/Dover Street Market New York.md",
-    "Inbox/Nordstrom.md",
+    "Inbox/Mure + Grand.md",
     "Inbox/Macy's.md",
+    "Inbox/Dover Street Market New York.md",
+    "Bins/daily/2021-07-28.md",
+    "Inbox/Nordstrom.md",
     "Inbox/Tiffany & Co.md",
     "Inbox/UGG.md",
     "Bins/tags/Muji.md",
-    "Inbox/Mure + Grand.md",
     "Bins/daily/2021-07-27.md"
   ]
 }

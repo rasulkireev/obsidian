@@ -19,4 +19,13 @@ Tags:
 	- [[Project Plan]] ...
 
 ## 3. Using [[Queries]] to Dynamically Build Your Projects
+Examples:
+- display pages with two (queried) links
+	- can add not something
+	- so any boolean logic for tags and links 
+- search for todos that are related to a tag
+
+		```query
+		content:[[Productivity]] AND task-todo: ""
+		```
 - 
