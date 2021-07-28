@@ -7,23 +7,26 @@
         "id": "e31a11d86db588e2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4659ff7ee4e6ce9a",
+    "id": "01a08d58dc97bd21",
     "type": "split",
     "children": [
       {
-        "id": "822cfc1661f19e80",
+        "id": "85db1de1ce787c7f",
         "type": "tabs",
         "children": [
           {
-            "id": "591641ab932c5a5b",
+            "id": "43d500a5a7f7b700",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +34,7 @@
             }
           },
           {
-            "id": "3ad4e3661360a9c2",
+            "id": "2f84bcf002409df3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,31 +55,32 @@
     "width": 300
   },
   "right": {
-    "id": "e2d3819102f9bccf",
+    "id": "dfb9233345068ccb",
     "type": "split",
     "children": [
       {
-        "id": "43fd940a97e7299f",
+        "id": "27fad9fd23b19cce",
         "type": "tabs",
         "children": [
           {
-            "id": "d94c1ee7ce17ad60",
+            "id": "2983468b9e1448f4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4d1e20cd027aa148",
+            "id": "c86324c47470f3d0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -87,50 +91,12 @@
             }
           },
           {
-            "id": "79cbc3a96fa2a313",
+            "id": "0ded6e6657a65bb3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "08a166b60e437475",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e993c7e293acbd83",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
               "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6691819087920924,
-                  "close": false
-                }
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md"
               }
             }
           }
@@ -138,19 +104,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "e31a11d86db588e2",
   "lastOpenFiles": [
-    "Inbox/Area of Responsibility.md",
-    "Bins/tags/Overview.md",
-    "Inbox/Project Plan.md",
-    "Inbox/Overview.md",
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
     "Bins/daily/2021-07-28.md",
-    "Inbox/Main Goals in my Life.md",
-    "Bins/tags/Todoist.md",
-    "Bins/tags/Tasks.md",
-    "Bins/daily/2021-07-26.md",
+    "Inbox/Dover Street Market New York.md",
+    "Inbox/Nordstrom.md",
+    "Inbox/Macy's.md",
+    "Inbox/Tiffany & Co.md",
+    "Inbox/UGG.md",
+    "Bins/tags/Muji.md",
+    "Inbox/Mure + Grand.md",
     "Bins/daily/2021-07-27.md"
   ]
 }
