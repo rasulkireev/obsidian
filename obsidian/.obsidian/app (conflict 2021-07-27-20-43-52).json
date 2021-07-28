@@ -1,0 +1,14 @@
+{
+  "spellcheck": true,
+  "useMarkdownLinks": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "resources",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "vimMode": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox"
+}

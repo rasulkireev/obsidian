@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "52f6e651eda7f43c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d55a119502506d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50f7e17a591deeab",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8b12f8944b489ebc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "13ca4799f432ce07",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4bba98a6f80830bc",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9da102790faf95ea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b23d54eab8e6a5c1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b1448a6401e83121",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6d55a119502506d6",
+  "lastOpenFiles": [
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
+    "Inbox/Summary.md",
+    "Inbox/Block Reference.md",
+    "Inbox/Backlinks.md",
+    "Inbox/Tagnote.md",
+    "Inbox/Tagging.md",
+    "Inbox/Bolding.md",
+    "Inbox/Highlighting.md",
+    "Bins/daily/2021-07-27.md",
+    "Inbox/Jacquemus.md"
+  ]
+}
