@@ -136,7 +136,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4239098438330246,
+                  "scale": 0.20157632664680517,
                   "close": false
                 }
               }
@@ -151,6 +151,7 @@
   "active": "44d7305d05304a26",
   "lastOpenFiles": [
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md",
+    "Bins/daily/2021-07-28.md",
     "Inbox/Personal CRM.md",
     "Inbox/CRM.md",
     "Inbox/Metadata.md",
@@ -158,7 +159,6 @@
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
     "Inbox/Mure + Grand.md",
     "Inbox/Macy's.md",
-    "Inbox/Dover Street Market New York.md",
-    "Bins/daily/2021-07-28.md"
+    "Inbox/Dover Street Market New York.md"
   ]
 }

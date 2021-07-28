@@ -28,4 +28,5 @@ Tags:
 
 
 ## 3. Roam as a [[Personal CRM]] / [[CRM]]
+- add some [[Metadata]]
 - 
