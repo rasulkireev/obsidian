@@ -29,4 +29,6 @@ Tags:
 
 ## 3. Roam as a [[Personal CRM]] / [[CRM]]
 - add some [[Metadata]]
-- 
+- build a [[Habits | Habit]] of filling out a person page upon each interaction.
+- can also be populated from [[Daily Notes]]
+- [[Tagging]] anything that can be relevant
