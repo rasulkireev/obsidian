@@ -1,12 +1,4 @@
 {
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Backspace"
-    }
-  ],
   "daily-notes": [
     {
       "modifiers": [
