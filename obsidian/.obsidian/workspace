@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "eaaf21747372cecb",
+        "id": "23e7ebfb99cba26b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
+            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md"
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md"
               }
             }
           }
@@ -106,17 +106,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "eaaf21747372cecb",
+  "active": "23e7ebfb99cba26b",
   "lastOpenFiles": [
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight 1.md",
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
+    "Inbox/Synthesis.md",
+    "Bins/attachments/Pasted image 20210727202025.png",
     "Inbox/Azure.md",
     "Inbox/Tagnote.md",
     "Inbox/azure powershell script to disable Databricks DiagnosticSetting.md",
     "Inbox/Azure Releases Pipeline.md",
     "Inbox/Databricks.md",
-    "Inbox/DiagnosticSetting.md",
-    "Inbox/Powershell.md",
-    "Inbox/Azure Releases.md",
-    "Inbox/Azure Pipeline.md"
+    "Inbox/DiagnosticSetting.md"
   ]
 }

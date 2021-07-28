@@ -41,4 +41,10 @@ Tags:
 
 ## 6. Advanced References and Embeds
 - In [[Roam Research]] you can edit the embed without going to the original page, and edits will propogate.
-- 
+- One strategy is to display the link to the source and "summarize" it, like this
+![[Example of sources in Roam 20210727201828.png]]
+![[Example of sources in Roam Two 20210727202025.png]]
+
+## 7. [[Synthesis]] Outro
+- Take some time to tag, progressively summarize, and organize your information into head pages.
+- Re-visit your deliverable for the Capstone project. Does that question and final product still make sense? Feel free to adjust!

@@ -2,7 +2,7 @@
   "spellcheck": true,
   "useMarkdownLinks": false,
   "promptDelete": false,
-  "attachmentFolderPath": "resources",
+  "attachmentFolderPath": "Bins/attachments",
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "foldHeading": true,
