@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
+            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dfb9233345068ccb",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md"
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md"
               }
             }
           }
@@ -112,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
+                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,7 +136,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.08749535921658175,
+                  "scale": 0.4239098438330246,
                   "close": false
                 }
               }
@@ -149,15 +150,15 @@
   },
   "active": "44d7305d05304a26",
   "lastOpenFiles": [
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md",
+    "Inbox/Personal CRM.md",
+    "Inbox/CRM.md",
+    "Inbox/Metadata.md",
+    "Inbox/Recipe Management.md",
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
     "Inbox/Mure + Grand.md",
     "Inbox/Macy's.md",
     "Inbox/Dover Street Market New York.md",
-    "Bins/daily/2021-07-28.md",
-    "Inbox/Nordstrom.md",
-    "Inbox/Tiffany & Co.md",
-    "Inbox/UGG.md",
-    "Bins/tags/Muji.md",
-    "Bins/daily/2021-07-27.md"
+    "Bins/daily/2021-07-28.md"
   ]
 }
