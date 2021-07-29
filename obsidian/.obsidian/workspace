@@ -4,7 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3d54c448180f2f1c",
+        "id": "71e788573b740c8b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Output/Project Ideas 202107291607.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3b93aa9041068f1d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -105,19 +116,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.7156982421875
+    "width": 299.7156982421875,
+    "collapsed": true
   },
-  "active": "3d54c448180f2f1c",
+  "active": "3b93aa9041068f1d",
   "lastOpenFiles": [
     "Bins/daily/2021-07-29.md",
+    "Output/Project Ideas 202107291607.md",
+    "Inbox/D3.js.md",
+    "Inbox/Project Management.md",
+    "Inbox/Maison Margiela.md",
     "Inbox/Link Graph.md",
-    "Inbox/ARM templates.md",
     "Inbox/ArcGIS.md",
-    "Inbox/Queries.md",
-    "Inbox/2021-08-04.md",
-    "Bins/daily/2021-07-27.md",
-    "Inbox/Sauna.md",
-    "Inbox/Steamer.md",
-    "Inbox/Data Analysis.md"
+    "Inbox/Typescript.md",
+    "Inbox/Facebook.md",
+    "Inbox/Gatsby 202107291610.md"
   ]
 }
