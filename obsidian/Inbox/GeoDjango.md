@@ -1,4 +1,4 @@
 #Tag 
 #Technology 
 
-[[Django]] extension to work with Geo data.
+[[Django]] extension to work with [[Geo Data]].
