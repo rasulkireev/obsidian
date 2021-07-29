@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "52f6e651eda7f43c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e31a11d86db588e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bins/daily/2021-07-28.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01a238fc969b6e21",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aca3fede790183ad",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "354b5e76f9f9c089",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "63cfa64f2f64c24b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f517ee2af4c51915",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f18a64edb4d39565",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Bins/daily/2021-07-28.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5a00ad9f9135b253",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Bins/daily/2021-07-28.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e31a11d86db588e2",
+  "lastOpenFiles": [
+    "Bins/daily/2021-07-28.md",
+    "Inbox/Area of Responsibility.md",
+    "Bins/tags/Overview.md",
+    "Inbox/Project Plan.md",
+    "Inbox/Overview.md",
+    "Inbox/Main Goals in my Life.md",
+    "Bins/tags/Todoist.md",
+    "Bins/tags/Tasks.md",
+    "Bins/daily/2021-07-26.md",
+    "Bins/daily/2021-07-27.md"
+  ]
+}
