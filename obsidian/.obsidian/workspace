@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/daily/2021-07-29.md",
+                "file": "Output/Project Ideas 202107291607.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/daily/2021-07-29.md"
+                "file": "Output/Project Ideas 202107291607.md"
               }
             }
           }
@@ -119,17 +119,17 @@
     "width": 299.7156982421875,
     "collapsed": true
   },
-  "active": "3b93aa9041068f1d",
+  "active": "71e788573b740c8b",
   "lastOpenFiles": [
-    "Bins/daily/2021-07-29.md",
     "Output/Project Ideas 202107291607.md",
+    "Inbox/Affinity Publisher.md",
+    "Inbox/Affinity Designer.md",
+    "Inbox/Flyer.md",
+    "Bins/daily/2021-07-29.md",
     "Inbox/D3.js.md",
     "Inbox/Project Management.md",
     "Inbox/Maison Margiela.md",
     "Inbox/Link Graph.md",
-    "Inbox/ArcGIS.md",
-    "Inbox/Typescript.md",
-    "Inbox/Facebook.md",
-    "Inbox/Gatsby 202107291610.md"
+    "Inbox/ArcGIS.md"
   ]
 }
