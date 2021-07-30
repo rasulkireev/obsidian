@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "71e788573b740c8b",
+        "id": "44d7305d05304a26",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/daily/2021-07-29.md",
+            "file": "Bins/daily/2021-07-28.md",
             "mode": "source"
           }
         }
@@ -18,11 +18,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "accc43628f9a1782",
+    "id": "77459f23926bb7f9",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5339c4393ba16496",
+        "id": "82c300b28605cb99",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -30,7 +30,7 @@
         }
       },
       {
-        "id": "fad418a73fc03b6a",
+        "id": "aa64a1ee42fc09b5",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -45,7 +45,7 @@
         }
       },
       {
-        "id": "9140ba002eba9118",
+        "id": "15a091121f69786c",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -59,16 +59,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "7ba99d1c9f0dd115",
+    "id": "8dde83b2b910b41e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "130f84bfc5a95383",
+        "id": "6f976783c75015e8",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bins/daily/2021-07-29.md",
+            "file": "Bins/daily/2021-07-28.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -80,37 +80,29 @@
         }
       },
       {
-        "id": "223d8f54d17e4a90",
+        "id": "9d6f6568af6f0cf4",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Bins/daily/2021-07-29.md"
+            "file": "Bins/daily/2021-07-28.md"
           }
-        }
-      },
-      {
-        "id": "8f584621eb030b65",
-        "type": "leaf",
-        "state": {
-          "type": "advanced-tables-toolbar",
-          "state": {}
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
-  "active": "71e788573b740c8b",
+  "active": "44d7305d05304a26",
   "lastOpenFiles": [
-    "Bins/daily/2021-07-29.md",
-    "Output/Project Ideas 202107291607.md",
-    "Inbox/Affinity Publisher.md",
-    "Inbox/Affinity Designer.md",
-    "Inbox/Flyer.md",
-    "Inbox/D3.js.md",
+    "Bins/daily/2021-07-28.md",
+    "Inbox/Open Source.md",
+    "Inbox/Repository.md",
+    "Inbox/Don't Repeat Yourself.md",
     "Inbox/Project Management.md",
-    "Inbox/Maison Margiela.md",
-    "Inbox/Link Graph.md",
-    "Inbox/ArcGIS.md"
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 8 - Appendix 2 - Bonus Use Cases.md",
+    "Inbox/Personal CRM.md",
+    "Inbox/CRM.md",
+    "Inbox/Metadata.md",
+    "Inbox/Recipe Management.md"
   ]
 }
