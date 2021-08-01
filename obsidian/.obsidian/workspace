@@ -7,102 +7,111 @@
         "id": "71e788573b740c8b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bins/daily/2021-07-30.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9deba844ee2407d4",
-    "type": "mobile-drawer",
+    "id": "bd8152a160dac796",
+    "type": "split",
     "children": [
       {
-        "id": "d9f1fd1f0934c9fd",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "19497831c35302c8",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "0598c4b616027873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd5760862bb338c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c1889403d4aeffa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "6e43fa16e2f752f0",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "22c4addd04ead38e",
-    "type": "mobile-drawer",
+    "id": "a2689aa35caca5b3",
+    "type": "split",
     "children": [
       {
-        "id": "f3f580823920ce07",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Bins/daily/2021-07-30.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "737a00b6a12d11c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eddeac11adf7e42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6fa44e517c13588",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cea7f60cbd0848e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "d374bd865d9eba05",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Bins/daily/2021-07-30.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "71e788573b740c8b",
   "lastOpenFiles": [
+    "Inbox/npx webpack flatMap error on Ubuntu server.md",
+    "Inbox/npx.md",
+    "Inbox/npm.md",
+    "Inbox/Ubuntu.md",
+    "Inbox/Nodejs.md",
+    "Inbox/Webpack.md",
+    "Inbox/Untitled.md",
     "Bins/daily/2021-07-30.md",
     "Bins/daily/2021-07-29.md",
-    "Output/Project Ideas 202107291607.md",
-    "Inbox/Affinity Publisher.md",
-    "Inbox/Affinity Designer.md",
-    "Inbox/Flyer.md",
-    "Inbox/D3.js.md",
-    "Inbox/Project Management.md",
-    "Inbox/Maison Margiela.md",
-    "Inbox/Link Graph.md"
+    "Output/Project Ideas 202107291607.md"
   ]
 }
