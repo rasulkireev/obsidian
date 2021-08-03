@@ -39,4 +39,6 @@ Examples:
 	- if those descriptions can be put into a category, than it is worth putting it under separate attribute like `Status: active` (could be put into [[Frontmatter]])
 
 ## 5. Weekly [[Planning]] in Roam
+- take some time each Monday/Sunday to plan the week ahead. This can be done in the "Weekly Plan for  8/31" page where the date is the start of the week (ie Monday). [[Weekly Plan Template]]
+- The idea is to look at pre-existing [[Queries]] and pull them into the [[Weekly Planning | Weekly Plan]].
 - 
