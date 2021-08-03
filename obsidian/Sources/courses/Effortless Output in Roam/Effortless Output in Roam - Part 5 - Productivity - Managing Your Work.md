@@ -45,4 +45,8 @@ Examples:
 ## 6. The [[Daily Productivity Dashboard Template | Daily Productivity Dashboard]]
 -  If you are putting dates next to your tasks, then they should automatically show up on you daily notes page. blow is an example of a todo that will show up on the [[Daily Notes|Daily Note]].
 	-  [ ] example todo [[2021-08-03]]
-- 
+- below is an example / test of a todo task under top priorities heading
+
+### [[Top Priorities]]
+- [ ] an example of top priority task
+- [ ] an example of top priority task for a specific date [[2021-08-04]]
