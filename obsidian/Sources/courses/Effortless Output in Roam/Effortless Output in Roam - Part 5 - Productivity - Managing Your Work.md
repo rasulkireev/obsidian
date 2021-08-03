@@ -40,5 +40,6 @@ Examples:
 
 ## 5. Weekly [[Planning]] in Roam
 - take some time each Monday/Sunday to plan the week ahead. This can be done in the "Weekly Plan for  8/31" page where the date is the start of the week (ie Monday). [[Weekly Plan Template]]
-- The idea is to look at pre-existing [[Queries]] and pull them into the [[Weekly Planning | Weekly Plan]].
-- 
+- The idea is to look at pre-existing [[Queries]] and pull them into the [[Weekly Plan Template| Weekly Plan]].
+
+## 6. The [[Daily Productivity Dashboard Template | Daily Productivity Dashboard]]

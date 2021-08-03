@@ -6,5 +6,6 @@
 - pull tasks from pages above
 	
 	
-## [[Daily Habits]]
-- run ```{!!wlinks}```
+## [[Daily Habits]] - Optional
+- name of the habit you want to do 
+	- then, run ```{!!wlinks}```
