@@ -33,5 +33,8 @@ Examples:
 		```
 - When you are creating those tasks you can add a date next to them as to when you want to complete them. That way those tasks will show up in your [[Daily Notes]]
 
-## 4. Managing Different Projects
+## 4. [[Project Management| Managing Different Projects]]
+- Important to [[Tag]] you project with `[[projects]]` so that you have a projects page with all the things you are working on. (or maybe a `#project` is better since it is kind of a description tag... )
+- when [[Tagging]] a project, also think about other descriptive tags, like: active/done/archived, personal/work, writing/coding, etc.
+	- if those descriptions can be put into a category, than it is worth putting it under separate attribute like `Status: active` (could be put into [[Frontmatter]])
 - 

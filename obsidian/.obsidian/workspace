@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Untitled.md",
+            "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ff151c601946ca82",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bins/tags/Skills.md",
             "mode": "source"
           }
         }
@@ -18,98 +29,106 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4d2199c000551566",
-    "type": "mobile-drawer",
+    "id": "bd8152a160dac796",
+    "type": "split",
     "children": [
       {
-        "id": "31cd3a49d56f4f6d",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "7d27dbe770dccdd5",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "0598c4b616027873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd5760862bb338c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c1889403d4aeffa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Skill",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "a213551b426e0567",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      }
-    ]
-  },
-  "right": {
-    "id": "baeb6b953187aa42",
-    "type": "mobile-drawer",
-    "children": [
-      {
-        "id": "c9d5ba7e384dc1c4",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Inbox/Untitled.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "7952794648b6a26a",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Inbox/Untitled.md"
-          }
-        }
-      },
-      {
-        "id": "1c3b67c821b1ae9a",
-        "type": "leaf",
-        "state": {
-          "type": "advanced-tables-toolbar",
-          "state": {}
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 2
+    "direction": "horizontal",
+    "width": 300
   },
-  "active": "71e788573b740c8b",
+  "right": {
+    "id": "a2689aa35caca5b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "737a00b6a12d11c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eddeac11adf7e42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bins/tags/Skills.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6fa44e517c13588",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cea7f60cbd0848e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bins/tags/Skills.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ff151c601946ca82",
   "lastOpenFiles": [
+    "Bins/tags/Skills.md",
+    "Bins/tags/Tagging.md",
+    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
+    "Inbox/Frontmatter.md",
     "Inbox/Untitled.md",
     "Inbox/Everyone.md",
     "Inbox/Bryan Jenks.md",
     "Inbox/PKM.md",
     "Inbox/npx webpack flatMap error on Ubuntu server.md",
-    "Inbox/npx.md",
-    "Inbox/npm.md",
-    "Inbox/Ubuntu.md",
-    "Inbox/Nodejs.md",
-    "Inbox/Webpack.md"
+    "Inbox/npx.md"
   ]
 }

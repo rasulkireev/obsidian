@@ -1,1 +1,6 @@
+---
+aliases:
+  - tag
+---
+
 #Tag 
