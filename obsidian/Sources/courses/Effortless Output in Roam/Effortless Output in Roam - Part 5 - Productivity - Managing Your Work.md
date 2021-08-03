@@ -1,4 +1,4 @@
- Author: [[Nat Eliason]]
+Author: [[Nat Eliason]]
 URL: https://learn.nateliason.com/courses/enrolled/764250
 Tags: 
 	- #Course 
@@ -43,3 +43,4 @@ Examples:
 - The idea is to look at pre-existing [[Queries]] and pull them into the [[Weekly Plan Template| Weekly Plan]].
 
 ## 6. The [[Daily Productivity Dashboard Template | Daily Productivity Dashboard]]
+- 
