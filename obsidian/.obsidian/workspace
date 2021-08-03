@@ -18,94 +18,86 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bd8152a160dac796",
-    "type": "split",
+    "id": "4d2199c000551566",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "0598c4b616027873",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cd5760862bb338c7",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "6c1889403d4aeffa",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "31cd3a49d56f4f6d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "7d27dbe770dccdd5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "a213551b426e0567",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
-    ],
-    "direction": "horizontal",
-    "width": 300
+    ]
   },
   "right": {
-    "id": "a2689aa35caca5b3",
-    "type": "split",
+    "id": "baeb6b953187aa42",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "737a00b6a12d11c6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7eddeac11adf7e42",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Inbox/Untitled.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c6fa44e517c13588",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "3cea7f60cbd0848e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Inbox/Untitled.md"
-              }
-            }
+        "id": "c9d5ba7e384dc1c4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Inbox/Untitled.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "7952794648b6a26a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Inbox/Untitled.md"
+          }
+        }
+      },
+      {
+        "id": "1c3b67c821b1ae9a",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 2
   },
   "active": "71e788573b740c8b",
   "lastOpenFiles": [
