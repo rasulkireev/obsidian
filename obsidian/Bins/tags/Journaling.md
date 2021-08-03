@@ -2,6 +2,7 @@
 aliases:
  - "Morning Pages"
  - "Morning Journaling"
+ - Journal
 tags:
  - tag
 ---

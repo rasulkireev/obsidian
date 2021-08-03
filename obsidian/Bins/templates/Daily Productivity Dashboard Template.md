@@ -1,4 +1,4 @@
-## [[Journaling|Morning Pages]]
+## [[Journaling|Journal]]
 - [[Morning Pages Promts]] for ideas
 
 ### General
