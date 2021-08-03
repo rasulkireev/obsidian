@@ -1,0 +1,18 @@
+{
+  "command_timeout": 5,
+  "template_folder": "Bins/templates",
+  "templates_pairs": [
+    [
+      "{{test}}",
+      "obsidian_plugin_test.sh"
+    ],
+    [
+      "{{test2}}",
+      "echo \"test2 is in action\""
+    ]
+  ],
+  "trigger_on_file_creation": false,
+  "enable_system_commands": true,
+  "shell_path": "~/ps/bin",
+  "syntax_highlighting": true
+}

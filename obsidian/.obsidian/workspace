@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "71e788573b740c8b",
+        "id": "99d6c3ccb46e85b7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0fcb688dfa0633df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bins/templates/Daily Productivity Dashboard Template.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
+                "file": "Bins/templates/Daily Productivity Dashboard Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md"
+                "file": "Bins/templates/Daily Productivity Dashboard Template.md"
               }
             }
           }
@@ -106,17 +117,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "71e788573b740c8b",
+  "active": "0fcb688dfa0633df",
   "lastOpenFiles": [
+    "Bins/templates/Daily Productivity Dashboard Template.md",
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
+    "Bins/tags/Daily Notes.md",
+    "Bins/queries/TODOs.md",
+    "Inbox/2021-08-03.md",
+    "Bins/templates/test template.md",
+    "Bins/templates/Weekly Plan Template.md",
+    "Bins/templates/Untitled.md",
     "Inbox/Webpack.md",
-    "Inbox/Daily Habits.md",
-    "Inbox/Top Priorities.md",
-    "Inbox/Weekly Planning.md",
-    "Inbox/Untitled.md",
-    "Inbox/Everyone.md",
-    "Inbox/Affinity Designer.md",
-    "Inbox/Daily Productivity Dashboard Template.md",
-    "Inbox/Weekly Plan Template.md"
+    "Inbox/Daily Habits.md"
   ]
 }

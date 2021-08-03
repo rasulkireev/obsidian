@@ -1,1 +1,6 @@
-#Tag 
+---
+aliases: 
+ - "Daily Note"
+tags: 
+ - Tag 
+---

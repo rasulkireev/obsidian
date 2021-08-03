@@ -43,4 +43,6 @@ Examples:
 - The idea is to look at pre-existing [[Queries]] and pull them into the [[Weekly Plan Template| Weekly Plan]].
 
 ## 6. The [[Daily Productivity Dashboard Template | Daily Productivity Dashboard]]
+-  If you are putting dates next to your tasks, then they should automatically show up on you daily notes page. blow is an example of a todo that will show up on the [[Daily Notes|Daily Note]].
+	-  [ ] example todo [[2021-08-03]]
 - 
