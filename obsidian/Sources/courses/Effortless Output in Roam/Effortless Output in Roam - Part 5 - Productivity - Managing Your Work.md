@@ -37,4 +37,6 @@ Examples:
 - Important to [[Tag]] you project with `[[projects]]` so that you have a projects page with all the things you are working on. (or maybe a `#project` is better since it is kind of a description tag... )
 - when [[Tagging]] a project, also think about other descriptive tags, like: active/done/archived, personal/work, writing/coding, etc.
 	- if those descriptions can be put into a category, than it is worth putting it under separate attribute like `Status: active` (could be put into [[Frontmatter]])
+
+## 5. Weekly [[Planning]] in Roam
 - 
