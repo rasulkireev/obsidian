@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43c1f63504dc8f94",
+        "id": "e8654c8c422b5569",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sources/courses/Effortless Output in Roam/Efforless Output in Roam.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Efforless Output in Roam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sources/courses/Effortless Output in Roam/Efforless Output in Roam.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -106,9 +100,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "43c1f63504dc8f94",
+  "active": "e8654c8c422b5569",
   "lastOpenFiles": [
     "Sources/courses/Effortless Output in Roam/Efforless Output in Roam.md",
+    "Bins/templates/test template.md",
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 6 - Creation - Turning Your Research into New Work.md",
     "Inbox/Creation.md",
     "Inbox/Articles.md",
@@ -116,7 +111,6 @@
     "Inbox/Newsletters.md",
     "Inbox/Screenplay.md",
     "Inbox/Project Outline.md",
-    "Inbox/Business Plans.md",
-    "Inbox/Outlining.md"
+    "Inbox/Business Plans.md"
   ]
 }

@@ -3,11 +3,11 @@
   "template_folder": "Bins/templates",
   "templates_pairs": [
     [
-      "{{test}}",
+      "test",
       "obsidian_plugin_test.sh"
     ],
     [
-      "{{test2}}",
+      "test2",
       "echo \"test2 is in action\""
     ]
   ],
