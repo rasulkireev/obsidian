@@ -6,3 +6,5 @@ Tags:
   - #Video 
 
 ## What is [[PKM]]?
+- you need to have a [[Goals|goal]] in mind to go towards
+	- sure it is fine to take random notes, perhaps [[Journaling]], and other things, but the best 

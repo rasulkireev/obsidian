@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a2689aa35caca5b3",
@@ -104,19 +105,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "e8654c8c422b5569",
   "lastOpenFiles": [
     "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
+    "Inbox/Untitled.md",
+    "Bins/tags/Goals.md",
+    "Bins/tags/PKM.md",
     "Bins/people/Bryan Jenks.md",
     "Sources/courses/Effortless Output in Roam/Efforless Output in Roam.md",
     "Bins/templates/test template.md",
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 6 - Creation - Turning Your Research into New Work.md",
     "Inbox/Creation.md",
-    "Inbox/Articles.md",
-    "Inbox/Books.md",
-    "Inbox/Newsletters.md",
-    "Inbox/Screenplay.md"
+    "Inbox/Articles.md"
   ]
 }
