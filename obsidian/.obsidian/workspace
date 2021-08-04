@@ -7,8 +7,11 @@
         "id": "e8654c8c422b5569",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,12 +68,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md"
+              }
             }
           }
         ]
@@ -102,6 +108,8 @@
   },
   "active": "e8654c8c422b5569",
   "lastOpenFiles": [
+    "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
+    "Bins/people/Bryan Jenks.md",
     "Sources/courses/Effortless Output in Roam/Efforless Output in Roam.md",
     "Bins/templates/test template.md",
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 6 - Creation - Turning Your Research into New Work.md",
@@ -109,8 +117,6 @@
     "Inbox/Articles.md",
     "Inbox/Books.md",
     "Inbox/Newsletters.md",
-    "Inbox/Screenplay.md",
-    "Inbox/Project Outline.md",
-    "Inbox/Business Plans.md"
+    "Inbox/Screenplay.md"
   ]
 }
