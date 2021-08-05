@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/tags/Nodejs.md",
-            "mode": "preview"
+            "file": "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/tags/Nodejs.md",
+                "file": "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/tags/Nodejs.md"
+                "file": "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md"
               }
             }
           }
@@ -109,15 +109,15 @@
   },
   "active": "e8654c8c422b5569",
   "lastOpenFiles": [
-    "Bins/tags/Nodejs.md",
-    "Output/code/npx webpack flatMap error on Ubuntu server.md",
-    "Inbox/Digital Ocean.md",
-    "Bins/daily/2021-08-04.md",
-    "Inbox/Sex and the City.md",
-    "Inbox/Buddakan Restaurant.md",
-    "Inbox/Asics.md",
-    "Bins/people/Tatiana Dema.md",
     "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
-    "Inbox/Untitled.md"
+    "Inbox/Status.md",
+    "Bins/tags/Tagging.md",
+    "Inbox/Tag.md",
+    "Inbox/tag.md",
+    "Inbox/Status Tracking.md",
+    "Inbox/Quick Capture.md",
+    "Bins/tags/Obsidian.md",
+    "Inbox/Random.md",
+    "Bins/tags/Nodejs.md"
   ]
 }

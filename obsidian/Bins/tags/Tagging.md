@@ -1,6 +1,7 @@
 ---
 aliases:
   - tag
+  - tags
 ---
 
 #Tag 
