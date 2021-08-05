@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
-            "mode": "source"
+            "file": "Bins/tags/Nodejs.md",
+            "mode": "preview"
           }
         }
       }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bd8152a160dac796",
+    "id": "78b21f0aea6a6bb1",
     "type": "split",
     "children": [
       {
-        "id": "0598c4b616027873",
+        "id": "0c8abecbeff665da",
         "type": "tabs",
         "children": [
           {
-            "id": "cd5760862bb338c7",
+            "id": "ac323fb0b5ab8ee0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "6c1889403d4aeffa",
+            "id": "aa50e7dbe0dc76ca",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Skill",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,36 +52,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "a2689aa35caca5b3",
+    "id": "2c4e0f2ff8efc005",
     "type": "split",
     "children": [
       {
-        "id": "737a00b6a12d11c6",
+        "id": "958d98fc712e1fe1",
         "type": "tabs",
         "children": [
           {
-            "id": "7eddeac11adf7e42",
+            "id": "5105d03074dc5524",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
+                "file": "Bins/tags/Nodejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c6fa44e517c13588",
+            "id": "0b2b5ecfa13678f8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -92,12 +91,12 @@
             }
           },
           {
-            "id": "3cea7f60cbd0848e",
+            "id": "3237a42e93e5815c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md"
+                "file": "Bins/tags/Nodejs.md"
               }
             }
           }
@@ -110,15 +109,15 @@
   },
   "active": "e8654c8c422b5569",
   "lastOpenFiles": [
+    "Bins/tags/Nodejs.md",
+    "Output/code/npx webpack flatMap error on Ubuntu server.md",
+    "Inbox/Digital Ocean.md",
+    "Bins/daily/2021-08-04.md",
+    "Inbox/Sex and the City.md",
+    "Inbox/Buddakan Restaurant.md",
+    "Inbox/Asics.md",
+    "Bins/people/Tatiana Dema.md",
     "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
-    "Inbox/Untitled.md",
-    "Bins/tags/Goals.md",
-    "Bins/tags/PKM.md",
-    "Bins/people/Bryan Jenks.md",
-    "Sources/courses/Effortless Output in Roam/Efforless Output in Roam.md",
-    "Bins/templates/test template.md",
-    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 6 - Creation - Turning Your Research into New Work.md",
-    "Inbox/Creation.md",
-    "Inbox/Articles.md"
+    "Inbox/Untitled.md"
   ]
 }

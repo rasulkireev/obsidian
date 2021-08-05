@@ -1,2 +1,7 @@
-#Tag 
-#Technology 
+---
+aliases:
+  - Node 
+tags:
+  - Tag 
+  - Technology 
+---

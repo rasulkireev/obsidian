@@ -6,5 +6,11 @@ Tags:
   - #Video 
 
 ## What is [[PKM]]?
+-
+
+## What is your [[Goals|goal]]?
 - you need to have a [[Goals|goal]] in mind to go towards
-	- sure it is fine to take random notes, perhaps [[Journaling]], and other things, but the best 
+	- Article, Book, Academic Paper, Video Script, etc.
+	- sure it is fine to take random notes, perhaps Journaling, and other things, but the best thing you can for your [[Zettelkasten]] is to have a goal and work towards it.
+
+## Quick Capture

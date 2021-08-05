@@ -1,3 +1,8 @@
+---
+tags:
+  - writingidea
+---
+
 ## Issue
 
 If you get this error
@@ -29,3 +34,5 @@ sudo apt install build-essential
 This will update your [[Nodejs]] version and you should be able to run `npx webpack`
 
 Tags: [[Webpack]], [[npm]], [[npx]]
+
+> sidenote: this problem can be a good thing to write about and share on the [[Digital Ocean]] blog.

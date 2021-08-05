@@ -1,3 +1,8 @@
-Tags:
-- #Person
+---
+aliases:
+  - Tanya
+tags:
+  - person
+---
+
 
