@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/daily/2021-08-05.md",
+            "file": "Inbox/Weekly Planning 2021-08-02.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/daily/2021-08-05.md",
+                "file": "Inbox/Weekly Planning 2021-08-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/daily/2021-08-05.md"
+                "file": "Inbox/Weekly Planning 2021-08-02.md"
               }
             }
           }
@@ -109,6 +109,7 @@
   },
   "active": "de791d9fde468e0b",
   "lastOpenFiles": [
+    "Inbox/Weekly Planning 2021-08-02.md",
     "Bins/daily/2021-08-05.md",
     "Inbox/Untitled 1.md",
     "Inbox/Untitled.md",
@@ -117,7 +118,6 @@
     "Inbox/dbt.md",
     "Bins/tags/Journaling.md",
     "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
-    "Inbox/Textual Search.md",
-    "Inbox/Cataloging.md"
+    "Inbox/Textual Search.md"
   ]
 }
