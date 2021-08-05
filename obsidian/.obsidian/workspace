@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
+            "file": "Bins/daily/2021-08-05.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
+                "file": "Bins/daily/2021-08-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md"
+                "file": "Bins/daily/2021-08-05.md"
               }
             }
           }
@@ -110,15 +110,15 @@
   },
   "active": "e8654c8c422b5569",
   "lastOpenFiles": [
+    "Bins/daily/2021-08-05.md",
+    "Inbox/dbt.md",
+    "Bins/tags/Journaling.md",
     "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
     "Inbox/Textual Search.md",
     "Inbox/Cataloging.md",
     "Inbox/Special Symbol Taxonomy.md",
     "Bins/tags/Dunning-Kruger effect.md",
     "Inbox/Cutter Classification System.md",
-    "Sources/articles/Unskilled and Unaware of It - How Diffculties in Recognizing One’s Own Incompetence Lead to Infated Self-Assessments.md",
-    "Inbox/Filter.md",
-    "Bins/tags/Search.md",
-    "Inbox/Status.md"
+    "Sources/articles/Unskilled and Unaware of It - How Diffculties in Recognizing One’s Own Incompetence Lead to Infated Self-Assessments.md"
   ]
 }
