@@ -5,7 +5,7 @@ URL:
 Status: #ToRead 
 
 ## Tags
-- #Research
+- #Paper 
 - [[Dunning-Kruger effect]]
 
 ## Key Insights

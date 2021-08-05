@@ -19,3 +19,9 @@ Tags:
 ## [[Status Tracking]]
 - After you've added a note via quick capture have you processed it as necessary, AKA moved from [[Inbox]] to appropriate place, with appropriate [[Tagging|tags]], etc.
 	- perhaps each note template should have a [[Status]] attribute...
+
+## [[Search]] and [[Filter]]
+- the good thing is that since we are working with regular text, searching can  be done easily via tools that have existed for a long long time now
+- examples of [[Cataloging]] and Systems for [[Textual Search]]
+	- [[Cutter Classification System]]
+	- [[Special Symbol Taxonomy]]
