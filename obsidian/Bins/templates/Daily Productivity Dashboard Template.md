@@ -10,5 +10,5 @@
 ## [[TODOs]]
 
 ```query
-task-todo: "[[{{date}}]]"
+task-todo: "[[<% tp.date.now("YYYY-MM-DD") %>]]"
 ```

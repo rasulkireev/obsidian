@@ -12,15 +12,9 @@
 - [x] ask Shri about AzureDatabricks PR [[2021-08-05]]
 - [x] Work with [[dbt]] docs upload [[2021-08-05]]
 - [x] think about moving docs upload task to dev_ops_utils repo [[2021-08-05]]
-- [ ] create an index page for docs uploads [[2021-08-05]]
+- [x] create an index page for docs uploads [[2021-08-05]]
 
-	
-## [[Daily Habits]] - Optional
-- name of the habit you want to do 
-	- then, run ```{!!wlinks}```
-
-
-
-how devops_utils work
-
-- template
+## Friday
+- [ ] attempt completing dbt_gc docs upload [[2021-08-06]]
+- [ ] have fun at baseball [[2021-08-06]]
+- [ ] try getting $80k salary [[2021-08-06]]
