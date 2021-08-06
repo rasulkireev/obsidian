@@ -18,95 +18,79 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "78b21f0aea6a6bb1",
-    "type": "split",
+    "id": "5625b71170a9fbc3",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "0c8abecbeff665da",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ac323fb0b5ab8ee0",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa50e7dbe0dc76ca",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#Project tag:article",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "15fcc5e114cda067",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "9acb8cdc44bbc58a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "98c6e61c72187783",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "2c4e0f2ff8efc005",
-    "type": "split",
+    "id": "6a004be8396b175b",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "958d98fc712e1fe1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5105d03074dc5524",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Output/Project Ideas 202107291607.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0b2b5ecfa13678f8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "3237a42e93e5815c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Output/Project Ideas 202107291607.md"
-              }
-            }
+        "id": "3176254be6ea4ee7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Output/Project Ideas 202107291607.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "7f7dbee4edc4fdda",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Output/Project Ideas 202107291607.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "active": "de791d9fde468e0b",
   "lastOpenFiles": [
