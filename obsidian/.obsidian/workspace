@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/daily/2021-08-06.md",
+            "file": "Output/Project Ideas 202107291607.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/daily/2021-08-06.md",
+                "file": "Output/Project Ideas 202107291607.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/daily/2021-08-06.md"
+                "file": "Output/Project Ideas 202107291607.md"
               }
             }
           }
@@ -110,6 +110,7 @@
   },
   "active": "de791d9fde468e0b",
   "lastOpenFiles": [
+    "Output/Project Ideas 202107291607.md",
     "Bins/daily/2021-08-06.md",
     "Inbox/How I got a job as a Software Engineer without a CS degree.md",
     "Inbox/How I Got a Job in the US as an international student.md",
@@ -118,7 +119,6 @@
     "Bins/locations/USA.md",
     "Bins/tags/3rd Anniversary.md",
     "Inbox/Credibility.md",
-    "Bins/templates/Daily Productivity Dashboard Template.md",
-    "Bins/templates/test template.md"
+    "Bins/templates/Daily Productivity Dashboard Template.md"
   ]
 }
