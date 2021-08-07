@@ -2,8 +2,6 @@
 aliases:
   - index
   - "start here"
-tags:
-  -
 ---
 
 ```

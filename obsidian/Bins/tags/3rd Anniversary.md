@@ -3,6 +3,7 @@ aliases:
   - 
 tags:
   - project
+status: done
 ---
 
 Status: Done
