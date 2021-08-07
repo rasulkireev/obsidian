@@ -3,5 +3,8 @@
   "table-editor-obsidian",
   "sliding-panes-obsidian",
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-outliner",
+  "obsidian-zoom",
+  "dataview"
 ]
