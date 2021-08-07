@@ -1,1 +1,7 @@
-#Tag 
+---
+aliases:
+  - 
+tags:
+  - tag:
+  	- clothes
+---
