@@ -4,7 +4,8 @@ tags:
 ---
 
 [[INDEX]]
-[[Chess]]
-[[Programming]]
-[[Note-taking]]
-[[Cooking]]
+
+- [[Chess]]
+- [[Programming]]
+- [[Note-taking]]
+- [[Cooking]]

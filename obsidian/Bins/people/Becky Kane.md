@@ -2,5 +2,5 @@ Becky is a writer and editor at [[Doist]]. She's very thankful she sent that ema
 
 Tags:
 - #Person
-- #Writer 
+- [[Writer]]
 

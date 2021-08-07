@@ -9,40 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/INDEX.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "d61975c08208d5b0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/Interests.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "799c6badae4c5939",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/Cooking.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "88d79670163abdc0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bins/tags/Tagging.md",
+            "file": "Tag Taxonomy.md",
             "mode": "source"
           }
         }
@@ -72,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#research",
+                "query": "tag:#Clothes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Cooking.md",
+                "file": "Tag Taxonomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Cooking.md"
+                "file": "Tag Taxonomy.md"
               }
             }
           }
@@ -141,17 +108,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "799c6badae4c5939",
+  "active": "2a2f1910e5602328",
   "lastOpenFiles": [
-    "Inbox/Cooking.md",
-    "Inbox/Interests.md",
-    "Inbox/INDEX.md",
+    "Tag Taxonomy.md",
+    "INDEX.md",
+    "Bins/people/Perry Marshall.md",
+    "Bins/people/Becky Kane.md",
     "Bins/tags/Tagging.md",
-    "Inbox/Cutter Classification System.md",
-    "Inbox/System.md",
-    "Inbox/Untitled.md",
-    "Inbox/OTB Chess Community.md",
-    "Bins/tags/Enjoyed.md",
-    "Bins/tags/Typescript.md"
+    "Bins/people/Andrew Hunt.md",
+    "Inbox/Programmer.md",
+    "Inbox/Writer.md",
+    "Legend.md",
+    "Inbox/Ideas.md"
   ]
 }

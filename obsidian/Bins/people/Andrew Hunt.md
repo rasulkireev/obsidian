@@ -1,4 +1,4 @@
 Tags:
 - #Person
-- #Writer 
-- #Programmer
+- [[Writer]] 
+- [[Programmer]]

@@ -3,7 +3,7 @@ aliases:
   - index
   - "start here"
 tags:
-  -  
+  -
 ---
 
 ```
@@ -17,4 +17,5 @@ tags:
 
 ---
 
-[[Interests]]
+- [[Interests]]
+- [[Ideas]]
