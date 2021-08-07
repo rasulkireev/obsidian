@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/templates/test template.md",
+            "file": "Bins/templates/daily.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/templates/test template.md",
+                "file": "Bins/templates/daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/templates/test template.md"
+                "file": "Bins/templates/daily.md"
               }
             }
           }
@@ -109,15 +109,15 @@
   },
   "active": "ae0959b6cba30646",
   "lastOpenFiles": [
+    "Bins/templates/daily.md",
+    "Bins/journal/daily/2021-08-07.md",
     "Bins/templates/test template.md",
+    "Bins/templates/Daily Productivity Dashboard Template.md",
     "Bins/daily/2021-08-07.md",
     "Inbox/Dataview 202108070122.md",
     "Inbox/Templater Plugin.md",
     "Bins/tags/Journaling.md",
     "Inbox/Outliner Plugin.md",
-    "Inbox/Active Projects.md",
-    "Inbox/Plugin.md",
-    "Bins/tags/3rd Anniversary.md",
-    "INDEX.md"
+    "Inbox/Active Projects.md"
   ]
 }

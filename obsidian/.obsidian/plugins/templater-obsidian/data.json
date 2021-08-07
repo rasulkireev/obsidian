@@ -4,15 +4,19 @@
   "templates_pairs": [
     [
       "test",
-      "obsidian_plugin_test.sh"
+      "~/ps/bin/obsidian_plugin_test.sh"
     ],
     [
       "test2",
       "echo \"test2 is in action\""
+    ],
+    [
+      "",
+      ""
     ]
   ],
   "trigger_on_file_creation": false,
   "enable_system_commands": true,
-  "shell_path": "~/ps/bin",
+  "shell_path": "",
   "syntax_highlighting": true
 }

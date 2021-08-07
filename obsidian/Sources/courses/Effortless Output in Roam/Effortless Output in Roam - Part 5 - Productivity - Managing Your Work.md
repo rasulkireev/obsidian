@@ -42,7 +42,7 @@ Examples:
 - take some time each Monday/Sunday to plan the week ahead. This can be done in the "Weekly Plan for  8/31" page where the date is the start of the week (ie Monday). [[Weekly Plan Template]]
 - The idea is to look at pre-existing [[Queries]] and pull them into the [[Weekly Plan Template| Weekly Plan]].
 
-## 6. The [[Daily Productivity Dashboard Template | Daily Productivity Dashboard]]
+## 6. The [[daily | Daily Productivity Dashboard]]
 -  If you are putting dates next to your tasks, then they should automatically show up on you daily notes page. blow is an example of a todo that will show up on the [[Daily Notes|Daily Note]].
 	-  [ ] example todo [[2021-08-03]]
 - the section for top priorities is a little hazy and I need to experiment with it at some point. Don't think it is urgent, as I won't have too many tasks to start with. Although, that might change soon.

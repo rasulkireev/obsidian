@@ -1,3 +1,4 @@
 {
-  "folder": "Bins/daily"
+  "folder": "Bins/journal/daily",
+  "template": "Bins/templates/daily"
 }

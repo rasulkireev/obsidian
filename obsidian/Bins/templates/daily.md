@@ -1,6 +1,5 @@
 ## [[Journaling|Journal]]
-- [[Morning Pages Promts]] for ideas
-
+- 
 ### General
 #### {{time}}
 
@@ -12,3 +11,4 @@
 ```query
 task-todo: "[[<% tp.date.now("YYYY-MM-DD") %>]]"
 ```
+

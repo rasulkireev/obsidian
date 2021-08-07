@@ -1,6 +1,6 @@
-<% tp.user.test %>
+<% tp.user.test() %>
 
-<% tp.user.test2 %>
+<% tp.user.test2() %>
 
 <% tp.date.now("HH:mm") %>
 
