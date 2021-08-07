@@ -1,0 +1,6 @@
+---
+aliases:
+  - dataview
+tags:
+  - plugin
+---
