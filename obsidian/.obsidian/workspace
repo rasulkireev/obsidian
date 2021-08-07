@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/tags/Jacquemus.md",
+            "file": "Tag Taxonomy.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#project",
+                "query": "tag:#plugin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/tags/Jacquemus.md",
+                "file": "Tag Taxonomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/tags/Jacquemus.md"
+                "file": "Tag Taxonomy.md"
               }
             }
           }
@@ -109,8 +109,8 @@
   },
   "active": "ae0959b6cba30646",
   "lastOpenFiles": [
-    "Bins/tags/Jacquemus.md",
     "Tag Taxonomy.md",
+    "Bins/tags/Jacquemus.md",
     "Bins/templates/Weekly Plan Template.md",
     "Bins/tags/Daily Habits.md",
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",

@@ -2,6 +2,5 @@
 aliases:
   - 
 tags:
-  - tag:
-  	- clothes
+  - tag/brand
 ---

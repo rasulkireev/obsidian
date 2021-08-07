@@ -12,14 +12,26 @@ Me working through my tags...
 
 #### descriptive
 - tag
-- Person
-- Book
-- Article
-- Technology
-- project
+	- brand (brand of clothing)
+	- technology ()
+	- location
 
+- source?
+	- book
+	- article
+
+- note
+	- literature
+	- evergreen
+	- seedling
+	- code
+
+- project
+- person
+- query
 
 #### status
+- inbox (needs to be reviewed)
 - ToRead
 - Read
 - NotReviewed
@@ -35,14 +47,12 @@ Me working through my tags...
 
 
 Course
-
 Store
 Location
 Reading
 Summary
 App
 Emotion
-Brand
 Tweet
 Blog
 Company
