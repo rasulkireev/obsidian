@@ -1,10 +1,14 @@
+---
+tags:
+  - book
+status:
+  - read
+  - notReviewed
+---
+
 Author: [[William Braxton Irvine]]
-Status: 
-- #Read 
-- #NotReviewed 
 
 ## Tags
-- #Book
 - [[Philosophy]]
 - [[Stoicism]]
 

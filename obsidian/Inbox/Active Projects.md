@@ -1,4 +1,3 @@
-
 ```dataview
 table file.tags, status
 from ""

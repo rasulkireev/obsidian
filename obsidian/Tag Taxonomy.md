@@ -32,10 +32,10 @@ Me working through my tags...
 
 #### status
 - inbox (needs to be reviewed)
-- ToRead
-- Read
-- NotReviewed
-- tosummarize
+- ToRead -> to_read
+- Read -> read
+- NotReviewed -> not_reviewed
+- tosummarize -> to_summarize
 - Reviewed
 - writingidea
 - find_source
