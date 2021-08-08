@@ -15,10 +15,15 @@ Me working through my tags...
 	- brand (brand of clothing)
 	- technology ()
 	- location
+	- store
+	- app
+	- emotion
+
 
 - source?
 	- book
 	- article
+	- course
 
 - note
 	- literature
@@ -36,23 +41,14 @@ Me working through my tags...
 - Read -> read
 - NotReviewed -> not_reviewed
 - tosummarize -> to_summarize
-- Reviewed
-- writingidea
+- Reviewed -> reviewed
+- writingidea -> writing_idea
 - find_source
-- toresearch
-- Dropped
+- toresearch -> to_research
+- Dropped -> dropped
+- Reading -> reading
 
-
-
-
-
-Course
-Store
-Location
-Reading
 Summary
-App
-Emotion
 Tweet
 Blog
 Company

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tag Taxonomy.md",
+            "file": "Notes/keep a list of things you want to learn 202010120712.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "tag:#learning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tag Taxonomy.md",
+                "file": "Notes/keep a list of things you want to learn 202010120712.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tag Taxonomy.md"
+                "file": "Notes/keep a list of things you want to learn 202010120712.md"
               }
             }
           }
@@ -110,6 +110,7 @@
   },
   "active": "ae0959b6cba30646",
   "lastOpenFiles": [
+    "Notes/keep a list of things you want to learn 202010120712.md",
     "Tag Taxonomy.md",
     "Sources/books/A Guide To The Good Life 202011160112.md",
     "Inbox/Active Projects.md",
@@ -118,7 +119,6 @@
     "Bins/tags/Daily Habits.md",
     "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
     "Bins/queries/TODOs.md",
-    "Bins/journal/daily/2021-08-06.md",
-    "Bins/templates/daily.md"
+    "Bins/journal/daily/2021-08-06.md"
   ]
 }
