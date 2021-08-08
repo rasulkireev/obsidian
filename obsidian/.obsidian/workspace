@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ae0959b6cba30646",
+        "id": "67997eddce9f5358",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/keep a list of things you want to learn 202010120712.md",
+            "file": "Tag Taxonomy.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#learning",
+                "query": "tag:#Inbox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/keep a list of things you want to learn 202010120712.md",
+                "file": "Tag Taxonomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/keep a list of things you want to learn 202010120712.md"
+                "file": "Tag Taxonomy.md"
               }
             }
           }
@@ -108,17 +108,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ae0959b6cba30646",
+  "active": "67997eddce9f5358",
   "lastOpenFiles": [
-    "Notes/keep a list of things you want to learn 202010120712.md",
     "Tag Taxonomy.md",
+    "Bins/tags/Inbox.md",
+    "Output/List of projects built with Django.md",
+    "Inbox/Untitled.md",
+    "Notes/keep a list of things you want to learn 202010120712.md",
     "Sources/books/A Guide To The Good Life 202011160112.md",
     "Inbox/Active Projects.md",
     "Bins/tags/Jacquemus.md",
     "Bins/templates/Weekly Plan Template.md",
-    "Bins/tags/Daily Habits.md",
-    "Sources/courses/Effortless Output in Roam/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
-    "Bins/queries/TODOs.md",
-    "Bins/journal/daily/2021-08-06.md"
+    "Bins/tags/Daily Habits.md"
   ]
 }

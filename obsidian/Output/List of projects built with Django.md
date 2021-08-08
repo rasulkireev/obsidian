@@ -1,5 +1,7 @@
-Tags:
-- #Inbox 
+---
+status:
+  - inbox
+---
 
 In this list I will collect links where I can source projects for the [[Built with Django]] directory.
 

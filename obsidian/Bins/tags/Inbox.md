@@ -1,5 +1,7 @@
 #Tag 
 
-```query
-tag:#Inbox
+```dataview
+table file.tags
+from ""
+where contains(status, "inbox")
 ```
