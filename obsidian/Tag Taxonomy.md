@@ -17,6 +17,7 @@ Me working through my tags...
 	- location
 	- store
 	- app
+	- newsletter
 	- emotion
 	- clothes
 	- movie
@@ -28,6 +29,9 @@ Me working through my tags...
 	- software
 	- skill
 	- podcast
+	- community
+	- programming_language
+
 
 - source?
 	- book
@@ -68,21 +72,12 @@ Me working through my tags...
 - Reading -> reading
 - planning
 
-
-Community
-learning
-Newsletter
-OpenSource
-
-Programmer
-ProgrammingLanguage
-
-
-
-
 ### bad
+OpenSource
+Programmer
 Daily Note
 Question
 Summary
 Important
 Sweets
+learning
