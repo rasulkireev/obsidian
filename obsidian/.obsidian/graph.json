@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": false,
+  "search": "tag:#tag/programming_language OR tag:#tag",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -32,6 +32,6 @@
   "repelStrength": 13.2206377183144,
   "linkStrength": 0.598221438871976,
   "linkDistance": 75,
-  "scale": 2.5526299866051483,
+  "scale": 0.052203129721795256,
   "close": false
 }

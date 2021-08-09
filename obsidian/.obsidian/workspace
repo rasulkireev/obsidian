@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fc48b6667e889080",
+        "id": "bc40f5310f2453d4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Newsletter",
+                "query": "tag:#ProgrammingLanguage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,17 +108,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fc48b6667e889080",
+  "active": "bc40f5310f2453d4",
   "lastOpenFiles": [
     "Tag Taxonomy.md",
+    "Bins/tags/Python.md",
+    "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
+    "Inbox/Video.md",
     "Sources/newsletters/3-2-1 Newsletter.md",
     "Notes/keep a list of things you want to learn 202010120712.md",
     "Bins/tags/PostgreSQL.md",
     "Bins/tags/Open Source.md",
     "Sources/podcasts/Fullstack Radio.md",
-    "Bins/tags/OTB Chess.md",
-    "Inbox/Cutter Classification System.md",
-    "Sources/articles/Opening up the Solution Space - The Role of Analogical Thinking for Breakthrough Product Innovation.md",
-    "Bins/tags/Gummy Bears.md"
+    "Bins/tags/OTB Chess.md"
   ]
 }
