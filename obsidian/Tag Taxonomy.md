@@ -5,9 +5,6 @@
 #Reviewed is when I did
 -
 
-
-Me working through my tags...
-
 ### Good
 
 #### descriptive
