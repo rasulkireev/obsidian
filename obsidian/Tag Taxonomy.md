@@ -18,6 +18,8 @@ Me working through my tags...
 	- store
 	- app
 	- emotion
+	- clothes
+	- movie
 
 - source?
 	- book
@@ -30,7 +32,11 @@ Me working through my tags...
 	- seedling
 	- code
 
-- project
+- output
+	- project
+	- note
+
+
 - person
 - query
 
@@ -47,6 +53,9 @@ Me working through my tags...
 - Dropped -> dropped
 - Reading -> reading
 
+
+### Remove 
+
 Summary
 Tweet
 Blog
@@ -54,14 +63,12 @@ Company
 Paper
 planning
 Review
-Clothes
 Community
 Daily Note
 Food
 Important
 Inbox
 learning
-movie
 Newsletter
 OpenSource
 OS

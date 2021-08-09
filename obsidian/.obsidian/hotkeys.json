@@ -75,5 +75,24 @@
       ],
       "key": "I"
     }
+  ],
+  "file-explorer:open": [],
+  "obsidian-outliner:fold": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "obsidian-outliner:unfold": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
+    }
   ]
 }
