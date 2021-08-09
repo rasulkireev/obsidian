@@ -35,6 +35,7 @@ Me working through my tags...
 - output
 	- project
 	- note
+	- review
 
 
 - person
@@ -53,9 +54,6 @@ Me working through my tags...
 - Dropped -> dropped
 - Reading -> reading
 
-
-### Remove 
-
 Summary
 Tweet
 Blog
@@ -67,7 +65,6 @@ Community
 Daily Note
 Food
 Important
-Inbox
 learning
 Newsletter
 OpenSource

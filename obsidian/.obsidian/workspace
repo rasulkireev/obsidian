@@ -18,79 +18,95 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dfafc064904fece1",
-    "type": "mobile-drawer",
+    "id": "78b21f0aea6a6bb1",
+    "type": "split",
     "children": [
       {
-        "id": "5a6ab08f5d0b3b64",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "07ec1f0adfcad6e2",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "0c8abecbeff665da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac323fb0b5ab8ee0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa50e7dbe0dc76ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Food",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "af8d85a31e43a986",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "67556a1fd1f7ea00",
-    "type": "mobile-drawer",
+    "id": "2c4e0f2ff8efc005",
+    "type": "split",
     "children": [
       {
-        "id": "cbd7ac1925053943",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Tag Taxonomy.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "958d98fc712e1fe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5105d03074dc5524",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tag Taxonomy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b2b5ecfa13678f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3237a42e93e5815c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tag Taxonomy.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "67b7d36a4fb2ba08",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Tag Taxonomy.md"
-          }
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "active": "67997eddce9f5358",
   "lastOpenFiles": [
