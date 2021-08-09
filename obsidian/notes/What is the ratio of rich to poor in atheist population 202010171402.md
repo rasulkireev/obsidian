@@ -5,5 +5,5 @@ This implies that the poor, as opposed to rich, believe in god, or believe more.
 
 #writingidea 
 
-Tags: [[Religion]], [[Atheism]], #Question
+Tags: [[Religion]], [[Atheism]]
 

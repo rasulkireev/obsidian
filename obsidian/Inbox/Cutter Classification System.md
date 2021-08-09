@@ -3,6 +3,5 @@ aliases:
   - 
 tags:
   - tag
-  - research
-  - tosummarize
+  - to_summarize
 ---

@@ -13,18 +13,30 @@ Me working through my tags...
 #### descriptive
 - tag
 	- brand (brand of clothing)
-	- technology ()
+	- technology
 	- location
 	- store
 	- app
 	- emotion
 	- clothes
 	- movie
+	- food
+	- blog
+	- company
+	- operating_system (OS)
+	- restaurant
+	- software
+	- skill
+	- podcast
 
 - source?
 	- book
 	- article
 	- course
+	- tweet
+	- video
+	- research_paper (paper)
+	- podcast_episode
 
 - note
 	- literature
@@ -36,7 +48,8 @@ Me working through my tags...
 	- project
 	- note
 	- review
-
+	- recipe
+	- review
 
 - person
 - query
@@ -53,31 +66,23 @@ Me working through my tags...
 - toresearch -> to_research
 - Dropped -> dropped
 - Reading -> reading
+- planning
 
-Summary
-Tweet
-Blog
-Company
-Paper
-planning
-Review
+
 Community
-Daily Note
-Food
-Important
 learning
 Newsletter
 OpenSource
-OS
-podcast
-PodcastEpisode
+
 Programmer
 ProgrammingLanguage
-Question
-research
-restaurant
-Skill
-software
-Sweets
-Video
 
+
+
+
+### bad
+Daily Note
+Question
+Summary
+Important
+Sweets
