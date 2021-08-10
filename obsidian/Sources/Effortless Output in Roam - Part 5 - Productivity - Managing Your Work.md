@@ -7,6 +7,8 @@ Author: [[Nat Eliason]]
 URL: https://learn.nateliason.com/courses/enrolled/764250
 Tags: 
 	- [[Obsidian]]
+	- [[Productivity]]
+	- [[Project Management]]
 
 ## 1. Intro to [[Productivity]] in [[Roam Research]] - [[Getting Things Done]]
 

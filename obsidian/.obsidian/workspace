@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d9b5338ca881870c",
+        "id": "4a2e7af4fe35b703",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/tags/Inbox.md",
-            "mode": "preview"
+            "file": "Sources/Effortless Output in Roam - Part 6 - Creation - Turning Your Research into New Work.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/tags/Inbox.md",
+                "file": "Sources/Effortless Output in Roam - Part 6 - Creation - Turning Your Research into New Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/tags/Inbox.md"
+                "file": "Sources/Effortless Output in Roam - Part 6 - Creation - Turning Your Research into New Work.md"
               }
             }
           }
@@ -107,17 +107,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d9b5338ca881870c",
+  "active": "4a2e7af4fe35b703",
   "lastOpenFiles": [
-    "Bins/tags/Inbox.md",
-    "Bins/tags/Cutter Classification System.md",
-    "Sources/articles/The Process of Janusian Thinking in Creativity 202102191657.md",
+    "Sources/Effortless Output in Roam - Part 6 - Creation - Turning Your Research into New Work.md",
+    "Sources/Effortless Output in Roam - Part 5 - Productivity - Managing Your Work.md",
+    "Output/Review of Doing Time Right.md",
+    "Bins/tags/Project Management.md",
+    "Bins/tags/Productivity.md",
     "Sources/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
-    "Bins/tags/Special Symbol Taxonomy.md",
-    "Tag Taxonomy.md",
-    "Notes/you have a limited amount of will power during the day which depletes with every decision you make 202104091058.md",
-    "Output/it is hard to go against the nature 202011160118.md",
-    "Bins/tags/Voltron effect.md",
-    "Bins/tags/Standard partnerships.md"
+    "Inbox/Note Management.md",
+    "Sources/Effortless Output in Roam - Part 3 - Research - Building Your Roam Database.md",
+    "Bins/tags/Research.md",
+    "Sources/Effortless Output in Roam - Part 2 - Choose your Capstone.md"
   ]
 }

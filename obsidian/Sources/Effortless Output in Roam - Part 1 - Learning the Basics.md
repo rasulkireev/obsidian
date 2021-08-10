@@ -5,7 +5,9 @@ tags:
 
 Author: [[Nat Eliason]]
 URL: https://learn.nateliason.com/courses/enrolled/764250
-Tags:	
+Tags:
+- [[Roam Research]]
+- [[Daily Notes]]
 
 ## 1. The Roam Note Taking Paradigm
 
@@ -32,7 +34,7 @@ Tags:
 - basics
 
 ## 4. The Four Ways to Link Between Pages
-- This is slightly different in [[Roam Research]] and [[Obsidian]]. In Roam you # tag and [[]] links are essentially the same, whereas here it is slightly different.
+- This is slightly different in [[Roam Research]] and [[Obsidian]]. In Roam you # tag and links are essentially the same, whereas here it is slightly different.
 - :: syntax is pretty cool. Author:: smith is the same as each of these words are in double square brackets.
 - Essentially all these are for visual differences, no functional difference.
 ## 5. Increasing Your Roam Productivity with the Sidebar
@@ -44,6 +46,6 @@ Tags:
 ## 7. ToDos and Task Management
 -
 ## 8.  Referencing and Embedding Info from Other Pages
-- In order to preserve the source an to use info on different pages use the embedded. In obsidian, it would be a ![[]] syntax.
+- In order to preserve the source an to use info on different pages use the embedded. In obsidian, it would be a \![[]] syntax.
 	- For example, Nat has many different pages that somehow relate to Sourdough. Then he creates a page "Baking Sourdough Bread" (like a small project, or a blog post preparation) and pulls relevant info onto that page. and if the source is ever changed, it will propogate to the blog post page.
 

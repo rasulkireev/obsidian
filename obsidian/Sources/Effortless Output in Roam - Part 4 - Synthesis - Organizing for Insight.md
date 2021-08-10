@@ -6,6 +6,8 @@ tags:
 Author: [[Nat Eliason]]
 URL: https://learn.nateliason.com/courses/enrolled/764250
 Tags: 
+- [[Note Management]]
+- 
 
 ## 1. Intro to Synthesis in Roam
 - in this part we will focus on [[Making Notes Useful]]

@@ -6,7 +6,7 @@ tags:
 Author: [[Nat Eliason]]
 URL: https://learn.nateliason.com/courses/enrolled/764250
 Tags:
-
+- [[Research]]
 
 ## 1.   Intro to Research and Metadata in Roam
 -  Tags & Metadata are useful... 
