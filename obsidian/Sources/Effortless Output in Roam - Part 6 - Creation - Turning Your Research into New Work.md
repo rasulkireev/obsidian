@@ -25,4 +25,6 @@ You can use [[Obsidian]] to create anything you want, including:
 	 - outro
 
 - then start pulling in some notes from your database
-	
+- focus on block ref and high levels comments
+
+## 3.  [[Writing]] in Roam

@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39bfddfa11461e26",
+        "id": "f848ea18b014e9bf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sources/books/3 Obvious Habits 202011221820.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#3PUT",
+                "query": "tag:#tweets not_reviewed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +50,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2c4e0f2ff8efc005",
@@ -69,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/books/3 Obvious Habits 202011221820.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sources/books/3 Obvious Habits 202011221820.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -108,17 +103,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "39bfddfa11461e26",
+  "active": "f848ea18b014e9bf",
   "lastOpenFiles": [
+    "Sources/10 Ideas That Changed My....md",
+    "Sources/1 What I Wish I Knew Wh....md",
+    "Sources/Cold Shower Therapy.md",
+    "Sources/Effortless Output in Roam - Part 6 - Creation - Turning Your Research into New Work.md",
+    "Bins/tags/Skills.md",
+    "Bins/tags/Writing.md",
     "Sources/books/3 Obvious Habits 202011221820.md",
     "Sources/3-obvious-habits.pdf.md",
     "Sources/books/How to Get Rich 202011221824.md",
-    "Notes/book clubs > bootcamps 202103221320.md",
-    "Notes/ask yourself if person or a tool can do what you do 80% as well as you 202011201306.md",
-    "Sources/1 What I Wish I Knew Wh....md",
-    "Bins/tags/Inbox.md",
-    "Inbox/favorite.md",
-    "Sources/17 Link Building Strategies for Developers and Technical Founders.md",
-    "Inbox/Monica Lent.md"
+    "Notes/book clubs > bootcamps 202103221320.md"
   ]
 }

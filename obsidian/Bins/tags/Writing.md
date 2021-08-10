@@ -1,4 +1,9 @@
-#Tag
+---
+aliases:
+  - 
+tags:
+  - skill
+---
 
 Books/Articles:
 - [[How to Take Smart Notes 202010131439]]
