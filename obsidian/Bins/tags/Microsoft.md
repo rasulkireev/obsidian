@@ -1,6 +1,4 @@
 ---
-aliases:
-  - 
 tags:
-  - company
+  - company/tech
 ---

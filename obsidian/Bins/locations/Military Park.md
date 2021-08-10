@@ -1,3 +1,7 @@
+---
+tags:
+  - location/park
+---
 URL: http://militarypark.com
 City: [[Newark]]
 State: [[NJ]]

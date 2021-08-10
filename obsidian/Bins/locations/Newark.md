@@ -1,4 +1,11 @@
+---
+aliases:
+  - 
+tags:
+  - location/city
+---
+
 Country: [[USA]]
+State: [[NJ]]
 Tags:
-- #Location 
 - [[City]]

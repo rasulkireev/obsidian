@@ -1,4 +1,8 @@
-#Tag 
-#Skill
+---
+aliases:
+  - 
+tags:
+  - skill
+---
 
 [[Community]]

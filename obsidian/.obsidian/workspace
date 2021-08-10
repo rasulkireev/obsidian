@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "083e89ba97a180c4",
+        "id": "9f511b356c7d5cab",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tag Taxonomy.md",
+            "file": "Bins/locations/Military Park.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f99a1407b8af3f0f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bins/tags/Park.md",
             "mode": "source"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#video",
+                "query": "tag:#restaurant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tag Taxonomy.md",
+                "file": "Bins/tags/Park.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tag Taxonomy.md"
+                "file": "Bins/tags/Park.md"
               }
             }
           }
@@ -107,17 +118,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "083e89ba97a180c4",
+  "active": "f99a1407b8af3f0f",
   "lastOpenFiles": [
-    "Tag Taxonomy.md",
-    "Inbox/Ideas.md",
-    "Inbox/Interests.md",
-    "Inbox/Weekly Planning 2021-08-02.md",
-    "Inbox/How I got a job as a Software Engineer without a CS degree.md",
-    "Inbox/Digital Ocean.md",
-    "Inbox/Active Projects.md",
-    "Inbox/Dataview Plugin.md",
-    "Inbox/Articles.md",
-    "Inbox/Video.md"
+    "Bins/tags/Park.md",
+    "Bins/locations/Military Park.md",
+    "Bins/locations/NJ.md",
+    "Bins/locations/Newark.md",
+    "Bins/locations/Manalapan.md",
+    "Bins/locations/Happy Day Farm.md",
+    "Bins/locations/Buddakan Restaurant.md",
+    "Bins/locations/NYC.md",
+    "Inbox/New York.md",
+    "Inbox/NY.md"
   ]
 }

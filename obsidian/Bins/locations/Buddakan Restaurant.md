@@ -2,13 +2,13 @@
 aliases:
   - 
 tags:
-  - location/farm
+  - location/restaurant
 ---
 
 URL: https://www.happydayfarmnj.com
-City: [[Manalapan]]
-State: [[NJ]]
+City: [[NYC|New York City]]
+State: [[NY]]
 Zip: 07726
 Country: [[USA]]
 Tags:
-- [[Farm]]
+- [[Restaurant]]

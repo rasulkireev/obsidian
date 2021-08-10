@@ -1,2 +1,6 @@
-#Tag 
-#Company
+---
+tags:
+  - tag
+  - company/tech
+---
+

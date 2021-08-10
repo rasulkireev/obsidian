@@ -3,5 +3,4 @@ aliases:
   - 
 tags:
   - tag
-  - restaurant
 ---

@@ -1,2 +1,6 @@
-#Tag 
-#Brand 
+---
+aliases:
+  - 
+tags:
+  - company/clothing
+---

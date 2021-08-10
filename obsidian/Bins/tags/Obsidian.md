@@ -2,6 +2,5 @@
 aliases:
   - 
 tags:
-  - tag
-  - app
+  - software
 ---

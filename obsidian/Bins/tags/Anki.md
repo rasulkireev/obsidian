@@ -1,2 +1,6 @@
-#Tag
-#software
+---
+aliases:
+  - 
+tags:
+  - software
+---

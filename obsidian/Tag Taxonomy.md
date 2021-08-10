@@ -1,22 +1,10 @@
-
-
--
-#NotReviewed is when I did not add review to my site
-#Reviewed is when I did
--
-
 ### Good
 
 #### descriptive
-- tag
+- tag (folder and links without specific groups)
 	- company / company / brand
 		- clothing
-		- technology
-	- 
-	- technology
-	- operating_system (OS)
-	- programming_language
-	- app
+		- tech
 	- software
 	- 
 	- location
@@ -66,11 +54,10 @@
 - ToRead -> to_read
 - Read -> read
 - NotReviewed -> not_reviewed
-- tosummarize -> to_summarize
+- tosummarize & toresearch -> to_summarize
 - Reviewed -> reviewed
 - writingidea -> writing_idea
 - find_source
-- toresearch -> to_research
 - Dropped -> dropped
 - Reading -> reading
 - planning

@@ -3,7 +3,7 @@ aliases:
   - "the US"
   - "United Stated of America"
 tags:
-  - location  
+  - location/country  
 ---
 
 Tags:
