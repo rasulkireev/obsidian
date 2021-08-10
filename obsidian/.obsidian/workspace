@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f848ea18b014e9bf",
+        "id": "3564dd5d225be911",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -45,13 +45,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2c4e0f2ff8efc005",
@@ -103,8 +101,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f848ea18b014e9bf",
+  "active": "3564dd5d225be911",
   "lastOpenFiles": [
+    "Readwise/1 What I Wish I Knew Wh....md",
     "Sources/10 Ideas That Changed My....md",
     "Sources/1 What I Wish I Knew Wh....md",
     "Sources/Cold Shower Therapy.md",
@@ -113,7 +112,6 @@
     "Bins/tags/Writing.md",
     "Sources/books/3 Obvious Habits 202011221820.md",
     "Sources/3-obvious-habits.pdf.md",
-    "Sources/books/How to Get Rich 202011221824.md",
-    "Notes/book clubs > bootcamps 202103221320.md"
+    "Sources/books/How to Get Rich 202011221824.md"
   ]
 }
