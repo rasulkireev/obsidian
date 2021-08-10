@@ -1,6 +1,10 @@
+---
+tags:
+  - tweets
+---
+
 [[Nat Eliason]]
 URL: https://twitter.com/nateliason/status/1306338785299435520
-#Tweet 
 
 > And get in the habit of asking yourself if a person or tool could do what you're doing 80% as well as you.
 
