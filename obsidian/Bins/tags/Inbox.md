@@ -1,4 +1,8 @@
-#Tag 
+---
+tags:
+  - tag
+---
+
 
 ```dataview
 table file.tags

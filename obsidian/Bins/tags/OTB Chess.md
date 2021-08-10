@@ -5,6 +5,4 @@ tags:
   - area
 ---
 
-#Tag 
-#Project 
-#Community
+[[Community]] for [[Chess]] lovers.

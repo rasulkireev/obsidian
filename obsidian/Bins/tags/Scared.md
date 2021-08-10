@@ -1,3 +1,4 @@
-#Tag 
-#Emotion
-[[Emotions]]
+---
+tags:
+  - emotion
+---

@@ -1,10 +1,16 @@
+---
+status:
+  - not_reviewed
+  - inbox
+  - read
+tags:
+  - book
+---
+
 Author: [[David Deida]]
 Status: 
-- #Read 
-- #NotReviewed 
 
 ## Tags
-- #Book
 - [[Family]]
 - [[Family Life]]
 - [[Manliness]]

@@ -1,3 +1,11 @@
+---
+status:
+  - read
+tags:
+  - book
+---
+
+
 Author: [[Becky Kane]]
 URL: https://blog.doist.com/virtual-networking/
 Status: #Read 

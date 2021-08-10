@@ -1,14 +1,21 @@
+---
+status:
+  - not_reviewed
+  - read
+  - inbox
+tags:
+  - book
+---
+
+
 Author: [[Gabriel Wyner]]
 Status: 
-- #Read
-- #NotReviewed 
 
 ## Tags
-- #Book
-[[Language]]
-[[Learning]]
-[[Space Repetition System]]
-[[Memorization]]
+- [[Language]]
+- [[Learning]]
+- [[Space Repetition System]]
+- [[Memorization]]
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 

@@ -1,10 +1,16 @@
+---
+status:
+  - not_reviewed
+  - read
+  - inbox
+tags:
+  - book
+---
+
 Author: [[Sönke Ahrens]]
 Status: 
-- #Read
-- #NotReviewed 
 
 ## Tags
-- #Book
 - [[Zettelkasten]]
 - [[Writing]]
 - [[Second Brain]]

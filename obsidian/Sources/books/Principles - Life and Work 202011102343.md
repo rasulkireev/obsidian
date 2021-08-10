@@ -1,10 +1,16 @@
+---
+status:
+  - not_reviewed
+  - read
+  - inbox
+tags:
+  - book
+---
+
 Author: [[Ray Dalio]]
 Status: 
-- #Read 
-- #NotReviewed 
 
 ## Tags
-- #Book
 - [[Business]]
 - [[Work]]
 - [[Life]]

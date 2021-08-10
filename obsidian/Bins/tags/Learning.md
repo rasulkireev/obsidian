@@ -1,4 +1,7 @@
-#Tag
+---
+tags:
+  - skill
+---
 
 Books/Articles:
 - [[Fluent Forever 202010171301]]

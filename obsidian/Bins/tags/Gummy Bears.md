@@ -1,2 +1,6 @@
-#Tag 
-#Food
+---
+aliases:
+  - gummies
+tags:
+  - food
+---

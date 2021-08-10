@@ -1,2 +1,4 @@
-#Tag 
-#Clothes
+---
+tags:
+  - clothing
+---

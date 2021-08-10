@@ -1,11 +1,18 @@
+---
+status:
+  - reviewed
+  - read
+  - inbox
+tags:
+  - book
+---
+
+
 Author: [[Deirdre McCloskey]]
 Notebook:
 Status: 
-- #Read 
-- #Reviewed
 
 ## Tags
-- #Book
 - [[Writing]]
 - [[Economics]]
 

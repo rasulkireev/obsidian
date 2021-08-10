@@ -1,7 +1,7 @@
 ### Good
 
 ### tags
-- company / company / brand
+- company
 	- clothing
 	- tech
 - software
@@ -15,43 +15,39 @@
 - emotion
 - movie
 - food
-- blog
-- newsletter
-- podcast
 - skill
 - community
 
 
 ### sources
 - book
+- blog
 - article
 - course
+- newsletter
 - tweet
+- podcast
 - video
 - research_paper
 - podcast_episode
 
-- note
-	- literature
-	- evergreen
-	- seedling
-	- code
 
-- output
-	- project
-	- note
-	- review
-	- recipe
-	- review
+### output
+- note
+- project
+- review
+- recipe
+- review
 
 - person
 - query
 
 #### status
-- inbox (needs to be reviewed)
+- inbox (I need to complete the note inside Obsidian)
+- not_reviewed (I need to make a post on my website)
+- in_progress (still reading)
 - ToRead -> to_read
 - Read -> read
-- NotReviewed -> not_reviewed
 - tosummarize & toresearch -> to_summarize
 - Reviewed -> reviewed
 - writingidea -> writing_idea

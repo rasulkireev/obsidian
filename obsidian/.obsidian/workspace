@@ -4,20 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b4bb253614fc702c",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "a6ab1dbe896b8f12",
+        "id": "2914bc575d4de15d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/tags/OTB Chess.md",
+            "file": "Sources/articles/How to Make Virtual Networking Less Cringey 202104200945.md",
             "mode": "source"
           }
         }
@@ -47,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Community",
+                "query": "tag:#Read",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/tags/OTB Chess.md",
+                "file": "Sources/articles/How to Make Virtual Networking Less Cringey 202104200945.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/tags/OTB Chess.md"
+                "file": "Sources/articles/How to Make Virtual Networking Less Cringey 202104200945.md"
               }
             }
           }
@@ -116,17 +108,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a6ab1dbe896b8f12",
+  "active": "2914bc575d4de15d",
   "lastOpenFiles": [
-    "Bins/tags/OTB Chess.md",
+    "Sources/articles/How to Make Virtual Networking Less Cringey 202104200945.md",
     "Tag Taxonomy.md",
-    "Sources/articles/Unskilled and Unaware of It - How Diffculties in Recognizing One’s Own Incompetence Lead to Infated Self-Assessments.md",
-    "Sources/articles/Opening up the Solution Space - The Role of Analogical Thinking for Breakthrough Product Innovation.md",
-    "Inbox/To Read.md",
-    "Sources/blogs/Syften Blog.md",
-    "Sources/blogs/Failory.md",
-    "Bins/people/Abraham Lincoln.md",
-    "Bins/tags/Sex and the City.md",
-    "Inbox/Data Modelling.md"
+    "Sources/books/Economical Writing 202010131438.md",
+    "Sources/articles/Do You Wanna Make $10 Per Hour? Or $100, $1,000 or $10,000?.md",
+    "Bins/tags/Inbox.md",
+    "Sources/books/Traction 202010160218.md",
+    "Sources/books/The Way of the Superior Man 202103221210.md",
+    "Sources/books/The 4-Hour Workweek 202011011328.md",
+    "Sources/books/Principles - Life and Work 202011102343.md",
+    "Sources/books/Fluent Forever 202010171301.md"
   ]
 }

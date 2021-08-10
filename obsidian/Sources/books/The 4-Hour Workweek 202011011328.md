@@ -1,10 +1,16 @@
+---
+status:
+  - not_reviewed
+  - read
+  - inbox
+tags:
+  - book
+---
+
 Author: [[Tim Ferriss]]
 Status:
-- #Read
-- #NotReviewed 
 
 ## Tags
-- #Book
 - [[Business]]
 - [[Life]]
 - [[Entrepreneurship]]
