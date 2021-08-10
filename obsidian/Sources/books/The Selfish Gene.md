@@ -1,8 +1,16 @@
+---
+status:
+  - to_read
+  - inbox
+  - not_reviewed
+tags:
+  - book
+---
+
 Author: [[Richard Dawkins]]
-Status: #ToRead
+Status:
 
 ## Tags
-- #Book
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 

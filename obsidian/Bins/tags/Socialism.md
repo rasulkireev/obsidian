@@ -1,2 +1,6 @@
-#Tag 
-#tosummarize 
+---
+status:
+  - inbox
+tags:
+  - tag
+---

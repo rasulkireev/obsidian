@@ -1,17 +1,18 @@
 ---
 status:
-  - to_read
+  - reading
   - inbox
-  - not_reviewed
 tags:
   - book
 ---
 
-Author: [[Plato]]
+Author: [[Tim Ferriss]]
 Status:
-
-## Tags
-- [[Philosophy]]
+Recommended By: 
+Tags:
+ - [[Learning]]
+ - [[Cooking]]
+ - [[Hunting]]
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 
@@ -31,3 +32,5 @@ Status:
 ## How the Book Changed Me
 
 ## Who Should Read it? 
+
+## All Notes

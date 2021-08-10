@@ -1,6 +1,6 @@
-### Good
-
 ### tags
+Over the span of the next few weeks I will be removing the "tag" tag from most notes, as it is not specific enough. The fact that all such notes are under tag folder should be sufficient.
+
 - company
 	- clothing
 	- tech
@@ -43,12 +43,11 @@
 - query
 
 #### status
-- inbox (I need to complete the note inside Obsidian)
+- inbox (I need to complete the note inside Obsidian. Replaces to_summarize status)
 - not_reviewed (I need to make a post on my website)
 - in_progress (still reading)
 - ToRead -> to_read
 - Read -> read
-- tosummarize & toresearch -> to_summarize
 - Reviewed -> reviewed
 - writingidea -> writing_idea
 - find_source

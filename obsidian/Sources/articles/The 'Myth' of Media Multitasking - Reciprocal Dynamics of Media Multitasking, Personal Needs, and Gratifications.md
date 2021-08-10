@@ -1,10 +1,17 @@
+---
+status:
+  - to_read
+  - inbox
+tags:
+  - article
+---
+
 Author:
 - [[Zheng Wang]]
 - [[John Tchernev]]
 URL: 
-Status: #ToRead 
+Status: 
 
 ## Tags
-- #Article 
 
 ## Key Insights

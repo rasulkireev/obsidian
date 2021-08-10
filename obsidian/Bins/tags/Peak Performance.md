@@ -1,8 +1,16 @@
+---
+status:
+  - not_reviewed
+  - to_read
+  - inbox
+tags:
+  - book
+---
+
 Author: by [[Brad Stulberg]], [[Steve Magness]]
-Status: #ToRead 
+Status:
 
 ## Tags
-- #Book
 - [[Performance]]
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)

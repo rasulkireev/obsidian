@@ -1,12 +1,20 @@
+---
+status:
+  - not_reviewed
+  - to_read
+  - inbox
+tags:
+  - book
+---
+
 Author: 
 	- [[Titus Winters]]
 	- [[Tom Manshreck]]
 	- [[Hyrum Wright]]
-Status: #ToRead 
+Status: 
 Recommended by: [[Swizec Teller]]
 
 ## Tags
-- #Book
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 

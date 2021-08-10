@@ -1,6 +1,4 @@
 ---
-status:
-  - inbox
 tags:
   - tag
 ---

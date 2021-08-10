@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "694f590d504051db",
+        "id": "d9b5338ca881870c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Bins/tags/Inbox.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ToRead",
+                "query": "tag:#to_summarize",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,17 +107,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "694f590d504051db",
+  "active": "d9b5338ca881870c",
   "lastOpenFiles": [
     "Bins/tags/Inbox.md",
-    "Sources/books/The Lessons of History 202010131440.md",
-    "Sources/books/Show Your Work 202010191719.md",
-    "Sources/articles/How to Make Virtual Networking Less Cringey 202104200945.md",
+    "Bins/tags/Cutter Classification System.md",
+    "Sources/articles/The Process of Janusian Thinking in Creativity 202102191657.md",
+    "Sources/Effortless Output in Roam - Part 4 - Synthesis - Organizing for Insight.md",
+    "Bins/tags/Special Symbol Taxonomy.md",
     "Tag Taxonomy.md",
-    "Sources/books/Economical Writing 202010131438.md",
-    "Sources/articles/Do You Wanna Make $10 Per Hour? Or $100, $1,000 or $10,000?.md",
-    "Sources/books/Traction 202010160218.md",
-    "Sources/books/The Way of the Superior Man 202103221210.md",
-    "Sources/books/The 4-Hour Workweek 202011011328.md"
+    "Notes/you have a limited amount of will power during the day which depletes with every decision you make 202104091058.md",
+    "Output/it is hard to go against the nature 202011160118.md",
+    "Bins/tags/Voltron effect.md",
+    "Bins/tags/Standard partnerships.md"
   ]
 }

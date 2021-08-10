@@ -1,1 +1,6 @@
-#tosummarize 
+---
+status:
+  - inbox
+tags:
+  - note
+---
