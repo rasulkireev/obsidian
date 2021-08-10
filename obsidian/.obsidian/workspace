@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2914bc575d4de15d",
+        "id": "694f590d504051db",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/articles/How to Make Virtual Networking Less Cringey 202104200945.md",
+            "file": "Bins/tags/Inbox.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Read",
+                "query": "tag:#ToRead",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/articles/How to Make Virtual Networking Less Cringey 202104200945.md",
+                "file": "Bins/tags/Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/articles/How to Make Virtual Networking Less Cringey 202104200945.md"
+                "file": "Bins/tags/Inbox.md"
               }
             }
           }
@@ -108,17 +108,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2914bc575d4de15d",
+  "active": "694f590d504051db",
   "lastOpenFiles": [
+    "Bins/tags/Inbox.md",
+    "Sources/books/The Lessons of History 202010131440.md",
+    "Sources/books/Show Your Work 202010191719.md",
     "Sources/articles/How to Make Virtual Networking Less Cringey 202104200945.md",
     "Tag Taxonomy.md",
     "Sources/books/Economical Writing 202010131438.md",
     "Sources/articles/Do You Wanna Make $10 Per Hour? Or $100, $1,000 or $10,000?.md",
-    "Bins/tags/Inbox.md",
     "Sources/books/Traction 202010160218.md",
     "Sources/books/The Way of the Superior Man 202103221210.md",
-    "Sources/books/The 4-Hour Workweek 202011011328.md",
-    "Sources/books/Principles - Life and Work 202011102343.md",
-    "Sources/books/Fluent Forever 202010171301.md"
+    "Sources/books/The 4-Hour Workweek 202011011328.md"
   ]
 }

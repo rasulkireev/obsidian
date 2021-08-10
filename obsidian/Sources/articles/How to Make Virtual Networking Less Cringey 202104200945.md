@@ -1,16 +1,16 @@
 ---
 status:
   - read
+  - inbox
 tags:
-  - book
+  - article
 ---
 
 
 Author: [[Becky Kane]]
 URL: https://blog.doist.com/virtual-networking/
-Status: #Read 
+Status: 
 
 ## Tags
-- #Article 
 
 ## Key Insights

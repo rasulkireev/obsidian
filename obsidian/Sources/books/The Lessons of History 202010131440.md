@@ -1,10 +1,17 @@
+---
+status:
+  - reviewed
+  - read
+  - inbox
+tags:
+  - book
+---
+
 Author: [[Will Durant]] & [[Ariel Durant]]
 Status: 
-- #Read
-- #Reviewed 
 
 ## Tags
-- #Book
+
 
 ## Interesting Resources Mentioned (Books, Papers, etc.)
 
