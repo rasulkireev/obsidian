@@ -4,45 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4dd10196a6232fdd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bins/tags/Habits.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "d3b320a119aa9930",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Tag Taxonomy.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "66de2eafa2e80442",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bins/tags/Good.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "8b0979fe4f969f6f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bins/tags/Emotions.md",
             "mode": "source"
           }
         }
@@ -72,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Emotion",
+                "query": "tag:#software",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/tags/Emotions.md",
+                "file": "Tag Taxonomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,23 +97,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/tags/Emotions.md"
+                "file": "Tag Taxonomy.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8b0979fe4f969f6f",
+  "active": "d3b320a119aa9930",
   "lastOpenFiles": [
+    "Tag Taxonomy.md",
+    "Bins/tags/Habits.md",
     "Bins/tags/Emotions.md",
     "Bins/tags/Good.md",
     "Bins/tags/Goals.md",
-    "Tag Taxonomy.md",
-    "Bins/tags/Habits.md",
     "Bins/tags/GeoJSON.md",
     "Bins/tags/Python.md",
     "Sources/videos/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",

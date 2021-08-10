@@ -9,25 +9,31 @@
 
 #### descriptive
 - tag
-	- brand (brand of clothing)
+	- company / company / brand
+		- clothing
+		- technology
+	- 
 	- technology
-	- location
-	- store
+	- operating_system (OS)
+	- programming_language
 	- app
-	- newsletter
+	- software
+	- 
+	- location
+	- city
+	- country
+	- restaurant
+	- 
 	- emotion
-	- clothes
 	- movie
 	- food
+	- 
 	- blog
-	- company
-	- operating_system (OS)
-	- restaurant
-	- software
-	- skill
+	- newsletter
 	- podcast
+	- 
+	- skill
 	- community
-	- programming_language
 
 
 - source?
