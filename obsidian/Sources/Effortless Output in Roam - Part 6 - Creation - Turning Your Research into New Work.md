@@ -18,4 +18,11 @@ You can use [[Obsidian]] to create anything you want, including:
 - [[Screenplays]]
 
 ## 2. [[Outlining]] in Roam
- - 
+ - potential sections in the page
+	 - headings
+	 - intro
+	 - actual topics
+	 - outro
+
+- then start pulling in some notes from your database
+	
