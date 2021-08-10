@@ -1,4 +1,6 @@
-#Tag 
-#Technology 
+---
+tags:
+  - software
+---
 
-[[Web Framework]] based on [[Python]]
+[[Web Framework]] based on [[Python]].

@@ -1,8 +1,6 @@
 ---
-aliases:
-  - 
 tags:
-  - tag/newsletter
+  - newsletter
 ---
 
 Author: [[James Clear]]

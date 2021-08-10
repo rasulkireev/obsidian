@@ -1,8 +1,11 @@
+---
+tags:
+  - course
+---
+
 Author: [[Nat Eliason]]
 URL: https://learn.nateliason.com/courses/enrolled/764250
 Tags: 
-	- #Course 
-	- [[Efforless Output in Roam]] 
 	- [[Obsidian]]
 
 ## 1. Intro to [[Creation]] in Roam

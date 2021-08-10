@@ -1,7 +1,4 @@
 ---
-aliases:
-  - 
 tags:
-  - tag
   - movie
 ---

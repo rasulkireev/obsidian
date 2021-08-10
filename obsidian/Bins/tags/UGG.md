@@ -1,2 +1,4 @@
-#Store 
-#Tag
+---
+tags:
+  - company/clothing
+---

@@ -1,4 +1,4 @@
 ---
 tags:
-  - software
+  - video
 ---

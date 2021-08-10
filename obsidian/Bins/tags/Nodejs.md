@@ -2,6 +2,5 @@
 aliases:
   - Node 
 tags:
-  - Tag 
-  - Technology 
+  - software
 ---

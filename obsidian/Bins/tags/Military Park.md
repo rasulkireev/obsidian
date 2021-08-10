@@ -8,5 +8,4 @@ State: [[NJ]]
 Zip: 07102
 Country: [[USA]]
 Tags:
-- #Location 
 - [[Park]]

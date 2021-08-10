@@ -1,2 +1,4 @@
-#Tag 
-#Store 
+---
+tags:
+  - company/jewelry
+---

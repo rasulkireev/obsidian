@@ -1,4 +1,7 @@
-#Course 
+---
+tags:
+  - course
+---
 
 ## Table of Contents
 - [[Effortless Output in Roam - Part 1 - Learning the Basics]]

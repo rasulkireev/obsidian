@@ -2,6 +2,7 @@
 aliases:
   - 
 tags:
-  - tag
-  - technology
+  - software
 ---
+
+[[Data Modelling]] tool for [[Python]] and [[SQL]]

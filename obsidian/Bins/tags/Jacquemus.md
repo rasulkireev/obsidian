@@ -1,6 +1,4 @@
 ---
-aliases:
-  - 
 tags:
-  - tag/brand
+  - company/clothing
 ---

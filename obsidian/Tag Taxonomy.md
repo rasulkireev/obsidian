@@ -1,37 +1,35 @@
 ### Good
 
-#### descriptive
-- tag (folder and links without specific groups)
-	- company / company / brand
-		- clothing
-		- tech
-	- software
-	- 
-	- location
+### tags
+- company / company / brand
+	- clothing
+	- tech
+- software
+- location
 	- city
 	- country
+	- state
+	- farm
+	- park
 	- restaurant
-	- 
-	- emotion
-	- movie
-	- food
-	- 
-	- blog
-	- newsletter
-	- podcast
-	- 
-	- skill
-	- community
+- emotion
+- movie
+- food
+- blog
+- newsletter
+- podcast
+- skill
+- community
 
 
-- source?
-	- book
-	- article
-	- course
-	- tweet
-	- video
-	- research_paper (paper)
-	- podcast_episode
+### sources
+- book
+- article
+- course
+- tweet
+- video
+- research_paper
+- podcast_episode
 
 - note
 	- literature

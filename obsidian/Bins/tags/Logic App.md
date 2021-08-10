@@ -1,4 +1,6 @@
-#Tag 
-#Technology
+---
+tags:
+  - software
+---
 
-[[Azure]]
+[[Azure]]'s product to wire other Azure services together.

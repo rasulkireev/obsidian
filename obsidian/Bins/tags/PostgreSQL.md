@@ -1,5 +1,7 @@
-#Tag 
-#Technology 
+---
+tags:
+  - software
+---
 
 [[Open Source]]
 [[Database]]

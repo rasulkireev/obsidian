@@ -1,2 +1,6 @@
-#Tag 
-#Store 
+---
+aliases:
+  - 
+tags:
+  - company/clothing
+---
