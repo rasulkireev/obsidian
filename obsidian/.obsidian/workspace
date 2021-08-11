@@ -7,8 +7,11 @@
         "id": "22a341055547ad4e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/entity api 202108111533.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/entity api 202108111533.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/entity api 202108111533.md"
+              }
             }
           }
         ],
@@ -103,15 +109,15 @@
   },
   "active": "22a341055547ad4e",
   "lastOpenFiles": [
+    "Inbox/backend api prd outline 202108111533.md",
+    "Inbox/Clay Hambirck.md",
+    "Inbox/Tech Lead.md",
+    "Inbox/Guy Carpenter.md",
+    "Inbox/Untitled.md",
     "Sources/books/How to Take Smart Notes 202010131439.md",
     "Bins/journal/daily/2021-07-29.md",
     "Bins/tags/Very Good.md",
     "Inbox/favorite.md",
-    "Sources/Readwise/1 What I Wish I Knew Wh....md",
-    "Sources/Readwise/2,167 New Subscribers in 48 Hours.md",
-    "Readwise/1 What I Wish I Knew Wh....md",
-    "Sources/10 Ideas That Changed My....md",
-    "Sources/1 What I Wish I Knew Wh....md",
-    "Sources/Cold Shower Therapy.md"
+    "Sources/Readwise/1 What I Wish I Knew Wh....md"
   ]
 }
