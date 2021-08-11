@@ -1,21 +1,21 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "-path:Bins/journal",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "#tag",
+      "query": "path:Bins/tags",
       "color": {
         "a": 1,
-        "rgb": 14876847
+        "rgb": 14876672
       }
     },
     {
-      "query": "#writingidea",
+      "query": "path:Notes",
       "color": {
         "a": 1,
         "rgb": 56576
@@ -24,14 +24,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -2.4,
-  "nodeSizeMultiplier": 1.62433103669284,
-  "lineSizeMultiplier": 1.16071142445121,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0,
-  "repelStrength": 13.2206377183144,
-  "linkStrength": 0.598221438871976,
-  "linkDistance": 75,
-  "scale": 0.022343946186774526,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.2562372621908603,
   "close": false
 }

@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "3564dd5d225be911",
+        "id": "22a341055547ad4e",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -101,17 +101,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3564dd5d225be911",
+  "active": "22a341055547ad4e",
   "lastOpenFiles": [
+    "Sources/books/How to Take Smart Notes 202010131439.md",
+    "Bins/journal/daily/2021-07-29.md",
+    "Bins/tags/Very Good.md",
+    "Inbox/favorite.md",
+    "Sources/Readwise/1 What I Wish I Knew Wh....md",
+    "Sources/Readwise/2,167 New Subscribers in 48 Hours.md",
     "Readwise/1 What I Wish I Knew Wh....md",
     "Sources/10 Ideas That Changed My....md",
     "Sources/1 What I Wish I Knew Wh....md",
-    "Sources/Cold Shower Therapy.md",
-    "Sources/Effortless Output in Roam - Part 6 - Creation - Turning Your Research into New Work.md",
-    "Bins/tags/Skills.md",
-    "Bins/tags/Writing.md",
-    "Sources/books/3 Obvious Habits 202011221820.md",
-    "Sources/3-obvious-habits.pdf.md",
-    "Sources/books/How to Get Rich 202011221824.md"
+    "Sources/Cold Shower Therapy.md"
   ]
 }
