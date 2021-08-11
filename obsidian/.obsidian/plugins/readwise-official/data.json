@@ -5,10 +5,10 @@
   "frequency": "0",
   "triggerOnLoad": false,
   "silentRun": false,
-  "isSyncing": false,
+  "isSyncing": true,
   "lastSyncFailed": false,
   "lastSavedStatusID": 1663992,
-  "currentSyncStatusID": 0,
+  "currentSyncStatusID": 1668074,
   "refreshBooks": false,
   "booksToRefresh": [],
   "booksIDsMap": {
