@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "ab7303482df15450",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/Entity API PRD 202108111625.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -109,15 +120,15 @@
   },
   "active": "22a341055547ad4e",
   "lastOpenFiles": [
+    "Inbox/entity api 202108111533.md",
+    "Inbox/Entity API PRD 202108111625.md",
+    "Bins/tags/Django.md",
+    "Inbox/Django REST Framework.md",
+    "Bins/tags/REST APIs.md",
     "Inbox/backend api prd outline 202108111533.md",
     "Inbox/Clay Hambirck.md",
     "Inbox/Tech Lead.md",
     "Inbox/Guy Carpenter.md",
-    "Inbox/Untitled.md",
-    "Sources/books/How to Take Smart Notes 202010131439.md",
-    "Bins/journal/daily/2021-07-29.md",
-    "Bins/tags/Very Good.md",
-    "Inbox/favorite.md",
-    "Sources/Readwise/1 What I Wish I Knew Wh....md"
+    "Inbox/Untitled.md"
   ]
 }
