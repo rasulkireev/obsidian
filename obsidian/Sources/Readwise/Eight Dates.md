@@ -1,0 +1,25 @@
+---
+status:
+  - inbox 
+  - not_reviewed
+  - reading
+tags: 
+  - books
+---
+# Eight Dates
+![Eight Dates-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-6.71d9a01814f7.png)
+
+## Metadata
+- Author: [[John Gottman]]
+
+## Highlights
+- Celebrity couple Giuliana and Bill Rancic said in an interview with US Weekly magazine, “We put our marriage first and our child second.” This sound bite was big news and provoked debate in the media about whether the two were “good” parents. What didn’t make the headlines was the rest of the content around the headline: We’re husband and wife but we’re also best friends. It’s funny because a lot of people, when they have kids, they put the baby first and the marriage second. That works for some people. For us, I find, we put our marriage first and our child second, because the best thing we can do for him is have a strong marriage (Location 1864)
+- If you’ve decided to have children and you want to stay away from the bottom of the U-shaped curve, then you both need to have two main goals. 1  Both partners should work to stay involved during the pregnancy and birth of children. Both should be involved as equally as possible with the new baby, whether they are same sex or heterosexual couples. In heterosexual couples, studies show that dad’s involvement matters greatly, and the secret to keeping dad involved with the baby is a good relationship with mom. If there is low conflict and continued sex, then dad will stay involved with the baby, and the couple is more likely to maintain marital happiness. 2  The second most important thing is for the two of you to maintain intimacy and connection. You need to make your relationship a priority. If you don’t, you will fall to the bottom of the curve and not get out for 18 years, if you don’t divorce first. To maintain intimacy you need to talk to each other about your stresses, make time to connect (date nights!), and avoid defensiveness, criticism, contempt, and shutting down or withdrawing from each other. Review the chapters on conflict and sex if in doubt. (Location 1898)
+- University of Denver psychology professor and codirector of the Center for Marital and Family Studies Howard Markman says, “The correlation between fun and marital happiness is high and significant. The more you invest in fun and friendship and being there for your partner, the happier the relationship will get over time.” Markman and his codirector, Scott Stanley, began a long-term study of over 300 Denver couples in 1996 using a questionnaire based on a “fun and friendship scale” the two developed. Although the study hasn’t yet been published, the findings are clear—couples who play, laugh, and make a “game” out of daily life are happier couples. (Location 1990)
+    - Tags: 
+- Finding ways to play together as often as possible will help your relationship thrive, and making play a priority will help to create a relationship that is full of joy and happiness. (Location 2010)
+- The seeking system in animals is what drives a squirrel to sniff out a nut, or compels all animals to search their environment for the resources they need to survive. Humans also have a seeking system, and this system is about exploration and, ultimately, curiosity. Animals may seek and forage for food, or a mate, but humans are highly developed. We seek new experiences, new understanding, and new meaning. And we seek the reward and pleasure that comes from these new experiences (Location 2023)
+- For a couple, play and adventure is all about learning together, growing together, exploring together, and supporting the natural curiosity you both have. Adventure always involves the unknown, and as such, there is a hint of danger to it. Some people can tolerate more danger than others. (Location 2069)
+    - Tags: 
+- The need for adventure is universal, but the ways in which we seek that newness will be different. Not better, not worse. Not right, not wrong. Just different. For some couples an adventure is taking a cooking class when you’ve never cooked before in your life. Or taking an art class when you’ve only ever drawn stick figures. Adventure doesn’t have to happen on far-off mountaintops or at the risk of life and limb. At its core, it’s simply seeking what is new and different. It is anything that pushes you outside of your comfort zone, giving you that dopamine-induced thrill. (Location 2081)
+- There are many ways to have adventures together. A small adventure somewhere new and unknown can be a microcosm of the adventure of life. Go out in the world together and explore the unknown—whether that’s walking through a new neighborhood, trying a new type of food at a restaurant, traveling anywhere (even nearby), making new friends, talking to random strangers, turning off your cell phone for a day, or deciding to take a hip-hop class together. Newness is the key, so shake up your routines, try something different, and explore what play and adventure mean to both of you. (Location 2132)
