@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "52f6e651eda7f43c",
+    "type": "split",
+    "children": [
+      {
+        "id": "22a341055547ad4e",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2718747872458795",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bb45bae918944099",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "21f175e3a6d674bd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "59fb07e169ce2d67",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0bc8b2584222bf29",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b6ee5c475d12b28d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b98ec36a59e3249e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "22a341055547ad4e",
+  "lastOpenFiles": [
+    "Sources/books/How to Take Smart Notes 202010131439.md",
+    "Bins/journal/daily/2021-07-29.md",
+    "Bins/tags/Very Good.md",
+    "Inbox/favorite.md",
+    "Sources/Readwise/1 What I Wish I Knew Wh....md",
+    "Sources/Readwise/2,167 New Subscribers in 48 Hours.md",
+    "Readwise/1 What I Wish I Knew Wh....md",
+    "Sources/10 Ideas That Changed My....md",
+    "Sources/1 What I Wish I Knew Wh....md",
+    "Sources/Cold Shower Therapy.md"
+  ]
+}
