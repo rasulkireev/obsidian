@@ -108,3 +108,26 @@ class SomethingListView(ListView):
     template_name = "{app_name}/all_episodes.html"
     queryset = Something.objects.all()
 ```
+
+Then head over to the templates directory and create a `{app_name}` folder in it. Inside that folder create a `all_episodes.html` or whatever else you named it in the `views.py` file.
+
+```html
+<!-- in templates/{app_name}/all_episodes.html -->
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+{% for episode in object_list %}
+    <p>{{ episode.title }}</p>
+{% endfor %}
+
+{% endblock content %}
+```
+
+Above is a super basic template. We are:
+1. extending the base.html
+2. looping over the object list. Since we have told our view to "push" the data to this template we can access it via this handy name.
+3. access the model fields 
+
+👍
