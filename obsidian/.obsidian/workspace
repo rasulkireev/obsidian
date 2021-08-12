@@ -29,97 +29,83 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "78b21f0aea6a6bb1",
-    "type": "split",
+    "id": "9cc49ae6b87d9f2c",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "0c8abecbeff665da",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ac323fb0b5ab8ee0",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa50e7dbe0dc76ca",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#tweets not_reviewed",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "bf766f04c4800557",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "b09d015051317d83",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "148f49a6240a1edd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "2c4e0f2ff8efc005",
-    "type": "split",
+    "id": "ef13133c1c9eccb1",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "958d98fc712e1fe1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5105d03074dc5524",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Inbox/installing a simple app in django - process 202108121129.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0b2b5ecfa13678f8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "3237a42e93e5815c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Inbox/installing a simple app in django - process 202108121129.md"
-              }
-            }
+        "id": "b3dd95caa95505c3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Inbox/installing a simple app in django - process 202108121129.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "3944f73dd5c2f677",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Inbox/installing a simple app in django - process 202108121129.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "active": "ab7303482df15450",
   "lastOpenFiles": [
+    "Inbox/installing a simple app in django - process 202108121129.md",
     "Inbox/Untitled.md",
     "Inbox/Entity API PRD 202108111625.md",
     "Inbox/entity api 202108111533.md",
@@ -128,7 +114,6 @@
     "Bins/tags/REST APIs.md",
     "Inbox/backend api prd outline 202108111533.md",
     "Inbox/Clay Hambirck.md",
-    "Inbox/Tech Lead.md",
-    "Inbox/Guy Carpenter.md"
+    "Inbox/Tech Lead.md"
   ]
 }
