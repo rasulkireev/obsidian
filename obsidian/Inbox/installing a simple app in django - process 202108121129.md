@@ -139,3 +139,19 @@ Above is a super basic template. We are:
 3. access the model fields 
 
 👍
+
+## Bonus. 7. creating pages for each item in the database.
+
+so far we got a `ListView` which shows all the items in the database. Let's now add a "View" which will show the detail for each item.
+
+Now that we have the basics down this will be quick to add.
+
+Create a view that extends Detailview class
+
+```python
+# in {app_name}/views.py add this new class
+
+...
+
+
+```

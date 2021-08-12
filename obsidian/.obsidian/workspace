@@ -24,6 +24,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "247e2dbd39a6fe81",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/installing a simple app in django - process 202108121129.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -79,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/display and parse many-to-many field from differnt apps in django 202108121704.md",
+                "file": "Inbox/installing a simple app in django - process 202108121129.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/display and parse many-to-many field from differnt apps in django 202108121704.md"
+                "file": "Inbox/installing a simple app in django - process 202108121129.md"
               }
             }
           }
@@ -118,17 +129,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ab7303482df15450",
+  "active": "247e2dbd39a6fe81",
   "lastOpenFiles": [
+    "Inbox/installing a simple app in django - process 202108121129.md",
+    "Inbox/display and parse many-to-many field from differnt apps in django 202108121704.md",
+    "Inbox/entity api 202108111533.md",
     "Inbox/Untitled.md",
     "Inbox/Entity API PRD 202108111625.md",
-    "Inbox/entity api 202108111533.md",
     "Bins/tags/Django.md",
     "Inbox/Django REST Framework.md",
     "Bins/tags/REST APIs.md",
     "Inbox/backend api prd outline 202108111533.md",
-    "Inbox/Clay Hambirck.md",
-    "Inbox/Tech Lead.md",
-    "Inbox/Guy Carpenter.md"
+    "Inbox/Clay Hambirck.md"
   ]
 }

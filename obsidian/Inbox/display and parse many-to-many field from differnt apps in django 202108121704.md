@@ -27,10 +27,9 @@ class Something(models.Model):
 
 ```html
 <div>
-	{% if episode.maker %}
-	  <p class="text-sm font-semibold text-gray-700">
-		{{ episode.maker.all | join:" and " }}
-	  </p>
-	{% endif %}
+  {% for project in episode.project.all %}
+	{{ project.website_title }}
+	{%if not forloop.last%}and{%endif%}
+  {% endfor %}
 </div>
 ```
