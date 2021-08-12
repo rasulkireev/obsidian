@@ -6,7 +6,7 @@ This is me writing down the process for creating a simple Django app. Couple of 
 
 ## 1. Create the app
 
-```
+```bash
 # run in terminal
 python manage.py startapp {name}
 ```
@@ -42,7 +42,7 @@ class Something(models.Model):
 
 Once you are done, run the following:
 
-```
+```bash
 # run in terminal
 python manage.py makemigrations {app_name}
 python manage.py migrate
@@ -64,5 +64,47 @@ admin.site.register(Something)
 ```python
 # in {project_name}/urls.py modify the `urlpatterns` tuple
 
+urlpatterns = (
+    [
+        path("admin/", admin.site.urls),
+		...
+        path("{app_name}/", include("{app_name}.urls")),
+		...
+    ]
+    + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+    + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+)
+```
 
+Then create the `urls.py` file in your new app directory:
+
+```python
+# {app_name}/urls.py
+# note that the view does not exists yet. Will create in the next step
+# Change the the name of the name as you see fit. Standard practice is to say SomethingListView, where something is whatever you are displaying.
+
+from django.urls import path
+from .views import PodcastListView
+
+urlpatterns = [
+    path("", PodcastListView.as_view(), name="podcast_episodes"),
+]
+```
+
+## 6. Create the View
+Creating the view is necessary to pass the data to the page.
+
+```python
+# in {app_name}/views.py
+
+from django.views.generic import ListView
+from .models import Something
+
+# note: the name of the class needs to be the same as you created in urls.py
+class SomethingListView(ListView):
+    model = Something
+	# the template name is saying to which file/template to "send" the data
+	# for me all the templates sit in the "templates" folder in at the root of the project
+    template_name = "{app_name}/all_episodes.html"
+    queryset = Something.objects.all()
 ```
