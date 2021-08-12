@@ -1,3 +1,11 @@
+---
+tags:
+  - note
+  - tutorial
+status:
+  - inbox
+---
+
 This is me writing down the process for creating a simple Django app. Couple of caveats:
 - the app will be "managed" through Admin (no user interaction)
 - all the data will be displayed on a page
