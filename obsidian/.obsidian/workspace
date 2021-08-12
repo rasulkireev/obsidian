@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Entity API PRD 202108111625.md",
+            "file": "Inbox/installing a simple app in django - process 202108121129.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/entity api 202108111533.md",
+                "file": "Inbox/installing a simple app in django - process 202108121129.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/entity api 202108111533.md"
+                "file": "Inbox/installing a simple app in django - process 202108121129.md"
               }
             }
           }
@@ -118,17 +118,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "22a341055547ad4e",
+  "active": "ab7303482df15450",
   "lastOpenFiles": [
-    "Inbox/entity api 202108111533.md",
+    "Inbox/Untitled.md",
     "Inbox/Entity API PRD 202108111625.md",
+    "Inbox/entity api 202108111533.md",
     "Bins/tags/Django.md",
     "Inbox/Django REST Framework.md",
     "Bins/tags/REST APIs.md",
     "Inbox/backend api prd outline 202108111533.md",
     "Inbox/Clay Hambirck.md",
     "Inbox/Tech Lead.md",
-    "Inbox/Guy Carpenter.md",
-    "Inbox/Untitled.md"
+    "Inbox/Guy Carpenter.md"
   ]
 }
