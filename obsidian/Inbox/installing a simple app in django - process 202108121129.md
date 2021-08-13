@@ -1,6 +1,5 @@
 ---
 tags:
-  - note
   - tutorial
 status:
   - inbox
@@ -152,6 +151,29 @@ Create a view that extends Detailview class
 # in {app_name}/views.py add this new class
 
 ...
+class EpisodeDetailView(DetailView):
+    model = Episode
+    template_name = "{app_name}/episode_details.html"
+...
 
+```
 
+then in `urls.py`
+
+```python
+urlpatterns = [
+    path("", EpisodeListView.as_view(), name="podcast_episodes"),
+    path("<int:pk>", EpisodeDetailView.as_view(), name="episode_details"),
+]
+```
+
+then in `episode_details.html`
+
+```html
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+	{{ object.title }}
+{% endblock content %}
 ```

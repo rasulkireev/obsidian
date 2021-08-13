@@ -1,6 +1,5 @@
 ---
 tags:
-  - note
   - tutorial
 status: 
   - inbox  
