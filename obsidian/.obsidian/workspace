@@ -18,94 +18,79 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "78b21f0aea6a6bb1",
-    "type": "split",
+    "id": "fdeb74055716e91a",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "0c8abecbeff665da",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ac323fb0b5ab8ee0",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa50e7dbe0dc76ca",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#tweets not_reviewed",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "319fb07075bc9107",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "703f76800d078177",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "9553b50beaa6b1c1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "2c4e0f2ff8efc005",
-    "type": "split",
+    "id": "93e657a129461cb4",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "958d98fc712e1fe1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5105d03074dc5524",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Inbox/entity api 202108111533.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0b2b5ecfa13678f8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "3237a42e93e5815c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Inbox/entity api 202108111533.md"
-              }
-            }
+        "id": "be08e5055534a8e3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Inbox/entity api 202108111533.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "3999122316a2ef71",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Inbox/entity api 202108111533.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "active": "22a341055547ad4e",
   "lastOpenFiles": [
