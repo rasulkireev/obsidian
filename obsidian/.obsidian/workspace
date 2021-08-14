@@ -7,8 +7,11 @@
         "id": "35bd16a88ae9f569",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/installing a simple app in django - process 202108121129.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/installing a simple app in django - process 202108121129.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/installing a simple app in django - process 202108121129.md"
+              }
             }
           }
         ],
@@ -103,9 +109,9 @@
   },
   "active": "35bd16a88ae9f569",
   "lastOpenFiles": [
+    "Inbox/installing a simple app in django - process 202108121129.md",
     "Inbox/entity api 202108111533.md",
     "Inbox/display and parse many-to-many field from differnt apps in django 202108121704.md",
-    "Inbox/installing a simple app in django - process 202108121129.md",
     "Inbox/Untitled.md",
     "Inbox/Entity API PRD 202108111625.md",
     "Bins/tags/Django.md",
