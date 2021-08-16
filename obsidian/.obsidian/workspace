@@ -18,79 +18,94 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "58c20a676882ce1a",
-    "type": "mobile-drawer",
+    "id": "5f0174cb8a7ecee9",
+    "type": "split",
     "children": [
       {
-        "id": "eca1dcfca33033e1",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "ff89861bce468b10",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "655c4e60c6a9a5d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f56cebda6fa7cc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d725f5c81de85a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "e4a1761ca1d850cf",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "489d5612e0c01299",
-    "type": "mobile-drawer",
+    "id": "a675269dff9ecc17",
+    "type": "split",
     "children": [
       {
-        "id": "d8bbf7a0b3442033",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Inbox/installing a simple app in django - process 202108121129.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "1d238a7a70d6b900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45560c999b78854e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox/installing a simple app in django - process 202108121129.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc2049936fb17a26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d6de9a5bcc89014",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox/installing a simple app in django - process 202108121129.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "75349377877552b7",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Inbox/installing a simple app in django - process 202108121129.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "35bd16a88ae9f569",
   "lastOpenFiles": [
