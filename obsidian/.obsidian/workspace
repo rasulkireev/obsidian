@@ -100,7 +100,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,14 +110,14 @@
   "active": "75c81c6ffefd006b",
   "lastOpenFiles": [
     "Bins/journal/daily/2021-08-17.md",
+    "Inbox/data_utils.md",
+    "Bins/tags/Python.md",
+    "Inbox/Azure Data Lake Storage.md",
+    "Bins/tags/Azure.md",
+    "Inbox/Data Lake.md",
     "Inbox/The 4-Hour Chef.md",
     "Inbox/Tech Lead.md",
     "Inbox/Not Reviewed.md",
-    "Inbox/Investment Banking.md",
-    "Inbox/Kubernetes.md",
-    "Inbox/Hunting.md",
-    "Inbox/Done.md",
-    "Inbox/Django REST Framework.md",
-    "Inbox/Market Toolkit.md"
+    "Inbox/Investment Banking.md"
   ]
 }
