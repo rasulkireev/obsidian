@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "75c81c6ffefd006b",
+        "id": "8521ed7ebe4c369c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bins/journal/daily/2021-08-17.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/journal/daily/2021-08-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bins/journal/daily/2021-08-17.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -107,8 +101,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "75c81c6ffefd006b",
+  "active": "8521ed7ebe4c369c",
   "lastOpenFiles": [
+    "Bins/journal/daily/Untitled.md",
     "Bins/journal/daily/2021-08-17.md",
     "Inbox/data_utils.md",
     "Bins/tags/Python.md",
@@ -117,7 +112,6 @@
     "Inbox/Data Lake.md",
     "Inbox/The 4-Hour Chef.md",
     "Inbox/Tech Lead.md",
-    "Inbox/Not Reviewed.md",
-    "Inbox/Investment Banking.md"
+    "Inbox/Not Reviewed.md"
   ]
 }
