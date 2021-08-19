@@ -22,3 +22,5 @@ than mount again via
 ```bash
 sshfs username@ip-address:path/to/desired/mount/folder /path/to/desired/mount/location/locally
 ```
+
+found answer on https://stackoverflow.com/questions/44110633/device-not-configured-after-sshfs-attempt
