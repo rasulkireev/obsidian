@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/device not configured error after using sshfs 202108191129.md",
+            "file": "Inbox/how to work with sqlite table on  a remote server 202108191212.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/device not configured error after using sshfs 202108191129.md",
+                "file": "Inbox/how to work with sqlite table on  a remote server 202108191212.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/device not configured error after using sshfs 202108191129.md"
+                "file": "Inbox/how to work with sqlite table on  a remote server 202108191212.md"
               }
             }
           }
@@ -109,12 +109,12 @@
   },
   "active": "ab6e41d812dabb6c",
   "lastOpenFiles": [
+    "Inbox/Untitled.md",
     "Inbox/device not configured error after using sshfs 202108191129.md",
     "Tag Taxonomy.md",
     "Output/code/npx webpack flatMap error on Ubuntu server.md",
     "Inbox/display and parse many-to-many field from differnt apps in django 202108121704.md",
     "Inbox/installing a simple app in django - process 202108121129.md",
-    "Inbox/Untitled.md",
     "Bins/journal/daily/2021-08-19.md",
     "Bins/journal/daily/2021-08-18.md",
     "Inbox/entity api 202108111533.md",
