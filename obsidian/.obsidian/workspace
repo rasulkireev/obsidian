@@ -7,8 +7,11 @@
         "id": "dc6f0d80d00e1ed3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/connecting models with a model in between 202108191731.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/connecting models with a model in between 202108191731.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/connecting models with a model in between 202108191731.md"
+              }
             }
           }
         ],
@@ -103,9 +109,9 @@
   },
   "active": "dc6f0d80d00e1ed3",
   "lastOpenFiles": [
+    "Inbox/Untitled.md",
     "Inbox/editing customuser model in the admin panel in django 202108191701.md",
     "Bins/tags/Work.md",
-    "Inbox/Untitled.md",
     "Inbox/device not configured error after using sshfs 202108191129.md",
     "Tag Taxonomy.md",
     "Output/code/npx webpack flatMap error on Ubuntu server.md",
