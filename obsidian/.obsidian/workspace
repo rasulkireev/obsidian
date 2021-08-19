@@ -18,94 +18,79 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5f0174cb8a7ecee9",
-    "type": "split",
+    "id": "cdedd8073e5bd0f3",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "655c4e60c6a9a5d3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1f56cebda6fa7cc3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "9d725f5c81de85a8",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#grand_project",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "9c425f44453213bc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "c4629e7ef0c77416",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "cf19e3074dd4cc2d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "a675269dff9ecc17",
-    "type": "split",
+    "id": "548b518c4c073abd",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1d238a7a70d6b900",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "45560c999b78854e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Inbox/device not configured error after using sshfs 202108191129.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "bc2049936fb17a26",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "6d6de9a5bcc89014",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Inbox/device not configured error after using sshfs 202108191129.md"
-              }
-            }
+        "id": "9d0c56b8e2717061",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Inbox/device not configured error after using sshfs 202108191129.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "3f34d11d48556970",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Inbox/device not configured error after using sshfs 202108191129.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "active": "ab6e41d812dabb6c",
   "lastOpenFiles": [
