@@ -1,6 +1,7 @@
 ---
 tags:
   - writingidea
+  - code
 ---
 
 ## Issue

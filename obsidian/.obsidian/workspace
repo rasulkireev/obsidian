@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a9e84cd9dd6b66cf",
+        "id": "ab6e41d812dabb6c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/device not configured error after using sshfs 202108191129.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -45,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/device not configured error after using sshfs 202108191129.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/device not configured error after using sshfs 202108191129.md"
+              }
             }
           }
         ],
@@ -102,17 +107,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a9e84cd9dd6b66cf",
+  "active": "ab6e41d812dabb6c",
   "lastOpenFiles": [
-    "Inbox/entity api 202108111533.md",
+    "Inbox/device not configured error after using sshfs 202108191129.md",
+    "Tag Taxonomy.md",
+    "Output/code/npx webpack flatMap error on Ubuntu server.md",
+    "Inbox/display and parse many-to-many field from differnt apps in django 202108121704.md",
+    "Inbox/installing a simple app in django - process 202108121129.md",
+    "Inbox/Untitled.md",
+    "Bins/journal/daily/2021-08-19.md",
     "Bins/journal/daily/2021-08-18.md",
-    "Bins/journal/daily/2021-08-17.md",
-    "Bins/journal/daily/Untitled.md",
-    "Inbox/data_utils.md",
-    "Bins/tags/Python.md",
-    "Inbox/Azure Data Lake Storage.md",
-    "Bins/tags/Azure.md",
-    "Inbox/Data Lake.md",
-    "Inbox/The 4-Hour Chef.md"
+    "Inbox/entity api 202108111533.md",
+    "Bins/journal/daily/2021-08-17.md"
   ]
 }
