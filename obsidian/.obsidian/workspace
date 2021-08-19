@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8521ed7ebe4c369c",
+        "id": "a9e84cd9dd6b66cf",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#status",
+                "query": "tag:#grand_project",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,17 +102,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8521ed7ebe4c369c",
+  "active": "a9e84cd9dd6b66cf",
   "lastOpenFiles": [
-    "Bins/journal/daily/Untitled.md",
+    "Inbox/entity api 202108111533.md",
+    "Bins/journal/daily/2021-08-18.md",
     "Bins/journal/daily/2021-08-17.md",
+    "Bins/journal/daily/Untitled.md",
     "Inbox/data_utils.md",
     "Bins/tags/Python.md",
     "Inbox/Azure Data Lake Storage.md",
     "Bins/tags/Azure.md",
     "Inbox/Data Lake.md",
-    "Inbox/The 4-Hour Chef.md",
-    "Inbox/Tech Lead.md",
-    "Inbox/Not Reviewed.md"
+    "Inbox/The 4-Hour Chef.md"
   ]
 }
