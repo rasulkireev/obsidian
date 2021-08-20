@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/editing customuser model in the admin panel in django 202108191701.md",
+            "file": "Inbox/connecting models with a model in between 202108191731.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/editing customuser model in the admin panel in django 202108191701.md",
+                "file": "Inbox/connecting models with a model in between 202108191731.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/editing customuser model in the admin panel in django 202108191701.md"
+                "file": "Inbox/connecting models with a model in between 202108191731.md"
               }
             }
           }
@@ -109,15 +109,15 @@
   },
   "active": "dc6f0d80d00e1ed3",
   "lastOpenFiles": [
+    "Inbox/connecting models with a model in between 202108191731.md",
+    "Inbox/device not configured error after using sshfs 202108191129.md",
+    "Inbox/display and parse many-to-many field from differnt apps in django 202108121704.md",
     "Inbox/editing customuser model in the admin panel in django 202108191701.md",
     "Inbox/Entity API PRD 202108111625.md",
     "Inbox/how to build a liking system in django 202108201543.md",
     "Inbox/how to work with sqlite table on  a remote server 202108191212.md",
     "Inbox/installing a simple app in django - process 202108121129.md",
     "Inbox/Untitled.md",
-    "Bins/tags/Work.md",
-    "Inbox/device not configured error after using sshfs 202108191129.md",
-    "Tag Taxonomy.md",
-    "Output/code/npx webpack flatMap error on Ubuntu server.md"
+    "Bins/tags/Work.md"
   ]
 }
