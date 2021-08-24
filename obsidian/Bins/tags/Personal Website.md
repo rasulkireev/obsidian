@@ -1,4 +1,1 @@
-#Tag 
-#Project 
-
-Built with [[Gridsome]]
+Note to collect all the cool personal website from the people tag.

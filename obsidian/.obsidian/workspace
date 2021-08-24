@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Output/How I got a job as a Software Engineer without a CS degree.md",
+            "file": "Bins/tags/Dataview Plugin.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#planning",
+                "query": "tag:#plugin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Output/How I got a job as a Software Engineer without a CS degree.md",
+                "file": "Bins/tags/Dataview Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Output/How I got a job as a Software Engineer without a CS degree.md"
+                "file": "Bins/tags/Dataview Plugin.md"
               }
             }
           }
@@ -110,15 +110,15 @@
   },
   "active": "333125ca150c6824",
   "lastOpenFiles": [
-    "Output/How I got a job as a Software Engineer without a CS degree.md",
-    "Inbox/installing a simple app in django - process 202108121129.md",
-    "Inbox/Tutorial.md",
-    "Inbox/display and parse many-to-many field from differnt apps in django 202108121704.md",
-    "Sources/My 2021 Comprehensive Obsidian Zettelkasten Workflow - Bryan Jenks 202108031639.md",
-    "Sources/Everyone Can Build a Twitter Audience.md",
-    "Bins/tags/Twitter.md",
-    "Bins/tags/Social Networks.md",
-    "Bins/tags/Audience Building.md",
-    "Bins/templates/Untitled.md"
+    "Bins/tags/Dataview Plugin.md",
+    "Bins/tags/Market Toolkit.md",
+    "Bins/tags/OTB Chess.md",
+    "Sources/articles/Opening up the Solution Space - The Role of Analogical Thinking for Breakthrough Product Innovation.md",
+    "Sources/articles/Unskilled and Unaware of It - How Diffculties in Recognizing One’s Own Incompetence Lead to Infated Self-Assessments.md",
+    "Inbox/Hit the Front Page of HackerNews 202108232247.md",
+    "Bins/templates/person.md",
+    "Inbox/Michael Lynch.md",
+    "Bins/templates/Untitled.md",
+    "Bins/tags/Personal Website.md"
   ]
 }

@@ -1,6 +1,7 @@
 ---
 aliases:
   - mtk
+  - market_toolkit
 tags:
   - area
 ---
