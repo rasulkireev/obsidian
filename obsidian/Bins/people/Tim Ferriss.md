@@ -1,9 +1,9 @@
-Personal Website:
-Birthday:
-Email:
-Phone:
+---
+tags:
+  - person
+---
+
+[[Personal Website]]: https://tim.blog
+Twitter: @tferriss
 Tags:
-- #Person
-
-## How we Met:
-
+	- [[Writer]]

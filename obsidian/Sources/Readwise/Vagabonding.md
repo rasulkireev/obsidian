@@ -1,16 +1,18 @@
 ---
 status:
-  - inbox 
-  - not_reviewed
-  - reading
+  - dropped
 tags: 
   - books
 ---
+
 # Vagabonding
 ![Vagabonding-cover](https://is4-ssl.mzstatic.com/image/thumb/Publication69/v4/90/37/68/903768fa-9975-2886-f89c-d0b8333271f2/9780679647423.jpg/1400x2162w.jpg)
 
 ## Metadata
 - Author: [[Rolf Potts]]
+- Recommended By: [[Tim Ferriss]]
+- Tags:
+	- [[Travel]]
 
 ## Highlights
 - Vagabonding is not like bulk shopping: The value of your travels does not hinge on how many stamps you have in your passport when you get home — and the slow, nuanced experience of a single country is always better than the hurried, superficial experience of forty countries. (Location 906)

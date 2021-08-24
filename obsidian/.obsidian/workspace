@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e38ee2b91a19cea7",
+        "id": "30db848ff0c4e159",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/Readwise/Your Music  People.md",
+            "file": "Sources/Readwise/Why Buddhism Is True.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Readwise/Your Music  People.md",
+                "file": "Sources/Readwise/Why Buddhism Is True.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/Readwise/Your Music  People.md"
+                "file": "Sources/Readwise/Why Buddhism Is True.md"
               }
             }
           }
@@ -105,19 +105,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e38ee2b91a19cea7",
+  "active": "30db848ff0c4e159",
   "lastOpenFiles": [
-    "Sources/Readwise/Your Music  People.md",
-    "Bins/queries/Untitled.md",
-    "Bins/tags/Inbox.md",
-    "Inbox/Google.md",
-    "Bins/tags/Fatherhood.md",
-    "Bins/tags/Doist.md",
-    "Bins/tags/DiSSS Framework.md",
-    "Bins/tags/Data Modelling.md",
-    "Bins/tags/Community.md",
-    "Bins/tags/Clippings.io.md"
+    "Sources/Readwise/Why Buddhism Is True.md",
+    "Inbox/Evolutionary Psychology.md",
+    "Bins/tags/Religion.md",
+    "Bins/tags/Psychology.md",
+    "Inbox/Buddhism.md",
+    "Bins/queries/Readwise Inbox.md",
+    "Bins/people/Tim Ferriss.md",
+    "Bins/tags/Writer.md",
+    "Sources/Readwise/Vagabonding.md",
+    "Tag Taxonomy.md"
   ]
 }

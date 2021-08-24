@@ -1,8 +1,6 @@
 ---
 status:
-  - inbox 
-  - not_reviewed
-  - reading
+  - dropped
 tags: 
   - books
 ---
@@ -10,6 +8,9 @@ tags:
 
 ## Metadata
 - Author: [[Derek Sivers]]
+- Tags:
+	- [[Philosophy]]
+	- [[Openness]]
 
 ## Highlights
 ### Intro
