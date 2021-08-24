@@ -1,4 +1,7 @@
-#writingidea 
+---
+status:
+  - writing_idea
+---
 
 This is a list of cool [[Alfred]] Expansions.
 

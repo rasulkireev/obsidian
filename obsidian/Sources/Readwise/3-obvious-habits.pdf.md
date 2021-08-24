@@ -1,6 +1,6 @@
 ---
 status:
-  - inbox 
+  - inbox
 tags: 
   - articles
 ---

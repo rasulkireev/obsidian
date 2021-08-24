@@ -1,30 +1,14 @@
+---
+status:
+  - dropped
+tags:
+  - book
+---
+
 Author: [[MIchael Gerber]]
-Status: #Dropped
-Rating: 
+Tags:
+	- [[Business]]
+	- [[Entrepreneurship]]
 
-## Tags
-- #Book
-- [[Business]]
-- [[Entrepreneurship]]
-
-## Interesting Resources Mentioned (Books, Papers, etc.)
-
-## Summary (Short)
-
-**Structure**
-
-**Purpose**
-
-
-## Key Ideas
+## Ideas
 ![[live life with intention 202010160226]]
-
-## Questions
-
-## Tags
-
-## My Top 3 Quotes
-
-## How the Book Changed Me
-
-## Who Should Read it? 

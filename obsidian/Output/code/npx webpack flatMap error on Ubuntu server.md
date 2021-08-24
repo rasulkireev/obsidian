@@ -1,6 +1,7 @@
 ---
+status:
+  - writing_idea
 tags:
-  - writingidea
   - code
 ---
 

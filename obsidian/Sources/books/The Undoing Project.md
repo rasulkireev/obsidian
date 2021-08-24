@@ -1,24 +1,12 @@
+---
+status:
+  - dropped
+tags:
+  - book
+---
+
 Author: [[Michael Lewis]]
-Status: #Dropped 
-
-## Tags
-- #Book
-
-## Interesting Resources Mentioned (Books, Papers, etc.)
-
-## Summary (Short)
-
-**Structure**
-
-**Purpose**
-
-
-## Key Ideas
-
-## Questions
-
-## My Top 3 Quotes
-
-## How the Book Changed Me
-
-## Who Should Read it? 
+Tags:
+	- [[Biography]]
+	- [[Relationships]]
+	- [[Friendships]]

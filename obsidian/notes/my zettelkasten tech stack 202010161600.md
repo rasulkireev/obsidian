@@ -1,3 +1,11 @@
+---
+status:
+  - writing_idea
+  - in_progress
+tags:
+  - note
+---
+- 
 - For **fleeting notes** and **literature notes** I use [[Joplin]].
 - For the [[Zettelkasten]] **permanent notes** I use [[Obsidian]]
 
@@ -13,9 +21,5 @@
 		- This helps me keep a record of all the notes I have taken before. Those, I don't look often. Just for the piece of mind.
 	- Readwise on the other hand offers me to review 5-6 highlights each morning. I approve, remove or edit them. So, with time, my Readwise "database" will only have good notes that liked.
 		- Any time that a Readwise highlight sparks a thought I enter it in my Zettelkasten. I usually share it on Twitter also.
-
-## Permanent Notes
-
-#writingidea 
 
 Tags: [[Zettelkasten]], [[Second Brain]], [[Note-taking]]
