@@ -1,17 +1,12 @@
 ---
-aliases:
-  - 
+status:
+  - writing_idea
 tags:
   - project
   - article
 ---
 
-Due Date:
-Related Goals:
-Status: #planning
-Success Criteria: Finished / Published Article
-Completed Date:
-Tags:
+                       Tags:
  - [[Career]]
  - [[Programming]]
  - [[Employment]]

@@ -1,7 +1,8 @@
 ---
+status:
+  - find_source
 tags:
   - note
-  - find_source
 ---
 
 Humans have been evolving or thousands of years. Most of those years we have spent in the pre historic ages, where most of our [[DNA]], reflexes were programmed into us.

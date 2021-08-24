@@ -7,10 +7,8 @@ status:
 
 Author: [[Bryan Jenks]]
 URL: https://www.youtube.com/watch?v=wB89lJs5A3s
-Recommended By: [[Everyone]]
-Status: [[In Progress]]
+Recommended By: [[Obsidian]]
 Tags:
-  - [[Video]] 
   - [[PKM]]
   - [[Obsidian]]
 

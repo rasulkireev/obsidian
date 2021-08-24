@@ -1,9 +1,12 @@
 ---
 tags:
-  - tutorial
+  - code
 status: 
-  - inbox  
+  - writing_idea  
 ---
+
+Tags:
+	- [[Django]]
 
 ```python
 from django.db import models

@@ -19,4 +19,3 @@ tags:
   Take one five minute cold shower every morning for thirty days.
   Throw a ten minute shower in there just for fun.
   Finish your project. Do something impossible. Change your life.
-  #BOOM
