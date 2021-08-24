@@ -7,87 +7,109 @@
         "id": "6839c7130ca65c5b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Hit the Front Page of HackerNews 202108232247.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7c6adb55ceeb891b",
-    "type": "mobile-drawer",
+    "id": "e00fc60d979fe0f4",
+    "type": "split",
     "children": [
       {
-        "id": "22acf9232cd46eb2",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "972be67346e900d4",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "bc5941031efa005d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a60c2b1b4a13fb3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0889365d05768c9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "c5927425d06e0236",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "5a97c68374740d1b",
-    "type": "mobile-drawer",
+    "id": "b8c135c7b3cb6d54",
+    "type": "split",
     "children": [
       {
-        "id": "ef401cad6c8bfdd3",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "6201850148b6cb80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20e49bd98f48fb58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sources/Hit the Front Page of HackerNews 202108232247.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0abecea0252ffc83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d76599fc7d2eafa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sources/Hit the Front Page of HackerNews 202108232247.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "2ce66f175f8f6454",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "6839c7130ca65c5b",
   "lastOpenFiles": [
+    "Sources/Hit the Front Page of HackerNews 202108232247.md",
     "Bins/tags/Todoist.md",
     "Inbox/Todo.md",
     "Inbox/App.md",
@@ -96,7 +118,6 @@
     "Bins/journal/daily/2021-08-19.md",
     "Bins/templates/daily.md",
     "Bins/templates/book.md",
-    "Bins/templates/article.md",
-    "Bins/queries/Readwise Inbox.md"
+    "Bins/templates/article.md"
   ]
 }
