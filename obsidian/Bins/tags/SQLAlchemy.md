@@ -2,3 +2,5 @@
 tags:
   - software
 ---
+
+[[Python]] [[ORM]]

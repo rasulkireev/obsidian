@@ -11,4 +11,4 @@ Bonus points if you share this with the world. This will make you more visible a
 - Audio -> Podcast
 - Writing -> Twitter, Blog
 
-Tags: [[Making History]], [[Documenting]], [[Writing]], [[Vlogging]], [[Blogging]], [[Podcasting]], [[Blogging]], [[Sharing]]
+Tags: [[Making History]], [[Documenting]], [[Writing]], [[Vlogging]], [[Blogging]], [[Podcast]], [[Blogging]], [[Sharing]]

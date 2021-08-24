@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7c7eb0b2842fd220",
+        "id": "e38ee2b91a19cea7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/books/Doing Time Right 202107261236.md",
+            "file": "Sources/Readwise/Your Music  People.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Reading",
+                "query": "tag:#Tag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,12 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 623
   },
   "right": {
     "id": "a675269dff9ecc17",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/books/Doing Time Right 202107261236.md",
+                "file": "Sources/Readwise/Your Music  People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/books/Doing Time Right 202107261236.md"
+                "file": "Sources/Readwise/Your Music  People.md"
               }
             }
           }
@@ -108,17 +107,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7c7eb0b2842fd220",
+  "active": "e38ee2b91a19cea7",
   "lastOpenFiles": [
-    "Sources/books/Doing Time Right 202107261236.md",
-    "Inbox/Untitled.md",
-    "Bins/tags/Dataview Plugin.md",
-    "Bins/tags/Market Toolkit.md",
-    "Bins/tags/OTB Chess.md",
-    "Sources/articles/Opening up the Solution Space - The Role of Analogical Thinking for Breakthrough Product Innovation.md",
-    "Sources/articles/Unskilled and Unaware of It - How Diffculties in Recognizing One’s Own Incompetence Lead to Infated Self-Assessments.md",
-    "Inbox/Hit the Front Page of HackerNews 202108232247.md",
-    "Bins/templates/person.md",
-    "Inbox/Michael Lynch.md"
+    "Sources/Readwise/Your Music  People.md",
+    "Bins/queries/Untitled.md",
+    "Bins/tags/Inbox.md",
+    "Inbox/Google.md",
+    "Bins/tags/Fatherhood.md",
+    "Bins/tags/Doist.md",
+    "Bins/tags/DiSSS Framework.md",
+    "Bins/tags/Data Modelling.md",
+    "Bins/tags/Community.md",
+    "Bins/tags/Clippings.io.md"
   ]
 }

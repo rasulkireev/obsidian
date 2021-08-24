@@ -111,5 +111,7 @@
       ],
       "key": "ArrowUp"
     }
-  ]
+  ],
+  "app:toggle-left-sidebar": [],
+  "app:toggle-right-sidebar": []
 }
