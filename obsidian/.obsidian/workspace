@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#plugin",
+                "query": "tag:#Reading",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
