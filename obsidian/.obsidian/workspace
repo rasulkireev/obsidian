@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "333125ca150c6824",
+        "id": "7c7eb0b2842fd220",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/tags/Dataview Plugin.md",
+            "file": "Sources/books/Doing Time Right 202107261236.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/tags/Dataview Plugin.md",
+                "file": "Sources/books/Doing Time Right 202107261236.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/tags/Dataview Plugin.md"
+                "file": "Sources/books/Doing Time Right 202107261236.md"
               }
             }
           }
@@ -108,8 +108,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "333125ca150c6824",
+  "active": "7c7eb0b2842fd220",
   "lastOpenFiles": [
+    "Sources/books/Doing Time Right 202107261236.md",
+    "Inbox/Untitled.md",
     "Bins/tags/Dataview Plugin.md",
     "Bins/tags/Market Toolkit.md",
     "Bins/tags/OTB Chess.md",
@@ -117,8 +119,6 @@
     "Sources/articles/Unskilled and Unaware of It - How Diffculties in Recognizing One’s Own Incompetence Lead to Infated Self-Assessments.md",
     "Inbox/Hit the Front Page of HackerNews 202108232247.md",
     "Bins/templates/person.md",
-    "Inbox/Michael Lynch.md",
-    "Bins/templates/Untitled.md",
-    "Bins/tags/Personal Website.md"
+    "Inbox/Michael Lynch.md"
   ]
 }
