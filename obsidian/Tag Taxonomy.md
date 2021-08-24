@@ -54,3 +54,4 @@ Over the span of the next few weeks I will be removing the "tag" tag from most n
 - Dropped -> dropped
 - Reading -> reading
 - planning
+- to_obsidian (likely that this was reviewed, but still needs to be linked and separated into smaller notes)

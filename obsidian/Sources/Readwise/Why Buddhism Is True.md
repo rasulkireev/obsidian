@@ -1,7 +1,8 @@
 ---
 status:
-  - not_reviewed
+  - reviewed
   - dropped
+  - to_obsidian
 tags: 
   - books
 ---
@@ -33,7 +34,7 @@ tags:
 
 #### The Truth about Mindfulness
 - To live mindfully is to pay attention to, to be “mindful of” what’s happening in the here and now and to experience it in a clear, direct way, unclouded by various mental obfuscations. Stop and smell the roses. This is an accurate description of mindfulness as far as it goes. But it doesn’t go very far. “Mindfulness,” as popularly conceived, is just the beginning of mindfulness. (Location 223)
-    - Note: Real mindfullness is a little deeper than what is usually meant.
+    - Note: Real [[Mindfullness]] is a little deeper than what is usually meant.
 
 ### 2 Paradoxes of Meditation
 - More and more, it seems, groups of people define their identity in terms of sharp opposition to other groups of people. (Location 309)

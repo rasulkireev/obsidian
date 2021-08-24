@@ -4,121 +4,99 @@
     "type": "split",
     "children": [
       {
-        "id": "30db848ff0c4e159",
+        "id": "6839c7130ca65c5b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sources/Readwise/Why Buddhism Is True.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5f0174cb8a7ecee9",
-    "type": "split",
+    "id": "7c6adb55ceeb891b",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "655c4e60c6a9a5d3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1f56cebda6fa7cc3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "9d725f5c81de85a8",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#Tag",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "22acf9232cd46eb2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "972be67346e900d4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "c5927425d06e0236",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 623
+    "currentTab": 0
   },
   "right": {
-    "id": "a675269dff9ecc17",
-    "type": "split",
+    "id": "5a97c68374740d1b",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1d238a7a70d6b900",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "45560c999b78854e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Sources/Readwise/Why Buddhism Is True.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "bc2049936fb17a26",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "6d6de9a5bcc89014",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Sources/Readwise/Why Buddhism Is True.md"
-              }
-            }
+        "id": "ef401cad6c8bfdd3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "2ce66f175f8f6454",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "30db848ff0c4e159",
+  "active": "6839c7130ca65c5b",
   "lastOpenFiles": [
-    "Sources/Readwise/Why Buddhism Is True.md",
-    "Inbox/Evolutionary Psychology.md",
-    "Bins/tags/Religion.md",
-    "Bins/tags/Psychology.md",
-    "Inbox/Buddhism.md",
-    "Bins/queries/Readwise Inbox.md",
-    "Bins/people/Tim Ferriss.md",
-    "Bins/tags/Writer.md",
-    "Sources/Readwise/Vagabonding.md",
-    "Tag Taxonomy.md"
+    "Bins/tags/Todoist.md",
+    "Inbox/Todo.md",
+    "Inbox/App.md",
+    "Bins/queries/TODOs.md",
+    "Bins/journal/weekly/Weekly Planning 2021-08-02.md",
+    "Bins/journal/daily/2021-08-19.md",
+    "Bins/templates/daily.md",
+    "Bins/templates/book.md",
+    "Bins/templates/article.md",
+    "Bins/queries/Readwise Inbox.md"
   ]
 }

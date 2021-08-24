@@ -15,6 +15,6 @@
 - [x] create an index page for docs uploads [[2021-08-05]]
 
 ## Friday
-- [ ] attempt completing dbt_gc docs upload [[2021-08-06]]
-- [ ] have fun at baseball [[2021-08-06]]
-- [ ] try getting $80k salary [[2021-08-06]]
+- [x] attempt completing dbt_gc docs upload [[2021-08-06]]
+- [x] have fun at baseball [[2021-08-06]]
+- [x] try getting $80k salary [[2021-08-06]]

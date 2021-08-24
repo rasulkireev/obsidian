@@ -1,0 +1,8 @@
+---
+tags:
+  - person
+---
+
+Tags:
+	- [[Writer]]
+
