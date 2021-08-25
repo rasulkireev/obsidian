@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/Hit the Front Page of HackerNews 202108232247.md",
-            "mode": "source"
+            "file": "Bins/queries/TODOs.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Hit the Front Page of HackerNews 202108232247.md",
+                "file": "Bins/queries/TODOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/Hit the Front Page of HackerNews 202108232247.md"
+                "file": "Bins/queries/TODOs.md"
               }
             }
           }
@@ -109,15 +109,15 @@
   },
   "active": "6839c7130ca65c5b",
   "lastOpenFiles": [
+    "Bins/queries/TODOs.md",
+    "Bins/queries/Articles to Read.md",
     "Sources/Hit the Front Page of HackerNews 202108232247.md",
     "Bins/tags/Todoist.md",
     "Inbox/Todo.md",
     "Inbox/App.md",
-    "Bins/queries/TODOs.md",
     "Bins/journal/weekly/Weekly Planning 2021-08-02.md",
     "Bins/journal/daily/2021-08-19.md",
     "Bins/templates/daily.md",
-    "Bins/templates/book.md",
-    "Bins/templates/article.md"
+    "Bins/templates/book.md"
   ]
 }
