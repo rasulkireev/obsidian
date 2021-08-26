@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/queries/TODOs.md",
-            "mode": "preview"
+            "file": "Inbox/adding json+ld data to gridsome 202108251650.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/queries/TODOs.md",
+                "file": "Inbox/adding json+ld data to gridsome 202108251650.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/queries/TODOs.md"
+                "file": "Inbox/adding json+ld data to gridsome 202108251650.md"
               }
             }
           }
@@ -109,6 +109,7 @@
   },
   "active": "6839c7130ca65c5b",
   "lastOpenFiles": [
+    "Inbox/Untitled.md",
     "Bins/queries/TODOs.md",
     "Bins/queries/Articles to Read.md",
     "Sources/Hit the Front Page of HackerNews 202108232247.md",
@@ -117,7 +118,6 @@
     "Inbox/App.md",
     "Bins/journal/weekly/Weekly Planning 2021-08-02.md",
     "Bins/journal/daily/2021-08-19.md",
-    "Bins/templates/daily.md",
-    "Bins/templates/book.md"
+    "Bins/templates/daily.md"
   ]
 }
