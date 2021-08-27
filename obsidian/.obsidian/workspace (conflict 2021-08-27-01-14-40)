@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "52f6e651eda7f43c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6839c7130ca65c5b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/adding json+ld data to gridsome 202108251650.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c5f5c761523e671",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "12c9f1c4010ce99d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "961d8c6b84d79490",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cb2f8d056437f3ad",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6630d2818e980dd8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6608a4da0c3b2e1e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Inbox/adding json+ld data to gridsome 202108251650.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "10865b3c6b855dba",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Inbox/adding json+ld data to gridsome 202108251650.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6839c7130ca65c5b",
+  "lastOpenFiles": [
+    "Inbox/adding json+ld data to gridsome 202108251650.md",
+    "Inbox/Untitled.md",
+    "Bins/queries/TODOs.md",
+    "Bins/queries/Articles to Read.md",
+    "Sources/Hit the Front Page of HackerNews 202108232247.md",
+    "Bins/tags/Todoist.md",
+    "Inbox/Todo.md",
+    "Inbox/App.md",
+    "Bins/journal/weekly/Weekly Planning 2021-08-02.md",
+    "Bins/journal/daily/2021-08-19.md"
+  ]
+}
