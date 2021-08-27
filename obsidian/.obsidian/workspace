@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "51542e7ff8b5a667",
+        "id": "0e36cb12398ae761",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/sourse of projects for builtwithdjango 202108270947.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/sourse of projects for builtwithdjango 202108270947.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/sourse of projects for builtwithdjango 202108270947.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -107,7 +101,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51542e7ff8b5a667",
+  "active": "0e36cb12398ae761",
   "lastOpenFiles": [
     "Inbox/Untitled.md",
     "Bins/queries/TODOs.md",
