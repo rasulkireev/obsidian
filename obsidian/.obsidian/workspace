@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6839c7130ca65c5b",
+        "id": "51542e7ff8b5a667",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/adding json+ld data to gridsome 202108251650.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/adding json+ld data to gridsome 202108251650.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/adding json+ld data to gridsome 202108251650.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -107,7 +101,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6839c7130ca65c5b",
+  "active": "51542e7ff8b5a667",
   "lastOpenFiles": [
     "Inbox/Untitled.md",
     "Bins/queries/TODOs.md",
