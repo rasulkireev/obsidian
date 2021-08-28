@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Output/creating a simple app in django - process 202108121129.md",
+            "file": "Inbox/building a chrome extension !202108281324.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Output/creating a simple app in django - process 202108121129.md",
+                "file": "Inbox/building a chrome extension !202108281324.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Output/creating a simple app in django - process 202108121129.md"
+                "file": "Inbox/building a chrome extension !202108281324.md"
               }
             }
           }
@@ -109,9 +109,9 @@
   },
   "active": "0e36cb12398ae761",
   "lastOpenFiles": [
+    "Inbox/Untitled.md",
     "Output/creating a simple app in django - process 202108121129.md",
     "Output/installing a simple app in django - process 202108121129.md",
-    "Inbox/Untitled.md",
     "Bins/queries/TODOs.md",
     "Bins/queries/Articles to Read.md",
     "Sources/Hit the Front Page of HackerNews 202108232247.md",
