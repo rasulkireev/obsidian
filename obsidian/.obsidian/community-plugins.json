@@ -6,5 +6,8 @@
   "obsidian-outliner",
   "obsidian-zoom",
   "dataview",
-  "readwise-official"
+  "readwise-official",
+  "code-block-copy",
+  "cm-editor-syntax-highlight-obsidian",
+  "calendar"
 ]

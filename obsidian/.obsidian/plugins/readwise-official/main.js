@@ -8211,8 +8211,7 @@ class ReadwiseSettingTab extends obsidian.PluginSettingTab {
                 .setPlaceholder('Defaults to: Readwise')
                 .setValue(this.plugin.settings.readwiseDir)
                 .onChange((value) => __awaiter(this, void 0, void 0, function* () {
-                const folderPath = value || "Readwise";
-                this.plugin.settings.readwiseDir = folderPath.replace(/\/+$/, "");
+                this.plugin.settings.readwiseDir = obsidian.normalizePath(value || "Readwise");
                 yield this.plugin.saveSettings();
             })));
             new obsidian.Setting(containerEl)

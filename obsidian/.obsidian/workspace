@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0e36cb12398ae761",
+        "id": "fd4751a3bbf35c94",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/building a chrome extension !202108281324.md",
+            "file": "Output/creating a simple app in django - process 202108121129.md",
             "mode": "source"
           }
         }
@@ -59,8 +59,9 @@
     "type": "split",
     "children": [
       {
-        "id": "6201850148b6cb80",
+        "id": "747f3221b60db4c5",
         "type": "tabs",
+        "dimension": 29.64684014869888,
         "children": [
           {
             "id": "20e49bd98f48fb58",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/building a chrome extension !202108281324.md",
+                "file": "Output/creating a simple app in django - process 202108121129.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,7 +79,14 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6201850148b6cb80",
+        "type": "tabs",
+        "dimension": 36.98884758364313,
+        "children": [
           {
             "id": "0abecea0252ffc83",
             "type": "leaf",
@@ -96,7 +104,58 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/building a chrome extension !202108281324.md"
+                "file": "Output/creating a simple app in django - process 202108121129.md"
+              }
+            }
+          },
+          {
+            "id": "1e76d54170392ebb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "db51a8189f9238bd",
+        "type": "tabs",
+        "dimension": 33.36431226765799,
+        "children": [
+          {
+            "id": "64b269bcdd5999d9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Output/creating a simple app in django - process 202108121129.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               }
             }
           }
@@ -104,20 +163,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "0e36cb12398ae761",
+  "active": "fd4751a3bbf35c94",
   "lastOpenFiles": [
-    "Inbox/Untitled.md",
     "Output/creating a simple app in django - process 202108121129.md",
+    "Inbox/how to set up email with django-anymail and mailgun.md",
+    "Inbox/Untitled.md",
     "Output/installing a simple app in django - process 202108121129.md",
     "Bins/queries/TODOs.md",
     "Bins/queries/Articles to Read.md",
     "Sources/Hit the Front Page of HackerNews 202108232247.md",
     "Bins/tags/Todoist.md",
     "Inbox/Todo.md",
-    "Inbox/App.md",
-    "Bins/journal/weekly/Weekly Planning 2021-08-02.md"
+    "Inbox/App.md"
   ]
 }
