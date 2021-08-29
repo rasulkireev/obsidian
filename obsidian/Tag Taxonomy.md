@@ -18,6 +18,7 @@ Over the span of the next few weeks I will be removing the "tag" tag from most n
 - skill
 - community
 - code
+- science
 
 ### sources
 - book

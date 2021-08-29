@@ -1,1 +1,4 @@
-#Tag 
+---
+aliases:
+  - newsletter 
+---
