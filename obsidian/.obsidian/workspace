@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3f69c85d6f81fe78",
+        "id": "477415761575ac24",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,17 +157,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3f69c85d6f81fe78",
+  "active": "477415761575ac24",
   "lastOpenFiles": [
-    "Bins/tags/Happy.md",
-    "Bins/tags/Food.md",
-    "Bins/tags/Fear.md",
-    "Bins/tags/Facebook.md",
-    "Bins/tags/Eggs.md",
-    "Bins/tags/City.md",
-    "Tag Taxonomy.md",
-    "Bins/tags/Building in Public.md",
-    "Bins/tags/Blitz.md",
-    "Bins/tags/Biology.md"
+    "Bins/people/Matt D'Avella.md",
+    "Inbox/Todo.md",
+    "Inbox/KSI.md",
+    "Inbox/Matt D'Avella.md",
+    "Bins/queries/Untitled.md",
+    "Bins/queries/Articles to Read.md",
+    "Sources/Readwise/The Art of Learning.md",
+    "Bins/queries/Article Ideas.md",
+    "Bins/queries/Active Projects.md",
+    "Bins/tags/Inbox.md"
   ]
 }

@@ -1,1 +1,1 @@
-#Tag 
+[[Stoicism | Stoic ]] practice of [[Imagination | imagining]] the worst outcome possible to be happy for what you have and realising that even in the worst case scenario, all is not so bad. No need to [[Fear]]. This is very analgous, or rather virtually the same as [[Fear Setting]].
