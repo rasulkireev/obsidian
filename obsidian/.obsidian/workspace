@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5592a29de48cde91",
+        "id": "3f69c85d6f81fe78",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -158,17 +158,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5592a29de48cde91",
+  "active": "3f69c85d6f81fe78",
   "lastOpenFiles": [
+    "Bins/tags/Happy.md",
+    "Bins/tags/Food.md",
+    "Bins/tags/Fear.md",
+    "Bins/tags/Facebook.md",
     "Bins/tags/Eggs.md",
     "Bins/tags/City.md",
     "Tag Taxonomy.md",
     "Bins/tags/Building in Public.md",
     "Bins/tags/Blitz.md",
-    "Bins/tags/Biology.md",
-    "Bins/journal/daily/2021-08-29.md",
-    "Inbox/Untitled.md",
-    "Inbox/Matt D'Avella.md",
-    "Inbox/Youtuber.md"
+    "Bins/tags/Biology.md"
   ]
 }

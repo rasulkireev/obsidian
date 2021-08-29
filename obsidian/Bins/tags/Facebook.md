@@ -1,6 +1,5 @@
 ---
 tags:
-  - tag
   - company/tech
 ---
 
