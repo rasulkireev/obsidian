@@ -59,9 +59,21 @@ Here I'll write down my experience creating my own token. I'll be following few 
 		from dotenv import load_dotenv
 
 		load_dotenv()
-		INFURA_PROJECT_ID = os.getenv("INFURA_PROJECT_ID")
+		INFURA_PROJECT_ID = os.getenv("WEB3_INFURA_PROJECT_ID")
 		```
 			
 1. added `wallets` key to the brownie-config file to be able to access private_key in the console. Add via ${PRIVATE_KEY} syntax. 
 	> ! Warning it will be seen in console when compiled
 2. Add the account [locally](https://eth-brownie.readthedocs.io/en/stable/account-management.html#local-accounts) like this `poetry run brownie accounts new {account name you want}`. Replace `{account name you want}` with an account name you want. You will be asked for a PRIVATE_KEY and PASSWORD. For the PRIVATE_KEY use the the key that you saved in .env file. For password, come up with a password (preferrably with a password generator like BitWarden and save it).
+3. added unlock key to brownie config to "unlock" the new account: 
+```yaml
+networks:
+    default: development
+    development:
+        cmd_settings:
+          port: 7545
+          unlock: # new
+            - 0x7E1E3334130355799F833ffec2D731BCa3E68aF6 # new
+```
+
+1. 
