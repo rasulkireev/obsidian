@@ -23,3 +23,4 @@ Here I'll write down my experience creating my own token. I'll be following few 
 7. add `vyper` as a dependency `poetry add vyper`
 	1. If there are any poetry versioning issue (e.g. `eth-brownie` depends on `vyper {version something, something}` ) install vyper like this: `poetry add vyper@^{required version}`
 8. (Optional) install pre-commit and add pre-commit yaml file.
+9. Run `poetry run brownie console` to start exploring 
