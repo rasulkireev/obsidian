@@ -45,5 +45,6 @@ Here I'll write down my experience creating my own token. I'll be following few 
 		```
 	4. Run `poetry run brownie console` to start exploring
 	5. in the console run `accounts` and you should see the same list as in the ganache ui
+	6. try doing some actions on [accounts](https://eth-brownie.readthedocs.io/en/stable/core-accounts.html), transaction and [contracts](https://eth-brownie.readthedocs.io/en/stable/core-contracts.html)
 
 10. 
