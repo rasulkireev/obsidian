@@ -47,4 +47,19 @@ Here I'll write down my experience creating my own token. I'll be following few 
 	5. in the console run `accounts` and you should see the same list as in the ganache ui
 	6. try doing some actions on [accounts](https://eth-brownie.readthedocs.io/en/stable/core-accounts.html), transaction and [contracts](https://eth-brownie.readthedocs.io/en/stable/core-contracts.html)
 
-10. 
+1. created a project on infura.io, created a new wallet on metamask
+2. created a .env file in the root of the project and added it to .gitignore
+3. added the infura.io project id and metamask wallet private key as env variables in .env file
+4. added python-dotenv dependency to make it easy to work with env variables
+	1. if you ever run into an issue with dependency versioning like below try installing the exact version that is "requested". This is because `eth-brownie` is somewhat strict on versions it uses for some packages.![[poetry versioning error 202108301718.png]]
+	2. load in env variables like so ([commit](https://github.com/rasulkireev/razzle-dazzle/commit/1c2bcdba52bf5e4d54301787b765b1edda815c03)) :
+		```python
+		#!/usr/bin/python3
+		import os
+		from dotenv import load_dotenv
+
+		load_dotenv()
+		INFURA_PROJECT_ID = os.getenv("INFURA_PROJECT_ID")
+		```
+			
+14. 
