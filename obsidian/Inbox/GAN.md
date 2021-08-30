@@ -2,5 +2,5 @@
 aliases:
   - Generative Adversarial Networks
 tag:
-- \software
+  - software
 ---
