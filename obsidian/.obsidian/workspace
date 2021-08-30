@@ -7,8 +7,22 @@
         "id": "477415761575ac24",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Bins/journal/daily/2021-08-30.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f419389cf441fafd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/GAN.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/GAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/GAN.md"
+              }
             }
           },
           {
@@ -123,6 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Inbox/GAN.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +163,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.24520743980562337,
                   "close": true
                 }
               }
@@ -157,17 +175,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "477415761575ac24",
+  "active": "f419389cf441fafd",
   "lastOpenFiles": [
+    "Inbox/GAN.md",
+    "Bins/journal/daily/2021-08-30.md",
+    "Bins/tags/Creation.md",
+    "Bins/tags/Experiment.md",
+    "Inbox/Web3.md",
+    "Inbox/FOMO.md",
+    "Inbox/Cryptocurrency.md",
     "Bins/people/Matt D'Avella.md",
     "Inbox/Todo.md",
-    "Inbox/KSI.md",
-    "Inbox/Matt D'Avella.md",
-    "Bins/queries/Untitled.md",
-    "Bins/queries/Articles to Read.md",
-    "Sources/Readwise/The Art of Learning.md",
-    "Bins/queries/Article Ideas.md",
-    "Bins/queries/Active Projects.md",
-    "Bins/tags/Inbox.md"
+    "Inbox/KSI.md"
   ]
 }
