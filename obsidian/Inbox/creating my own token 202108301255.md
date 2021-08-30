@@ -62,4 +62,6 @@ Here I'll write down my experience creating my own token. I'll be following few 
 		INFURA_PROJECT_ID = os.getenv("INFURA_PROJECT_ID")
 		```
 			
-14. 
+1. added `wallets` key to the brownie-config file to be able to access private_key in the console. Add via ${PRIVATE_KEY} syntax. 
+	> ! Warning it will be seen in console when compiled
+2. 
