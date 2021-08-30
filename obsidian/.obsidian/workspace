@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "76ea0edd93c10e09",
-        "type": "split",
-        "children": [
-          {
-            "id": "477415761575ac24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bins/journal/daily/2021-08-30.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "0854296fe0653982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Output/Project Ideas 202107291607.md",
-                "mode": "source"
-              }
-            }
+        "id": "80da255a05879851",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/dipping my toes in web3py 202108301255.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -87,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Output/Project Ideas 202107291607.md",
+                "file": "Inbox/dipping my toes in web3py 202108301255.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Output/Project Ideas 202107291607.md"
+                "file": "Inbox/dipping my toes in web3py 202108301255.md"
               }
             }
           },
@@ -147,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Output/Project Ideas 202107291607.md",
+                "file": "Inbox/dipping my toes in web3py 202108301255.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,17 +164,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0854296fe0653982",
+  "active": "80da255a05879851",
   "lastOpenFiles": [
-    "Output/Project Ideas 202107291607.md",
+    "Inbox/Untitled.md",
     "Bins/journal/daily/2021-08-30.md",
+    "Output/Project Ideas 202107291607.md",
     "Inbox/OpenSea.md",
     "Inbox/NFT.md",
     "Inbox/Marketplace.md",
     "Inbox/GAN.md",
     "Bins/tags/Creation.md",
     "Bins/tags/Experiment.md",
-    "Inbox/Web3.md",
-    "Inbox/FOMO.md"
+    "Inbox/Web3.md"
   ]
 }
