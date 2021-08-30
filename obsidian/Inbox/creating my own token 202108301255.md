@@ -8,6 +8,7 @@ tags:
 ---
 
 Goal: Deploy my own token named razzle-dazzle
+Repo: https://github.com/rasulkireev/razzle-dazzle
 
 Here I'll write down my experience creating my own token. I'll be following few tutorials, and will try to link to all of them.
 
@@ -20,3 +21,5 @@ Here I'll write down my experience creating my own token. I'll be following few 
 5. upgraded the pytest version (required by `eth-brownie`)  via `poetry add -D pytest@latest`
 6. add `eth-brownie` as a dep via `poetry add eth-brownie`
 7. add `vyper` as a dependency `poetry add vyper`
+	1. If there are any poetry versioning issue (e.g. `eth-brownie` depends on `vyper {version something, something}` ) install vyper like this: `poetry add vyper@^{required version}`
+8. (Optional) install pre-commit and add pre-commit yaml file.
