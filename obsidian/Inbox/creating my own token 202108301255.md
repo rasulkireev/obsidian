@@ -23,4 +23,27 @@ Here I'll write down my experience creating my own token. I'll be following few 
 7. add `vyper` as a dependency `poetry add vyper`
 	1. If there are any poetry versioning issue (e.g. `eth-brownie` depends on `vyper {version something, something}` ) install vyper like this: `poetry add vyper@^{required version}`
 8. (Optional) install pre-commit and add pre-commit yaml file.
-9. Run `poetry run brownie console` to start exploring 
+9. open up the brownie console
+	1. Open up ganache ui ([download link](https://www.trufflesuite.com/ganache)) 
+	2. see what port is the server on.
+	3. in `brownie-config.yaml` modify the following block:
+		```yaml
+		networks:
+			default: development
+			development:
+				...
+				cmd_settings: null
+		```
+				to this
+		```yaml
+		networks:
+			default: development
+			development:
+				...
+				cmd_settings:
+				  port: 7545
+		```
+	4. Run `poetry run brownie console` to start exploring
+	5. in the console run `accounts` and you should see the same list as in the ganache ui
+
+10. 
