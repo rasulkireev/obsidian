@@ -86,4 +86,9 @@ def main():
 	1. if you receving an error like this:
 	> HTTPError: 403 Client Error: Forbidden for url: https://polygon-mumbai.infura.io/v3/0f07ea70a44c46a8b5b205226e91750f
 
-	This could be because infura server is experienceing latency issues. Give this another try a little later, or check their status page ([link](https://status.infura.io)) 
+	This could be one of two things.
+			1. You have to enable the Polygon PoS Addon in your Infura account plan ([link](https://infura.io/payment))
+			2. because infura server is experienceing latency issues. Give this another try a little later, or check their status page ([link](https://status.infura.io)) 
+
+1. When you can finally run this you will probably get the error that you don't have enough gas. To resolve this go the [following lijnk](https://blog.pods.finance/guide-connecting-mumbai-testnet-to-your-metamask-87978071aca8) and stup the mumbai test polygon network and add some MATIC to the wallet and then repeat. You should be good to go.
+2. Next is to try deploying to Polygon Network.
