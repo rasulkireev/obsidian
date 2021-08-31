@@ -82,3 +82,8 @@ def main():
 1. Let's test this on the Rankeby network. Run `poetry run brownie run token.py --network rinkeby` in your terminal. You will be asked for the wallet password that we created earlier.
 2. Once the request completes, take the address from `Token deployed at:`line and copy it. Go to your Metamask wallet and click on Add Token. There enter token address and other info should auto populate. Click Add and Et Voila! You have created a token!
 3. If you are happy with how this turned out you can try deploying your token on the Polygon Network, next.
+4. To do that first run on the polygon test networks like so `poetry run brownie run token.py --network polygon-test`
+	1. if you receving an error like this:
+	> HTTPError: 403 Client Error: Forbidden for url: https://polygon-mumbai.infura.io/v3/0f07ea70a44c46a8b5b205226e91750f
+
+	This could be because infura server is experienceing latency issues. Give this another try a little later, or check their status page ([link](https://status.infura.io)) 
