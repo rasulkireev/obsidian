@@ -76,7 +76,9 @@ from brownie import Token, accounts
 
 def main():
     account = accounts.load('razzle-dazzle-wallet') #new
-    return Token.deploy("Razzle Dazzle", "RD", 18, 100, {"from": account})
+    return Token.deploy("Razzle Dazzle", "RD", 18, 1e20, {"from": account})
 	```
-	
-2. 
+> Note: 18 in the function above refers to the number of digits the token will have and the second number refers to the amount of token you want to be produced. In my case there should be 100 tokens created.
+1. Let's test this on the Rankeby network. Run `poetry run brownie run token.py --network rinkeby` in your terminal. You will be asked for the wallet password that we created earlier.
+2. Once the request completes, take the address from `Token deployed at:`line and copy it. Go to your Metamask wallet and click on Add Token. There enter token address and other info should auto populate. Click Add and Et Voila! You have created a token!
+3. If you are happy with how this turned out you can try deploying your token on the Polygon Network, next.
