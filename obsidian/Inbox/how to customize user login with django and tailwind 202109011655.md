@@ -10,3 +10,5 @@ tags:
   - [[TailwindCSS]]
 
 good post that helped me -> https://www.notimedad.dev/customizing-django-builtin-login-form/
+
+styling error output can be done wit ErrorList class like here:
