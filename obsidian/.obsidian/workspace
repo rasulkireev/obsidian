@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/creating my own token 202108301255.md",
+            "file": "Inbox/how to customize user login with django and tailwind 202109011655.md",
             "mode": "source"
           }
         }
@@ -18,99 +18,163 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e2942a33f66eb510",
-    "type": "mobile-drawer",
+    "id": "e00fc60d979fe0f4",
+    "type": "split",
     "children": [
       {
-        "id": "1393c70767c58f71",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "cde1be0a5e7f8cd8",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "bc5941031efa005d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a60c2b1b4a13fb3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0889365d05768c9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Tag",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "4a8d5e037d0f2dbf",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "e039037483f3a5be",
-    "type": "mobile-drawer",
+    "id": "b8c135c7b3cb6d54",
+    "type": "split",
     "children": [
       {
-        "id": "63f9438cdd9cf3ab",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        "id": "747f3221b60db4c5",
+        "type": "tabs",
+        "dimension": 29.646840148698878,
+        "children": [
+          {
+            "id": "20e49bd98f48fb58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox/how to customize user login with django and tailwind 202109011655.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
       },
       {
-        "id": "c41475169ac8c000",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Inbox/creating my own token 202108301255.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "6201850148b6cb80",
+        "type": "tabs",
+        "dimension": 36.98884758364313,
+        "children": [
+          {
+            "id": "0abecea0252ffc83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d76599fc7d2eafa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox/how to customize user login with django and tailwind 202109011655.md"
+              }
+            }
+          },
+          {
+            "id": "1e76d54170392ebb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        }
+        ]
       },
       {
-        "id": "ff4d4a119cbc4193",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Inbox/creating my own token 202108301255.md"
+        "id": "db51a8189f9238bd",
+        "type": "tabs",
+        "dimension": 33.36431226765799,
+        "children": [
+          {
+            "id": "64b269bcdd5999d9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Inbox/how to customize user login with django and tailwind 202109011655.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.24520743980562337,
+                  "close": true
+                }
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "active": "80da255a05879851",
   "lastOpenFiles": [
-    "Inbox/creating my own token 202108301255.md",
+    "Inbox/how to customize user login with django and tailwind 202109011655.md",
+    "Inbox/TailwindCSS.md",
+    "Inbox/CSS.md",
     "Inbox/Untitled.md",
+    "Inbox/creating my own token 202108301255.md",
     "Bins/journal/daily/2021-08-30.md",
     "Output/Project Ideas 202107291607.md",
     "Inbox/OpenSea.md",
     "Inbox/NFT.md",
-    "Inbox/Marketplace.md",
-    "Inbox/GAN.md",
-    "Bins/tags/Creation.md",
-    "Bins/tags/Experiment.md"
+    "Inbox/Marketplace.md"
   ]
 }
