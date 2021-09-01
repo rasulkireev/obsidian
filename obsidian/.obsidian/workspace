@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c33905bd4fa77544",
+        "id": "45e05f1ee7de09f6",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -157,7 +157,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c33905bd4fa77544",
+  "active": "45e05f1ee7de09f6",
   "lastOpenFiles": [
     "Inbox/django allauth authentication 202109011755.md",
     "Inbox/django-allauth.md",
