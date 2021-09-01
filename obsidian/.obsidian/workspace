@@ -61,7 +61,7 @@
       {
         "id": "747f3221b60db4c5",
         "type": "tabs",
-        "dimension": 29.64684014869888,
+        "dimension": 29.646840148698878,
         "children": [
           {
             "id": "20e49bd98f48fb58",
@@ -166,6 +166,7 @@
   },
   "active": "80da255a05879851",
   "lastOpenFiles": [
+    "Inbox/creating my own token 202108301255.md",
     "Inbox/Untitled.md",
     "Bins/journal/daily/2021-08-30.md",
     "Output/Project Ideas 202107291607.md",
@@ -174,7 +175,6 @@
     "Inbox/Marketplace.md",
     "Inbox/GAN.md",
     "Bins/tags/Creation.md",
-    "Bins/tags/Experiment.md",
-    "Inbox/Web3.md"
+    "Bins/tags/Experiment.md"
   ]
 }
