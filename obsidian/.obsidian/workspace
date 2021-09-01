@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80da255a05879851",
+        "id": "c33905bd4fa77544",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/how to customize user login with django and tailwind 202109011655.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/how to customize user login with django and tailwind 202109011655.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/how to customize user login with django and tailwind 202109011655.md"
-              }
+              "state": {}
             }
           },
           {
@@ -129,7 +123,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/how to customize user login with django and tailwind 202109011655.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,17 +157,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "80da255a05879851",
+  "active": "c33905bd4fa77544",
   "lastOpenFiles": [
+    "Inbox/django allauth authentication 202109011755.md",
+    "Inbox/django-allauth.md",
+    "Inbox/Authenication.md",
+    "Inbox/Untitled.md",
     "Inbox/how to customize user login with django and tailwind 202109011655.md",
     "Inbox/TailwindCSS.md",
     "Inbox/CSS.md",
-    "Inbox/Untitled.md",
     "Inbox/creating my own token 202108301255.md",
     "Bins/journal/daily/2021-08-30.md",
-    "Output/Project Ideas 202107291607.md",
-    "Inbox/OpenSea.md",
-    "Inbox/NFT.md",
-    "Inbox/Marketplace.md"
+    "Output/Project Ideas 202107291607.md"
   ]
 }
