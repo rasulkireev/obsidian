@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/django allauth authentication 202109011755.md",
+            "file": "Output/Project Ideas 202107291607.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/django allauth authentication 202109011755.md",
+                "file": "Output/Project Ideas 202107291607.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/django allauth authentication 202109011755.md"
+                "file": "Output/Project Ideas 202107291607.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/django allauth authentication 202109011755.md",
+                "file": "Output/Project Ideas 202107291607.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,6 +166,7 @@
   },
   "active": "45e05f1ee7de09f6",
   "lastOpenFiles": [
+    "Output/Project Ideas 202107291607.md",
     "Inbox/django allauth authentication 202109011755.md",
     "Inbox/django-allauth.md",
     "Inbox/Authenication.md",
@@ -174,7 +175,6 @@
     "Inbox/TailwindCSS.md",
     "Inbox/CSS.md",
     "Inbox/creating my own token 202108301255.md",
-    "Bins/journal/daily/2021-08-30.md",
-    "Output/Project Ideas 202107291607.md"
+    "Bins/journal/daily/2021-08-30.md"
   ]
 }
