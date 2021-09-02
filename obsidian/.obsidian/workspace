@@ -7,8 +7,11 @@
         "id": "45e05f1ee7de09f6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/django allauth authentication 202109011755.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/django allauth authentication 202109011755.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/django allauth authentication 202109011755.md"
+              }
             }
           },
           {
@@ -123,6 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Inbox/django allauth authentication 202109011755.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
