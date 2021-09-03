@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "52f6e651eda7f43c",
+    "type": "split",
+    "children": [
+      {
+        "id": "45e05f1ee7de09f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/django allauth authentication 202109011755.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5dec1779e83eca91",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c2d9da80f1e71c49",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "9f47e831ab092022",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2b9822a319511673",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4702a75958e07e21",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6d8d8c311c4358f7",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "d5ea2ad286a886e0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Inbox/django allauth authentication 202109011755.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2f37c596fbd1747c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Inbox/django allauth authentication 202109011755.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "45e05f1ee7de09f6",
+  "lastOpenFiles": [
+    "Inbox/django allauth authentication 202109011755.md",
+    "Inbox/django-allauth.md",
+    "Inbox/Authenication.md",
+    "Inbox/Untitled.md",
+    "Inbox/how to customize user login with django and tailwind 202109011655.md",
+    "Inbox/TailwindCSS.md",
+    "Inbox/CSS.md",
+    "Inbox/creating my own token 202108301255.md",
+    "Bins/journal/daily/2021-08-30.md",
+    "Output/Project Ideas 202107291607.md"
+  ]
+}
