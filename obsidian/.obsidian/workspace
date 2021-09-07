@@ -167,6 +167,7 @@
   "active": "6d2c3ab8d8d58bfc",
   "lastOpenFiles": [
     "Bins/journal/daily/2021-09-07.md",
+    "Inbox/Diet.md",
     "Inbox/creating my own token 202108301255.md",
     "Sources/Readwise/How to Take Smart Notes.md",
     "Output/Project Ideas 202107291607.md",
@@ -174,7 +175,6 @@
     "Inbox/django-allauth.md",
     "Inbox/Authenication.md",
     "Inbox/Untitled.md",
-    "Inbox/how to customize user login with django and tailwind 202109011655.md",
-    "Inbox/TailwindCSS.md"
+    "Inbox/how to customize user login with django and tailwind 202109011655.md"
   ]
 }
