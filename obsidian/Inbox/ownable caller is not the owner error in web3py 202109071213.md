@@ -43,5 +43,7 @@ this might give you a following error:
 Well, to resolve this issue you can simply add the from key to the estimateGas() function, like so:
 
 ```python
-nft_contract.functions.mintNFT(PUBLIC_KEY, tokenURI).estimateGas()
+nft_contract.functions.mintNFT(PUBLIC_KEY, "Qmeh2s7bZDCve7KBDiaa6mtkxgdNXjB6xMq8gecatqGkHm").estimateGas({"from": PUBLIC_KEY})
 ```
+
+This should make it work.
