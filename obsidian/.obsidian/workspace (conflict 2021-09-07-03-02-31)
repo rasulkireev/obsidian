@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "52f6e651eda7f43c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d2c3ab8d8d58bfc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/creating my own token 202108301255.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acc9bd09a2bac26d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "52a8822f25c4f37e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "dcf70bf88928b38e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f7a075d5abf3a0e8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a265d45ec888fb9c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ab5181ef33d5e9c9",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "f979a218e02f61de",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Inbox/creating my own token 202108301255.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d37478eab9d2f833",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Inbox/creating my own token 202108301255.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6d2c3ab8d8d58bfc",
+  "lastOpenFiles": [
+    "Inbox/creating my own token 202108301255.md",
+    "Sources/Readwise/How to Take Smart Notes.md",
+    "Output/Project Ideas 202107291607.md",
+    "Inbox/django allauth authentication 202109011755.md",
+    "Inbox/django-allauth.md",
+    "Inbox/Authenication.md",
+    "Inbox/Untitled.md",
+    "Inbox/how to customize user login with django and tailwind 202109011655.md",
+    "Inbox/TailwindCSS.md",
+    "Inbox/CSS.md"
+  ]
+}
