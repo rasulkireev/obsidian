@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/journal/daily/2021-09-07.md",
+            "file": "Inbox/ownable caller is not the owner error in web3py 202109071213.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/journal/daily/2021-09-07.md",
+                "file": "Inbox/ownable caller is not the owner error in web3py 202109071213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/journal/daily/2021-09-07.md"
+                "file": "Inbox/ownable caller is not the owner error in web3py 202109071213.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bins/journal/daily/2021-09-07.md",
+                "file": "Inbox/ownable caller is not the owner error in web3py 202109071213.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,15 +166,15 @@
   },
   "active": "6d2c3ab8d8d58bfc",
   "lastOpenFiles": [
+    "Inbox/ownable caller is not the owner error in web3py 202109071213.md",
+    "Inbox/web3py.md",
+    "Inbox/Smart Contract.md",
+    "Inbox/Ethereum.md",
+    "Inbox/Blockchain.md",
+    "Inbox/Untitled.md",
     "Bins/journal/daily/2021-09-07.md",
     "Inbox/Diet.md",
     "Inbox/creating my own token 202108301255.md",
-    "Sources/Readwise/How to Take Smart Notes.md",
-    "Output/Project Ideas 202107291607.md",
-    "Inbox/django allauth authentication 202109011755.md",
-    "Inbox/django-allauth.md",
-    "Inbox/Authenication.md",
-    "Inbox/Untitled.md",
-    "Inbox/how to customize user login with django and tailwind 202109011655.md"
+    "Sources/Readwise/How to Take Smart Notes.md"
   ]
 }
