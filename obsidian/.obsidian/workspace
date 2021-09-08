@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bins/journal/daily/2021-09-07.md",
-            "mode": "source"
+            "file": "Bins/queries/TODOs.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/journal/daily/2021-09-07.md",
+                "file": "Bins/queries/TODOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/journal/daily/2021-09-07.md"
+                "file": "Bins/queries/TODOs.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bins/journal/daily/2021-09-07.md",
+                "file": "Bins/queries/TODOs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,6 +166,7 @@
   },
   "active": "6d2c3ab8d8d58bfc",
   "lastOpenFiles": [
+    "Bins/queries/TODOs.md",
     "Bins/journal/daily/2021-09-07.md",
     "Inbox/ownable caller is not the owner error in web3py 202109071213.md",
     "Inbox/web3py.md",
@@ -174,7 +175,6 @@
     "Inbox/Blockchain.md",
     "Inbox/Untitled.md",
     "Inbox/Diet.md",
-    "Inbox/creating my own token 202108301255.md",
-    "Sources/Readwise/How to Take Smart Notes.md"
+    "Inbox/creating my own token 202108301255.md"
   ]
 }
