@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d2c3ab8d8d58bfc",
+        "id": "fe2c6dbff6f9e717",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bins/queries/TODOs.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/queries/TODOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bins/queries/TODOs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -129,7 +123,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bins/queries/TODOs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,17 +157,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6d2c3ab8d8d58bfc",
+  "active": "fe2c6dbff6f9e717",
   "lastOpenFiles": [
-    "Bins/queries/TODOs.md",
-    "Bins/journal/daily/2021-09-07.md",
-    "Inbox/ownable caller is not the owner error in web3py 202109071213.md",
-    "Inbox/web3py.md",
+    "Bins/journal/daily/2021-09-08.md",
+    "Inbox/Cistercian Dates NFT.md",
+    "Inbox/Pinata 202109081330.md",
+    "Inbox/IPFS.md",
     "Inbox/Smart Contract.md",
-    "Inbox/Ethereum.md",
-    "Inbox/Blockchain.md",
-    "Inbox/Untitled.md",
-    "Inbox/Diet.md",
-    "Inbox/creating my own token 202108301255.md"
+    "Inbox/Vyper 202109081326.md",
+    "Bins/tags/Python.md",
+    "Inbox/Solidity.md",
+    "Bins/tags/Javascript.md",
+    "Inbox/Programming Language.md"
   ]
 }

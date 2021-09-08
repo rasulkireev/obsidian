@@ -5,6 +5,7 @@ Over the span of the next few weeks I will be removing the "tag" tag from most n
 	- clothing
 	- tech
 - software
+	- crypto
 - location
 	- city
 	- country
