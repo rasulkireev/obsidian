@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "fe2c6dbff6f9e717",
+        "id": "302888848ef80e80",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tag",
+                "query": "tag:#company/tech",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,17 +158,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fe2c6dbff6f9e717",
+  "active": "302888848ef80e80",
   "lastOpenFiles": [
+    "Bins/journal/daily/2021-09-15.md",
+    "Bins/tags/Chess.md",
+    "Bins/tags/Twitter.md",
+    "Bins/tags/Facebook.md",
+    "Inbox/Reddit.md",
     "Bins/journal/daily/2021-09-08.md",
     "Inbox/Cistercian Dates NFT.md",
     "Inbox/Pinata 202109081330.md",
     "Inbox/IPFS.md",
-    "Inbox/Smart Contract.md",
-    "Inbox/Vyper 202109081326.md",
-    "Bins/tags/Python.md",
-    "Inbox/Solidity.md",
-    "Bins/tags/Javascript.md",
-    "Inbox/Programming Language.md"
+    "Inbox/Smart Contract.md"
   ]
 }

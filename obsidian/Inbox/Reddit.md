@@ -1,6 +1,6 @@
 ---
+aliases:
+  - 
 tags:
-  - company/tech
   - company/social
 ---
-
