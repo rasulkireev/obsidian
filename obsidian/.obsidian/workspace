@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "27008b44c2c32823",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inbox/Cistercian Date NFT.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Cistercian Date NFT.md",
+                "file": "Bins/journal/daily/2021-09-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Cistercian Date NFT.md"
+                "file": "Bins/journal/daily/2021-09-17.md"
               }
             }
           },
@@ -141,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Cistercian Date NFT.md",
+                "file": "Bins/journal/daily/2021-09-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,17 +165,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "27008b44c2c32823",
+  "active": "302888848ef80e80",
   "lastOpenFiles": [
-    "Inbox/Cistercian Date NFT.md",
     "Bins/journal/daily/2021-09-17.md",
+    "Inbox/creating my own token 202108301255.md",
+    "Inbox/OTB Chess Blog.md",
+    "Inbox/Cistercian Date NFT.md",
     "Inbox/ABODE.md",
     "Inbox/Angular.md",
     "Inbox/Elasticsearch.md",
     "Inbox/Shriram Krishnamurthy.md",
     "Inbox/IT.md",
-    "Inbox/Senior Solutions Architect.md",
-    "Bins/journal/daily/2021-09-15.md",
-    "Bins/tags/Chess.md"
+    "Inbox/Senior Solutions Architect.md"
   ]
 }
