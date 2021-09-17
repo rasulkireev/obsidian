@@ -7,8 +7,22 @@
         "id": "302888848ef80e80",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Bins/journal/daily/2021-09-17.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "27008b44c2c32823",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/Cistercian Date NFT.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Cistercian Date NFT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/Cistercian Date NFT.md"
+              }
             }
           },
           {
@@ -124,6 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Inbox/Cistercian Date NFT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,17 +176,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "302888848ef80e80",
+  "active": "27008b44c2c32823",
   "lastOpenFiles": [
+    "Inbox/Cistercian Date NFT.md",
+    "Bins/journal/daily/2021-09-17.md",
+    "Inbox/ABODE.md",
+    "Inbox/Angular.md",
+    "Inbox/Elasticsearch.md",
+    "Inbox/Shriram Krishnamurthy.md",
+    "Inbox/IT.md",
+    "Inbox/Senior Solutions Architect.md",
     "Bins/journal/daily/2021-09-15.md",
-    "Bins/tags/Chess.md",
-    "Bins/tags/Twitter.md",
-    "Bins/tags/Facebook.md",
-    "Inbox/Reddit.md",
-    "Bins/journal/daily/2021-09-08.md",
-    "Inbox/Cistercian Dates NFT.md",
-    "Inbox/Pinata 202109081330.md",
-    "Inbox/IPFS.md",
-    "Inbox/Smart Contract.md"
+    "Bins/tags/Chess.md"
   ]
 }
